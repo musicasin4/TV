@@ -1,33 +1,1327 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/151/189/png-clipart-televisa-logo-xhgc-tdt-canal-5-business-business-television-text-thumbnail.png",,Televisa Telenovela Channel France
+#EXTINF:36,Televisa Telenovela Channel France
 https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/151/189/png-clipart-televisa-logo-xhgc-tdt-canal-5-business-business-television-text-thumbnail.png",Televisa Telenovelas
+#EXTINF:32,Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5BDImW.png",Telemundo PR (1080p)
+#EXTINF:60,Telemundo PR (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5BDImW.png",Telemundo Accion
+#EXTINF:0,Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5BDImW.png",Telemundo Romance
+#EXTINF:0,Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe (720p)
+#EXTINF:0,Telefe (720p)
 http://104.238.205.28:8989/278773_.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg",MTV (1080p)
+#EXTINF:0,MTV (1080p)
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg",MTV Asia (1080p)
+#EXTINF:0,MTV Asia (1080p)
 https://hkali.youyouko.com/api/streams/live/cs323/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg",MTV en Español
+#EXTINF:0,MTV en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg=w600-h300-pc0xffffff-pd",FIFA Plus
+#EXTINF:0,FIFA Plus
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg=w600-h300-pc0xffffff-pd",FIFA+ France
+#EXTINF:0,FIFA+ France
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg=w600-h300-pc0xffffff-pd",FIFA+ Germany
+#EXTINF:0,FIFA+ Germany
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg=w600-h300-pc0xffffff-pd",FIFA+ Italy
+#EXTINF:0,FIFA+ Italy
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg=w600-h300-pc0xffffff-pd",FIFA+ Spain
+#EXTINF:0,FIFA+ Spain
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-
-
-
+#EXTINF:0,A&E FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81599
+#EXTINF:0,A&E
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13497
+#EXTINF:0,A&E FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23156
+#EXTINF:0,A&E FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131105
+#EXTINF:0,A&E HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23157
+#EXTINF:0,A&E HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35224
+#EXTINF:0,A&E HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35225
+#EXTINF:0,AXN FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81600
+#EXTINF:0,AXN
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13500
+#EXTINF:0,AXN FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23691
+#EXTINF:0,AXN FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131106
+#EXTINF:0,AXN HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23692
+#EXTINF:0,AXN HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35228
+#EXTINF:0,AXN HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35229
+#EXTINF:0,AMC FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81601
+#EXTINF:0,AMC
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13498
+#EXTINF:0,AMC FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23687
+#EXTINF:0,AMC FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131107
+#EXTINF:0,AMC HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23688
+#EXTINF:0,AMC HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35226
+#EXTINF:0,AMC HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35227
+#EXTINF:0,ANIMAL PLANET FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304490
+#EXTINF:0,ANIMAL PLANET
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304493
+#EXTINF:0,ANIMAL PLANET FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304491
+#EXTINF:0,ANIMAL PLANET HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304492
+#EXTINF:0,ARTE 1 HD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/67511
+#EXTINF:0,ARTE 1 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/67512
+#EXTINF:0,BAND SP FHD  H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107926
+#EXTINF:0,BAND SP FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20525
+#EXTINF:0,BAND SP FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/43031
+#EXTINF:0,BAND SP FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8659
+#EXTINF:0,BAND SP HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8660
+#EXTINF:0,BAND SP HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31029
+#EXTINF:0,BAND RJ
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20524
+#EXTINF:0,BAND RJ HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/11724
+#EXTINF:0,BAND BAHIA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91918
+#EXTINF:0,BAND SPORTS FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81585
+#EXTINF:0,BAND SPORTS FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8661
+#EXTINF:0,BAND SPORTS FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131128
+#EXTINF:0,BAND SPORTS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8662
+#EXTINF:0,BAND SPORTS HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30064
+#EXTINF:0,BAND SPORTS HD ³
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/26724
+#EXTINF:0,BAND NEWS FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81596
+#EXTINF:0,BAND NEWS FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108367
+#EXTINF:0,BAND NEWS FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131134
+#EXTINF:0,BAND NEWS HD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/11769
+#EXTINF:0,BAND NEWS HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30171
+#EXTINF:0,CARTOON NETWOORK FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125439
+#EXTINF:0,CARTOON NETWORK
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13504
+#EXTINF:0,CARTOON NETWORK FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8698
+#EXTINF:0,CARTOON NETWORK HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8699
+#EXTINF:0,CARTOON NETWOORK HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38015
+#EXTINF:0,CARTOON NETWOORK HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38016
+#EXTINF:0,CARTOONITO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13503
+#EXTINF:0,CARTOONITO FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8687
+#EXTINF:0,CARTOONITO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8688
+#EXTINF:0,CARTOONITO HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38013
+#EXTINF:0,CARTOONITO HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/106287
+#EXTINF:0,MAIS NA TELA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93916
+#EXTINF:0,MODO VIAGEM FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8883
+#EXTINF:0,MODO VIAGEM HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/92649
+#EXTINF:0,BIS FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107985
+#EXTINF:0,BIS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13502
+#EXTINF:0,BIS FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8680
+#EXTINF:0,BIS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8681
+#EXTINF:0,COMEDY CENTRAL FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81602
+#EXTINF:0,COMEDY CENTRAL
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8718
+#EXTINF:0,COMEDY CENTRAL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8719
+#EXTINF:0,COMEDY CENTRAL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8720
+#EXTINF:0,COMEDY CENTRAL HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35234
+#EXTINF:0,COMEDY CENTRAL HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35235
+#EXTINF:0,CINEMAX FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107978
+#EXTINF:0,CINEMAX
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13505
+#EXTINF:0,CINEMAX FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8708
+#EXTINF:0,CINEMAX HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8709
+#EXTINF:0,CINEMAX HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35232
+#EXTINF:0,CINEMAX HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35233
+#EXTINF:0,CANAL BRASIL FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107979
+#EXTINF:0,CANAL BRASIL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8691
+#EXTINF:0,CANAL BRASIL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8692
+#EXTINF:0,CANAL BRASIL HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35230
+#EXTINF:0,CANAL BRASIL HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35231
+#EXTINF:0,CNN BRASIL FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81597
+#EXTINF:0,CNN BRASIL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8711
+#EXTINF:0,CNN BRASIL FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131135
+#EXTINF:0,CNN BRASIL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8712
+#EXTINF:0,CNN BRASIL HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30166
+#EXTINF:0,CNN BRASIL HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30167
+#EXTINF:0,UOL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594601
+#EXTINF:0,UOL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594602
+#EXTINF:0,JOVEM PAN NEWS FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108191
+#EXTINF:0,JOVEM PAN FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/167984
+#EXTINF:0,JOVEM PAN NEWS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107918
+#EXTINF:0,JOVEM PAN HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/167985
+#EXTINF:0,COMBATE  FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81586
+#EXTINF:0,COMBATE
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13506
+#EXTINF:0,COMBATE FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8714
+#EXTINF:0,COMBATE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8716
+#EXTINF:0,COMBATE HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30066
+#EXTINF:0,COMBATE HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30067
+#EXTINF:0,CURTA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/12948
+#EXTINF:0,CURTA ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13507
+#EXTINF:0,CINE SKY 01
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13071
+#EXTINF:0,CINE SKY 02
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13072
+#EXTINF:0,CINE SKY 03
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13073
+#EXTINF:0,CINE SKY 05
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13075
+#EXTINF:0,NOSSO FUTEBOL 01
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227505
+#EXTINF:0,NOSSO FUTEBOL 02
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227506
+#EXTINF:0,NOSSO FUTEBOL 03
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227508
+#EXTINF:0,CAZÉ TV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227520
+#EXTINF:0,CAZÉ TV HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245798
+#EXTINF:0,CAZE TV FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245797
+#EXTINF:0,PARAMOUNT + 1
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240737
+#EXTINF:0,PARAMOUNT + 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240739
+#EXTINF:0,PARAMOUNT + 3
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295698
+#EXTINF:0,PARAMOUNT + 4
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295699
+#EXTINF:0,PARAMOUNT + 5
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295700
+#EXTINF:0,PARAMOUNT + 6
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295701
+#EXTINF:0,PARAMOUNT + 7
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295702
+#EXTINF:0,PARAMOUNT + 8
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295703
+#EXTINF:0,PARAMOUNT + 9
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295704
+#EXTINF:0,PRIME VIDEO 01
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/292698
+#EXTINF:0,PRIME VIDEO 02
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121180
+#EXTINF:0,PRIME VIDEO 03
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121216
+#EXTINF:0,PRIME VIDEO 04
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121217
+#EXTINF:0,PRIME VIDEO 05
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246819
+#EXTINF:0,MAX 1 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594007
+#EXTINF:0,MAX 01 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594008
+#EXTINF:0,MAX 2 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594009
+#EXTINF:0,MAX 02 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594010
+#EXTINF:0,MAX 3 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594011
+#EXTINF:0,MAX 03 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594012
+#EXTINF:0,MAX 4 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594013
+#EXTINF:0,MAX 04 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594014
+#EXTINF:0,MAX 5 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594015
+#EXTINF:0,MAX 05 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594016
+#EXTINF:0,MAX 6 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594017
+#EXTINF:0,MAX 06 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594018
+#EXTINF:0,CAMPEONATO PAULISTA (JOGO 2)
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/592536
+#EXTINF:0,WWE NETFLIX
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/591951
+#EXTINF:0,YOUTUBE 01 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/289545
+#EXTINF:0,CANAL GOAT 01
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275100
+#EXTINF:0,CANAL GOAT 02
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/289540
+#EXTINF:0,CANAL GOAT 03
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/289541
+#EXTINF:0,CANAL GOAT 04
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/289542
+#EXTINF:0,COPA VERDE 02 2023
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246295
+#EXTINF:0,GALVÃO BUENO 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246221
+#EXTINF:0,APPLE TV 01 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/257414
+#EXTINF:0,UFC FIGHT PASS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/225501
+#EXTINF:0,UFC FIGHT PASS ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245774
+#EXTINF:0,UFC FIGHT PASS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245775
+#EXTINF:0,FURACÃO LIVE FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/97880
+#EXTINF:0,FURACÃO LIVE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/97881
+#EXTINF:0,CULTURA PA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21022
+#EXTINF:0,CANAL DO BOI
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/89852
+#EXTINF:0,CANAL RURAL 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/291515
+#EXTINF:0,DISCOVERY CHANNEL FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91396
+#EXTINF:0,DISCOVERY CHANNEL
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13508
+#EXTINF:0,DISCOVERY CHANNEL ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/43928
+#EXTINF:0,DISCOVERY CHANNEL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8735
+#EXTINF:0,DISCOVERY CHANNEL FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131176
+#EXTINF:0,DISCOVERY CHANNEL HD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8736
+#EXTINF:0,DISCOVERY CHANNEL HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30148
+#EXTINF:0,DISCOVERY HOME & HEALTH FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91397
+#EXTINF:0,DISCOVERY HOME & HEALTH
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20757
+#EXTINF:0,DISCOVERY HOME & HEALTH FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8739
+#EXTINF:0,DISCOVERY HOME & HEALT FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131177
+#EXTINF:0,DISCOVERY HOME & HEALTH HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8740
+#EXTINF:0,DISCOVERY HOME & HEALT HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93902
+#EXTINF:0,DISCOVERY  HOME & HEALTH HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30149
+#EXTINF:0,DISCOVERY SCIENCE FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91402
+#EXTINF:0,DISCOVERY SCIENCE
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13509
+#EXTINF:0,DISCOVERY SCIENCE FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8745
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8746
+#EXTINF:0,DISCOVERY SCIENCE HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93903
+#EXTINF:0,DISCOVERY SCIENCE HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30151
+#EXTINF:0,DISCOVERY THEATER FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91401
+#EXTINF:0,DISCOVERY THEATER
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13510
+#EXTINF:0,DISCOVERY THEATER FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8748
+#EXTINF:0,DISCOVERY THEATER FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131179
+#EXTINF:0,DISCOVERY THEATER HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8751
+#EXTINF:0,DISCOVERY THEATER HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93904
+#EXTINF:0,DISCOVERY THEATER HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30153
+#EXTINF:0,DISCOVERY TLC FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91400
+#EXTINF:0,DISCOVERY TLC
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13511
+#EXTINF:0,DISCOVERY TLC FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8753
+#EXTINF:0,DISCOVERY TLC FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131180
+#EXTINF:0,DISCOVERY TLC HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8754
+#EXTINF:0,DISCOVERY TURBO FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91399
+#EXTINF:0,DISCOVERY TURBO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13512
+#EXTINF:0,DISCOVERY TURBO FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8755
+#EXTINF:0,DISCOVERY TURBO FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131181
+#EXTINF:0,DISCOVERY TURBO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8756
+#EXTINF:0,DISCOVERY TURBO HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30156
+#EXTINF:0,DISCOVERY TURBO HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30155
+#EXTINF:0,DISCOVERY WORLD FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91398
+#EXTINF:0,DISCOVERY WORLD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13513
+#EXTINF:0,DISCOVERY WORLD FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8758
+#EXTINF:0,DISCOVERY WORLD HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8759
+#EXTINF:0,DISCOVERY WORLD HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93905
+#EXTINF:0,DISCOVERY WORLD HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30157
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91403
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8932
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131183
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8933
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8934
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY HD ³
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30172
+#EXTINF:0,DISCOVERY KIDS FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125440
+#EXTINF:0,DISCOVERY KIDS FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8742
+#EXTINF:0,DISCOVERY KIDS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8743
+#EXTINF:0,DISCOVERY KIDS HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38017
+#EXTINF:0,DISCOVERY KIDS HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38018
+#EXTINF:0,DAZN FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/54928
+#EXTINF:0,DAZN 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21645
+#EXTINF:0,DAZN 3 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91905
+#EXTINF:0,DAZN 4 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91906
+#EXTINF:0,DAZN 6 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161322
+#EXTINF:0,DAZN 7 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161323
+#EXTINF:0,DAZN 8 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161324
+#EXTINF:0,DAZN 9 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161325
+#EXTINF:0,DAZN 10 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161326
+#EXTINF:0,ESPN FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598912
+#EXTINF:0,ESPN
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598913
+#EXTINF:0,ESPN FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598914
+#EXTINF:0,ESPN FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598915
+#EXTINF:0,ESPN HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598916
+#EXTINF:0,ESPN HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598917
+#EXTINF:0,ESPN HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598918
+#EXTINF:0,ESPN 2 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81587
+#EXTINF:0,ESPN 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13519
+#EXTINF:0,ESPN 2 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8786
+#EXTINF:0,ESPN 2 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131131
+#EXTINF:0,ESPN 2 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30072
+#EXTINF:0,ESPN 2 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30071
+#EXTINF:0,ESPN 3 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81588
+#EXTINF:0,ESPN 3
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13520
+#EXTINF:0,ESPN 3 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8788
+#EXTINF:0,ESPN 3 FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131132
+#EXTINF:0,ESPN 3 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8787
+#EXTINF:0,ESPN 3 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30073
+#EXTINF:0,ESPN 3 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30074
+#EXTINF:0,ESPN 4 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81578
+#EXTINF:0,ESPN 4
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21647
+#EXTINF:0,ESPN 4 ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/26726
+#EXTINF:0,ESPN 4 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8828
+#EXTINF:0,ESPN 4 FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131133
+#EXTINF:0,ESPN 4 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20947
+#EXTINF:0,ESPN 4 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30083
+#EXTINF:0,ESPN 4 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30082
+#EXTINF:0,ESPN 5 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81594
+#EXTINF:0,ESPN 5
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20946
+#EXTINF:0,ESPN 5 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8826
+#EXTINF:0,ESPN 5 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8827
+#EXTINF:0,ESPN 5  HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30081
+#EXTINF:0,ESPN 5 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30084
+#EXTINF:0,ESPN 6 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81590
+#EXTINF:0,ESPN 6 FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131138
+#EXTINF:0,ESPN 6  HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8794
+#EXTINF:0,ESPN 6 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30077
+#EXTINF:0,EVANGELIZAR HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20532
+#EXTINF:0,E! FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8782
+#EXTINF:0,E! HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8783
+#EXTINF:0,FISH TV FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8807
+#EXTINF:0,FISH TV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8808
+#EXTINF:0,FOOD NETWOORK
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13522
+#EXTINF:0,FOOD NETWORK FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8811
+#EXTINF:0,FOOD NETWORK HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8810
+#EXTINF:0,GLOBO SP FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81576
+#EXTINF:0,GLOBO SP FHD H.265*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131184
+#EXTINF:0,GLOBO SP FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21675
+#EXTINF:0,GLOBO SP FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13525
+#EXTINF:0,GLOBO SP FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30113
+#EXTINF:0,GLOBO SP HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30117
+#EXTINF:0,GLOBO SP HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9242
+#EXTINF:0,GLOBO SP HD ³
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30115
+#EXTINF:0,GLOBO SP HD ³
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21676
+#EXTINF:0,GLOBO RJ FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81577
+#EXTINF:0,GLOBO RJ
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13524
+#EXTINF:0,GLOBO RJ FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8866
+#EXTINF:0,GLOBO RJ HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8868
+#EXTINF:0,GLOBO RJ HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30105
+#EXTINF:0,GLOBO RJ HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30110
+#EXTINF:0,GLOBO BAHIA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21652
+#EXTINF:0,GLOBO BAHIA HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30085
+#EXTINF:0,GLOBO NORDESTE FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81628
+#EXTINF:0,GLOBO NORDESTE FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21666
+#EXTINF:0,GLOBO NORDESTE HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8858
+#EXTINF:0,GLOBO NORDESTE HD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30096
+#EXTINF:0,GLOBO SUBAE BAHIA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91916
+#EXTINF:0,GLOBO SANTA CRUZ HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91911
+#EXTINF:0,GLOBO MINAS FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125450
+#EXTINF:0,GLOBO MINAS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/71816
+#EXTINF:0,GLOBO MINAS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/71815
+#EXTINF:0,GLOBO MINAS HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21663
+#EXTINF:0,GNT FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107984
+#EXTINF:0,GNT
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13527
+#EXTINF:0,GNT FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8891
+#EXTINF:0,GNT HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8890
+#EXTINF:0,GNT HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/66901
+#EXTINF:0,GNT HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/66902
+#EXTINF:0,GLOBO NEWS FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81598
+#EXTINF:0,GLOBO NEWS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13523
+#EXTINF:0,GLOBO NEWS FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8853
+#EXTINF:0,GLOBO NEWS FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131137
+#EXTINF:0,GLOBO NEWS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8854
+#EXTINF:0,GLOBO NEWS HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30168
+#EXTINF:0,GLOBO NEWS HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30169
+#EXTINF:0,GLOOB
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13526
+#EXTINF:0,GLOOB HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8888
+#EXTINF:0,GLOOB FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8887
+#EXTINF:0,GLOOBINHO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69036
+#EXTINF:0,GLOOBINHO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69037
+#EXTINF:0,HISTORY FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304495
+#EXTINF:0,HISTORY
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304497
+#EXTINF:0,HISTORY FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304494
+#EXTINF:0,HISTORY HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304496
+#EXTINF:0,HISTORY 2 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304499
+#EXTINF:0,HISTORY 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304501
+#EXTINF:0,HISTORY 2 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304498
+#EXTINF:0,HISTORY 2 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304500
+#EXTINF:0,HBO FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94381
+#EXTINF:0,HBO FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8902
+#EXTINF:0,HBO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8903
+#EXTINF:0,HBO HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31862
+#EXTINF:0,HBO HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31863
+#EXTINF:0,HBO 2 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94382
+#EXTINF:0,HBO 2 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13529
+#EXTINF:0,HBO 2 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8897
+#EXTINF:0,HBO 2 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8898
+#EXTINF:0,HBO 2 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31859
+#EXTINF:0,HBO 2 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93899
+#EXTINF:0,HBO FAMILY FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94383
+#EXTINF:0,HBO FAMILY
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13530
+#EXTINF:0,HBO FAMILY FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8901
+#EXTINF:0,HBO FAMILY HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8900
+#EXTINF:0,HBO FAMILY HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31860
+#EXTINF:0,HBO FAMILY HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31861
+#EXTINF:0,HBO MUNDI FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94384
+#EXTINF:0,HBO MUNDI
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13531
+#EXTINF:0,HBO MUNDI FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8904
+#EXTINF:0,HBO MUNDI HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8905
+#EXTINF:0,HBO MUNDI HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31864
+#EXTINF:0,HBO MUNDI HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93900
+#EXTINF:0,HBO POP FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94386
+#EXTINF:0,HBO POP
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13533
+#EXTINF:0,HBO POP FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24593
+#EXTINF:0,HBO POP HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8911
+#EXTINF:0,HBO POP HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31867
+#EXTINF:0,HBO POP HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93901
+#EXTINF:0,HBO SIGNATURE FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94387
+#EXTINF:0,HBO SIGNATURE
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13534
+#EXTINF:0,HBO SIGNATURE FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8912
+#EXTINF:0,HBO SIGNATURE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8914
+#EXTINF:0,HBO SIGNATURE HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31868
+#EXTINF:0,HBO SIGNATURE HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31869
+#EXTINF:0,HBO PLUS FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94385
+#EXTINF:0,HBO PLUS FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24592
+#EXTINF:0,HBO PLUS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/11771
+#EXTINF:0,HBO PLUS HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31865
+#EXTINF:0,HBO PLUS HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31866
+#EXTINF:0,HBO XTREME
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13536
+#EXTINF:0,HBO XTREME FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13535
+#EXTINF:0,HBO XTREME HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8916
+#EXTINF:0,HBO XTREME HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31870
+#EXTINF:0,HGTV FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304506
+#EXTINF:0,HGTV FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304507
+#EXTINF:0,HGTV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304508
+#EXTINF:0,OFF
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8996
+#EXTINF:0,OFF FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8997
+#EXTINF:0,OFF HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8998
+#EXTINF:0,PARAMOUNT CHANNEL FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108179
+#EXTINF:0,PARAMOUNT CHANNEL 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13546
+#EXTINF:0,PARAMOUNT CHANNEL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9007
+#EXTINF:0,PARAMOUNT CHANNEL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9008
+#EXTINF:0,PARAMOUNT CHANNEL HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35240
+#EXTINF:0,PARAMOUNT CHANNEL HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35241
+#EXTINF:0,PREMIERE CLUBES FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125438
+#EXTINF:0,PREMIERE CLUBES FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9037
+#EXTINF:0,PREMIERE CLUBES FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30043
+#EXTINF:0,PREMIERE CLUBES FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/54902
+#EXTINF:0,PREMIERE CLUBES HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94194
+#EXTINF:0,PREMIERE CLUBES HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91393
+#EXTINF:0,PREMIERE CLUBES HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/54903
+#EXTINF:0,PREMIERE CLUBES
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13583
+#EXTINF:0,PREMIERE 2 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81582
+#EXTINF:0,PREMIERE 2 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9022
+#EXTINF:0,PREMIERE 2 FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13576
+#EXTINF:0,PREMIERE 2 FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69097
+#EXTINF:0,PREMIERE 2 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69028
+#EXTINF:0,PREMIERE 2 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69029
+#EXTINF:0,PREMIERE 2 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9021
+#EXTINF:0,PREMIERE 2 HD ³
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108294
+#EXTINF:0,PREMIERE 3 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81583
+#EXTINF:0,PREMIERE 3 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13577
+#EXTINF:0,PREMIERE 3 FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69030
+#EXTINF:0,PREMIERE 3 FHD ² 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30050
+#EXTINF:0,PREMIERE 3 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69031
+#EXTINF:0,PREMIERE 3 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30051
+#EXTINF:0,PREMIERE 3 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9026
+#EXTINF:0,PREMIERE 3 HD ³
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24152
+#EXTINF:0,PREMIERE 3 HD.
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9024
+#EXTINF:0,PREMIERE 4 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81616
+#EXTINF:0,PREMIERE 4 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108295
+#EXTINF:0,PREMIERE 4 FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108296
+#EXTINF:0,PREMIERE 4 FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108299
+#EXTINF:0,PREMIERE 4 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108297
+#EXTINF:0,PREMIERE 4 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108298
+#EXTINF:0,PREMIERE 4 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108300
+#EXTINF:0,PREMIERE 5 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/82751
+#EXTINF:0,PREMIERE 5 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108301
+#EXTINF:0,PREMIERE 5 FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108302
+#EXTINF:0,PREMIERE 5 FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108305
+#EXTINF:0,PREMIERE 5 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108303
+#EXTINF:0,PREMIERE 5 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108304
+#EXTINF:0,PREMIERE 5 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108306
+#EXTINF:0,PREMIERE 6 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/82753
+#EXTINF:0,PREMIERE 6 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108307
+#EXTINF:0,PREMIERE 6 FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108308
+#EXTINF:0,PREMIERE 6 HD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108309
+#EXTINF:0,PREMIERE 6 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108310
+#EXTINF:0,PREMIERE 6 FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108311
+#EXTINF:0,PREMIERE 6 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108312
+#EXTINF:0,PREMIERE 7 FHD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108313
+#EXTINF:0,PREMIERE 7 FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108314
+#EXTINF:0,PREMIERE 7 FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108317
+#EXTINF:0,PREMIERE 7 HD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108315
+#EXTINF:0,PREMIERE 7 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108316
+#EXTINF:0,PREMIERE 7 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108318
+#EXTINF:0,PREMIERE 8 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13582
+#EXTINF:0,PREMIERE 8 FHD MOSAICO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30063
+#EXTINF:0,PREMIERE 8 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9036
+#EXTINF:0,RECORD SP FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/82755
+#EXTINF:0,RECORD SP FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9068
+#EXTINF:0,RECORD SP HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/12888
+#EXTINF:0,RECORD SP HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38065
+#EXTINF:0,RECORD HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38066
+#EXTINF:0,RECORD HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35842
+#EXTINF:0,RECORD MINAS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9055
+#EXTINF:0,RECORD MINAS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9054
+#EXTINF:0,RECORD RJ
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/106095
+#EXTINF:0,RECORD RJ FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/71697
+#EXTINF:0,RECORD RJ HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9063
+#EXTINF:0,RECORD BAHIA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/291650
+#EXTINF:0,RECORD BAHIA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/12987
+#EXTINF:0,RECORD BAHIA ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/291649
+#EXTINF:0,RECORD NEWS FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9058
+#EXTINF:0,RECORD NEWS FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131143
+#EXTINF:0,RECORD NEWS HD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9057
+#EXTINF:0,RECORD NEWS HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30170
+#EXTINF:0,REDETV FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9074
+#EXTINF:0,REDETV FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/29125
+#EXTINF:0,REDETV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9073
+#EXTINF:0,REDETV HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/33455
+#EXTINF:0,REDE GOSPEL FHD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9069
+#EXTINF:0,REDE VIDA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69259
+#EXTINF:0,REDE VIDA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9076
+#EXTINF:0,SBT FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9082
+#EXTINF:0,SBT FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81580
+#EXTINF:0,SBT FHD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81610
+#EXTINF:0,SBT
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/26722
+#EXTINF:0,SBT HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9084
+#EXTINF:0,SBT HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30120
+#EXTINF:0,SBT  HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9092
+#EXTINF:0,SBT RJ FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131563
+#EXTINF:0,SBT RJ FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131564
+#EXTINF:0,SBT RJ HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35844
+#EXTINF:0,SBT RJ HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131565
+#EXTINF:0,SBT ARATU BAHIA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108770
+#EXTINF:0,SONY FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108180
+#EXTINF:0,SONY
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13584
+#EXTINF:0,SONY FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9098
+#EXTINF:0,SONY HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9099
+#EXTINF:0,SONY HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35242
+#EXTINF:0,SONY HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35243
+#EXTINF:0,SPACE FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108181
+#EXTINF:0,SPACE
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13585
+#EXTINF:0,SPACE FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9101
+#EXTINF:0,SPACE FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131113
+#EXTINF:0,SPACE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9102
+#EXTINF:0,SPACE HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35244
+#EXTINF:0,SPACE HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35245
+#EXTINF:0,STUDIO UNIVERSAL FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108183
+#EXTINF:0,STUDIO UNIVERSAL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9115
+#EXTINF:0,STUDIO UNIVERSAL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9117
+#EXTINF:0,STUDIO UNIVERSAL HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35246
+#EXTINF:0,STUDIO UNIVERSAL HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35247
+#EXTINF:0,SPORTV FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81591
+#EXTINF:0,SPORTV 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69096
+#EXTINF:0,SPORTV ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91919
+#EXTINF:0,SPORTV FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9107
+#EXTINF:0,SPORTV FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131140
+#EXTINF:0,SPORTV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9111
+#EXTINF:0,SPORTV HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30126
+#EXTINF:0,SPORTV HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30127
+#EXTINF:0,SPORTV 2 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81592
+#EXTINF:0,SPORTV 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13586
+#EXTINF:0,SPORTV 2 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9103
+#EXTINF:0,SPORTV 2 FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131141
+#EXTINF:0,SPORTV 2 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9104
+#EXTINF:0,SPORTV 2 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30122
+#EXTINF:0,SPORTV 2 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30123
+#EXTINF:0,SPORTV 3 FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81593
+#EXTINF:0,SPORTV 3 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9106
+#EXTINF:0,SPORTV 3 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9105
+#EXTINF:0,SPORTV 3 FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131142
+#EXTINF:0,SPORTV 3 HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30124
+#EXTINF:0,SPORTV 3 HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30125
+#EXTINF:0,SPORTV 4 FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/570369
+#EXTINF:0,TNT NOVELAS FHD .265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275102
+#EXTINF:0,TNT NOVELAS 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275101
+#EXTINF:0,TNT NOVELAS FHD 
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275103
+#EXTINF:0,TNT NOVELAS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275104
+#EXTINF:0,TNT SÉRIES FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108184
+#EXTINF:0,TNT SÉRIES
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24156
+#EXTINF:0,TNT SÉRIES FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9144
+#EXTINF:0,TNT SÉRIES HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9145
+#EXTINF:0,TNT SÉRIES HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35254
+#EXTINF:0,TNT SÉRIES HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35255
+#EXTINF:0,TNT FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594019
+#EXTINF:0,TNT FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594020
+#EXTINF:0,TNT
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594021
+#EXTINF:0,TNT FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594022
+#EXTINF:0,TNT HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594023
+#EXTINF:0,TNT HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594024
+#EXTINF:0,TNT HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594025
+#EXTINF:0,TCM HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9124
+#EXTINF:0,TELECINE ACTION FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94375
+#EXTINF:0,TELECINE ACTION
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24533
+#EXTINF:0,TELECINE ACTION FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9126
+#EXTINF:0,TELECINE ACTION HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9127
+#EXTINF:0,TELECINE ACTION HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30134
+#EXTINF:0,TELECINE ACTION HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30135
+#EXTINF:0,TELECINE CULT FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94376
+#EXTINF:0,TELECINE CULT
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24534
+#EXTINF:0,TELECINE CULT FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/11770
+#EXTINF:0,TELECINE CULT HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9128
+#EXTINF:0,TELECINE CULT HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30136
+#EXTINF:0,TELECINE CULT HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30137
+#EXTINF:0,TELECINE FUN FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94377
+#EXTINF:0,TELECINE FUN
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24535
+#EXTINF:0,TELECINE FUN FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9129
+#EXTINF:0,TELECINE FUN HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9130
+#EXTINF:0,TELECINE FUN HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30138
+#EXTINF:0,TELECINE FUN HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30139
+#EXTINF:0,TELECINE PIPOCA FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94378
+#EXTINF:0,TELECINE PIPOCA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24536
+#EXTINF:0,TELECINE PIPOCA FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9131
+#EXTINF:0,TELECINE PIPOCA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9132
+#EXTINF:0,TELECINE PIPOCA HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30140
+#EXTINF:0,TELECINE PIPOCA HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30141
+#EXTINF:0,TELECINE PREMIUM FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94379
+#EXTINF:0,TELECINE PREMIUM
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24537
+#EXTINF:0,TELECINE PREMIUM FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9133
+#EXTINF:0,TELECINE PREMIUM HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9134
+#EXTINF:0,TELECINE PREMIUM HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30142
+#EXTINF:0,TELECINE TOUCH FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94380
+#EXTINF:0,TELECINE TOUCH
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24538
+#EXTINF:0,TELECINE TOUCH FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9135
+#EXTINF:0,TELECINE TOUCH HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9136
+#EXTINF:0,TELECINE TOUCH HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30144
+#EXTINF:0,TELECINE TOUCH HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30145
+#EXTINF:0,TOONSCAST
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125444
+#EXTINF:0,TOONCAST FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125443
+#EXTINF:0,TOONCAST FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131167
+#EXTINF:0,TOONCAST HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9150
+#EXTINF:0,TRU TV
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/12953
+#EXTINF:0,LIFETIME FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8943
+#EXTINF:0,LIFETIME HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8944
+#EXTINF:0,LIFETIME
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13538
+#EXTINF:0,TV RA TIM BUM
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9193
+#EXTINF:0,TV BRASIL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/43030
+#EXTINF:0,TV BRASIL
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/33013
+#EXTINF:0,TV GAZETA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/67852
+#EXTINF:0,TV SENADO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69027
+#EXTINF:0,TV DIÁRIO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69243
+#EXTINF:0,TV CÂMARA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69905
+#EXTINF:0,TV JUSTIÇA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69907
+#EXTINF:0,UNIVERSAL CHANNEL FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108185
+#EXTINF:0,UNIVERSAL CHANNEL
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21683
+#EXTINF:0,UNIVERSAL CHANNEL FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21682
+#EXTINF:0,UNIVERSAL CHANNEL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9212
+#EXTINF:0,UNIVERSAL CHANNEL HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35256
+#EXTINF:0,UNIVERSAL CHANNEL HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35257
+#EXTINF:0,VIVA FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107983
+#EXTINF:0,VIVA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13496
+#EXTINF:0,VIVA ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/43930
+#EXTINF:0,VIVA FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9215
+#EXTINF:0,VIVA FHD*
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131428
+#EXTINF:0,VIVA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9216
+#EXTINF:0,VIVA HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/33453
+#EXTINF:0,MEGAPIX FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107982
+#EXTINF:0,MEGAPIX
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/43933
+#EXTINF:0,MEGAPIX FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8961
+#EXTINF:0,MEGAPIX HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8962
+#EXTINF:0,MEGAPIX HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35238
+#EXTINF:0,MEGAPIX HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35239
+#EXTINF:0,MTV
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13539
+#EXTINF:0,MTV FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8970
+#EXTINF:0,MTV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8971
+#EXTINF:0,MTV LIVE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8972
+#EXTINF:0,MULTISHOW
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13540
+#EXTINF:0,MULTISHOW HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8974
+#EXTINF:0,MULTISHOW FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8975
+#EXTINF:0,NOVO TEMPO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21019
+#EXTINF:0,NICK JR FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125447
+#EXTINF:0,NICK JR
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8990
+#EXTINF:0,NICK JR FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13544
+#EXTINF:0,NICK JR HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8986
+#EXTINF:0,NICKELODEON FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125446
+#EXTINF:0,NICKELODEON
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13545
+#EXTINF:0,NICKELODEON FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8988
+#EXTINF:0,NICKELODEON HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8989
+#EXTINF:0,WARNER FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107981
+#EXTINF:0,WARNER
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21684
+#EXTINF:0,WARNER FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9219
+#EXTINF:0,WARNER HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9220
+#EXTINF:0,WARNER HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35258
+#EXTINF:0,WARNER HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35259
+#EXTINF:0,WOOHOO FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125448
+#EXTINF:0,WOOHOO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9224
+#EXTINF:0,ZOOMOO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9230
+#EXTINF:0,JOGOS DE HOJE
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/339310
+#EXTINF:0,SBT+ NOVELAS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/365993
+#EXTINF:0,SBT+ SAUDADE
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/365995
+#EXTINF:0,SBT+ SILVIO SANTOS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/365997
+#EXTINF:0,SBT+ TVZYN
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/365998
+#EXTINF:0,NBA TV
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598890
+#EXTINF:0,NBA | League Pass 02
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598888
+#EXTINF:0,NBA | League Pass 01
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598889
+#EXTINF:0,NBA | League Pass 03
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598887
+#EXTINF:0,NBA | League Pass 04
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598886
+#EXTINF:0,NBA | League Pass 05
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598885
+#EXTINF:0,NBA | League Pass 06
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598884
+#EXTINF:0,NBA | League Pass 07
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598883
+#EXTINF:0,NBA | League Pass 08
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598882
+#EXTINF:0,NBA | League Pass 09
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598881
+#EXTINF:0,DISNEY + 1
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599267
+#EXTINF:0,DISNEY + 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599268
+#EXTINF:0,DISNEY + 3
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599269
+#EXTINF:0,DISNEY + 4
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599270
+#EXTINF:0,DISNEY + 5
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599271
+#EXTINF:0,DISNEY + 6
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599272
+#EXTINF:0,DISNEY + 7
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599273
+#EXTINF:0,DISNEY + 8
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599274
+#EXTINF:0,DISNEY + 9
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599275
+#EXTINF:0,DISNEY + 10
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599276
+#EXTINF:0,DISNEY + 11
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599277
+#EXTINF:0,DISNEY + 12
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599278
+#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/dUaSis.png",DRAGON BALL Z
+http://saga10.pro:80/345715/562156/2639380
