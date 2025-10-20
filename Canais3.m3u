@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/TVBahia25.svg",TV Bahia (1080i)
+#EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TV_Bahia_Logo_%282025%29.png",TV Bahia (1080i)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7013-1071_import.png",Record
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
@@ -7,15 +7,15 @@ https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/re
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://logos.fandom.com/es/wiki/Archivo:Las_Estrellas_2020.png",Las Estrellas (1080p)
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Las_Estrellas_2020.png/revision/latest?cb=20200703032920&path-prefix=es",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBCU Telemundo Florida
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Undefined",NBCU Telemundo Florida
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBCU Telemundo North East
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Undefined",NBCU Telemundo North East
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBCU Telemundo Texas
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Undefined",NBCU Telemundo Texas
 https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBCU Telemundo West
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Undefined",NBCU Telemundo West
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Movies",Pluto TV Telemundo Telenovelas (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -221,4 +221,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2
 #EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Brasil: cinema",RunTime TV e Filmes | Pluto TV Brasil | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema",Soul Cine Clube | Brasil 
+
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
