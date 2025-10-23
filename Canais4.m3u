@@ -1,64 +1,4 @@
 #EXTM3U
-#EXTINF:36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: TELEVISA",TELEVISA TELENOVELAS CHANNEL FRANCE
-https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: TELEVISA",TELEVISA TELENOVELAS
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:60 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3DBoAILUBTDC7JlhpK0ulF032V54TTAZzLIQ3ldQTlTOxDCJQhHlffqVVos00524Kqg&usqp=CAU" group-title="CANAIS: TELEMUNDO",TELEMUNDO PR (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/960px-Telemundo_logo_2012.svg.png?20210319235733" group-title="CANAIS: TELEMUNDO",TELEMUNDO ACCION
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: TELEMUNDO",TELEMUNDO ROMANCE
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://logos.fandom.com/es/wiki/Archivo:Las_Estrellas_2020.png",LAS ESTRELLAS (1080p)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS: TELEMUNDO",NBCU TELEMUNDO FLORIDA
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS: TELEMUNDO",NBCU TELEMUNDO NORTH EAST
-https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS: TELEMUNDO",NBCU TELEMUNDO TEXAS
-https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS: TELEMUNDO",NBCU TELEMUNDO WEST
-https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="TELEMUNDO",PLUTO TV TELEMUNDO TELENOVELAS (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVTelenovelas.es" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="TELEMUNDO",PLUTO TV TELENOVELAS (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="WBQCLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="TELEMUNDO",TELEMUNDO EAST (480p)
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO NOTICIAS NORESTE
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b9d8440-9f8c-48af-b204-866c8629d07f
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO TELENOVELAS CLÁSICAS
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
-#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO",Telemundo West (720p)
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="TELEMUNDO",WKAQ-DT1 (TELEMUNDO PR) (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="CANAIS: TELEVISA" group-title="TELEVISA",TELEVISA AGUASCALIENTES (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
-#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-logo="https://i.imgur.com/BKK0kTl.png" group-title="CANAIS: TELEVISA" group-title="TELEVISA",TELEVISA QUERÉTARO (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS: TELEMUNDO" group-title="TELEVISA",TELEVISA TELENOVELAS CHANNEL
-https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS: TELEVISA" group-title="TELEVISA",TELEVISA TELENOVELAS
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
-http://104.238.205.28:8989/278773_.m3u8
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: MÚSICA",MTV (1080p)
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: MÚSICA",MTV Asia (1080p)
-https://hkali.youyouko.com/api/streams/live/cs323/1080p/mpegts
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: MÚSICA",MTV en Español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
-#EXTINF:0 tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA Plus
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+ France
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+ Germany
-https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+ Italy
-https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+ Spain
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H.265" tvg-logo="http://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="CANAIS: FILMES E SÉRIES",A&E FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81599
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="CANAIS: FILMES E SÉRIES",A&E
@@ -109,7 +49,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304493
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304491
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://topxz.live/logos/Documentarios/ANIMAL_PLANET.png" group-title="CANAIS: DOCUMENTÁRIOS",ANIMAL PLANET HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304492
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD " tvg-logo="http://topxz.live/logos/VARIEDADES/ARTE.png" group-title="CANAIS: FILMES E SÉRIES",ARTE 1 HD 
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD " tvg-logo="http://topxz.live/logos/VARIEDADES/ARTE.png" group-title="CANAIS: FILMES E SÉRIES",ARTE 1 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/67511
 #EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD" tvg-logo="http://topxz.live/logos/VARIEDADES/ARTE.png" group-title="CANAIS: FILMES E SÉRIES",ARTE 1 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/67512
@@ -153,7 +93,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81596
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108367
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD*" tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS FHD*
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131134
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD " tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS HD 
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD " tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/11769
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD ²" tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30171
@@ -345,9 +285,9 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/289540
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/289541
 #EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 04" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" group-title="CANAIS: PPV / ESPORTES",CANAL GOAT 04
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/289542
-#EXTINF:-1 tvg-id="" tvg-name="COPA VERDE 02 2023" tvg-logo="http://ccdntp.xyz:80/images/ebe5bf4fb7f8e6eb3f87645534f83ca9.png" group-title="CANAIS: PPV / ESPORTES",COPA VERDE 02 2023
+#EXTINF:-1 tvg-id="" tvg-name="COPA VERDE 02 2023" tvg-logo="https://bolaamarelafc.com/wp-content/uploads/2024/02/copa_verde.png" group-title="CANAIS: PPV / ESPORTES",COPA VERDE 02 2023
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246295
-#EXTINF:-1 tvg-id="" tvg-name="GALVÃO BUENO " tvg-logo="http://uploads.metropoles.com/wp-content/uploads/2022/07/30144427/Galvao-Bueno-Estado-Saude-600x400.jpg" group-title="CANAIS: PPV / ESPORTES",GALVÃO BUENO 
+#EXTINF:-1 tvg-id="" tvg-name="GALVÃO BUENO " tvg-logo="http://uploads.metropoles.com/wp-content/uploads/2022/07/30144427/Galvao-Bueno-Estado-Saude-600x400.jpg" group-title="CANAIS: PPV / ESPORTES",GALVÃO BUENO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246221
 #EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01 HD" tvg-logo="http://logodownload.org/wp-content/uploads/2023/05/apple-tv-logo.png" group-title="CANAIS: PPV / ESPORTES",APPLE TV 01 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/257414
@@ -569,7 +509,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125469
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/12997
 #EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO REGIONAIS",GLOBO EPTV CAMPINAS FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8846
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS HD " tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO REGIONAIS",GLOBO EPTV CAMPINAS HD 
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS HD " tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO REGIONAIS",GLOBO EPTV CAMPINAS HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8845
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA ESPIRITO SANTO HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO REGIONAIS",GLOBO GAZETA ESPIRITO SANTO HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598393
@@ -609,7 +549,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245362
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21666
 #EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE HD ¹" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO CAPITAIS",GLOBO NORDESTE HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8858
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE HD " tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO CAPITAIS",GLOBO NORDESTE HD 
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE HD " tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO CAPITAIS",GLOBO NORDESTE HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30096
 #EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO REDE AMAZÔNICA PORTO VELHO FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO CAPITAIS",GLOBO REDE AMAZÔNICA PORTO VELHO FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93398
@@ -685,7 +625,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/243509
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8878
 #EXTINF:-1 tvg-id="tv.tem.itapetininga.br" tvg-name="GLOBO TV TEM ITAPETININGA FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO REGIONAIS",GLOBO TV TEM ITAPETININGA FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/113941
-#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS " tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO REGIONAIS",GLOBO TV TRIBUNA SANTOS 
+#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS " tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO REGIONAIS",GLOBO TV TRIBUNA SANTOS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21681
 #EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO REGIONAIS",GLOBO TV TRIBUNA SANTOS FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8879
@@ -773,7 +713,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31862
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31863
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO",HBO 2 FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94382
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 " tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO",HBO 2 
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 " tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO",HBO 2
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13529
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO",HBO 2 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8897
@@ -863,7 +803,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8997
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8998
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL FHD H.265" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: FILMES E SÉRIES",PARAMOUNT CHANNEL FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108179
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL " tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: FILMES E SÉRIES",PARAMOUNT CHANNEL 
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL " tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: FILMES E SÉRIES",PARAMOUNT CHANNEL
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13546
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: FILMES E SÉRIES",PARAMOUNT CHANNEL FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9007
@@ -911,7 +851,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81583
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13577
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69030
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD ² " tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FHD ² 
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD ² " tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30050
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69031
@@ -957,7 +897,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/82753
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108307
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108308
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD " tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD 
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD " tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108309
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108310
@@ -965,13 +905,13 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108310
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108311
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108312
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD " tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FHD 
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD " tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108313
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108314
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108317
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD " tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD 
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD " tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108315
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108316
@@ -1017,7 +957,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/291658
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9058
 #EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FHD*" tvg-logo="http://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="CANAIS: NOTÍCIAS",RECORD NEWS FHD*
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131143
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD " tvg-logo="http://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="CANAIS: NOTÍCIAS",RECORD NEWS HD 
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD " tvg-logo="http://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="CANAIS: NOTÍCIAS",RECORD NEWS HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9057
 #EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD ¹" tvg-logo="http://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="CANAIS: NOTÍCIAS",RECORD NEWS HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30170
@@ -1099,7 +1039,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35246
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35247
 #EXTINF:-1 tvg-id="30" tvg-name="SPORTV FHD H.265" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV",SPORTV FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81591
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV " tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV",SPORTV 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV " tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV",SPORTV
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69096
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV ²" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV",SPORTV ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91919
@@ -1143,9 +1083,9 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30125
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/570369
 #EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS FHD .265" tvg-logo="http://i.postimg.cc/XYqXKpyb/tntnovelas.png" group-title="CANAIS: FILMES E SÉRIES",TNT NOVELAS FHD .265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275102
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TNT NOVELAS " tvg-logo="http://i.postimg.cc/XYqXKpyb/tntnovelas.png" group-title="CANAIS: FILMES E SÉRIES",TNT NOVELAS 
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TNT NOVELAS " tvg-logo="http://i.postimg.cc/XYqXKpyb/tntnovelas.png" group-title="CANAIS: FILMES E SÉRIES",TNT NOVELAS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275101
-#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS FHD " tvg-logo="http://i.postimg.cc/XYqXKpyb/tntnovelas.png" group-title="CANAIS: FILMES E SÉRIES",TNT NOVELAS FHD 
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS FHD " tvg-logo="http://i.postimg.cc/XYqXKpyb/tntnovelas.png" group-title="CANAIS: FILMES E SÉRIES",TNT NOVELAS FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275103
 #EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS HD" tvg-logo="http://i.postimg.cc/XYqXKpyb/tntnovelas.png" group-title="CANAIS: FILMES E SÉRIES",TNT NOVELAS HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275104
@@ -1263,7 +1203,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8943
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8944
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-logo="http://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png" group-title="CANAIS: VARIEDADES",LIFETIME
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13538
-#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER HD" tvg-logo="http://static.b2pteam.com/logos/religiosos/redesuper.png" group-title="CANAIS: RELIGIOSOS",REDE SUPER HD
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e1/Logotipo_da_Rede_Super_%282021%29.png" group-title="CANAIS: RELIGIOSOS",REDE SUPER HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/210171
 #EXTINF:-1 tvg-id="Rci.br" tvg-name="TV PAI ETERNO" tvg-logo="http://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="CANAIS: RELIGIOSOS",TV PAI ETERNO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9192
@@ -1275,7 +1215,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30147
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/117823
 #EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://1.bp.blogspot.com/-K1CTccK0YKk/XpYinZA_A5I/AAAAAAAACx8/98b9TudE2oktsDPA7dsO4aVQl09POAxeQCK4BGAYYCw/s400/CAN%25C3%2587AO%2BNOVA.png" group-title="CANAIS: RELIGIOSOS",CANÇÃO NOVA HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/117824
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="TV EVANGELIZAR HD ¹" tvg-logo="http://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="CANAIS: RELIGIOSOS",TV EVANGELIZAR HD ¹
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="TV EVANGELIZAR HD ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="CANAIS: RELIGIOSOS",TV EVANGELIZAR HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69257
 #EXTINF:-1 tvg-id="Rci.br" tvg-name="TV PAI ETERNO HD" tvg-logo="http://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="CANAIS: RELIGIOSOS",TV PAI ETERNO HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69265
@@ -1445,4 +1385,83 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599276
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599277
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY + 12" tvg-logo="http://i.ibb.co/QrV0g1c/disney.png" group-title="CANAIS: DISNEY +",DISNEY + 12
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599278
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+ France
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+ Germany
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+ Italy
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="CANAIS: FIFA",FIFA+ Spain
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="CANAIS: INTERNACIONAIS",WWE
+http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/29662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="CANAIS: INTERNACIONAIS",WWE NETWORK
+http://cord-cutter.net:8080/33QbGv/014458/11645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="CANAIS: INTERNACIONAIS",UK Sky Sports F1 FHD (D)
+http://cord-cutter.net:8080/33QbGv/014458/53704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="CANAIS: INTERNACIONAIS",UK Sky Sports F1 FHD
+http://cord-cutter.net:8080/33QbGv/014458/35244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",TELEMUNDO 51 MIAMI HD
+http://cord-cutter.net:8080/33QbGv/014458/56410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",US Telemundo (WSNS) Chicago
+http://cord-cutter.net:8080/33QbGv/014458/120691
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg" group-title="CANAIS: INTERNACIONAIS",CO: Win Sports FHD
+http://cord-cutter.net:8080/33QbGv/014458/78717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg" group-title="CANAIS: INTERNACIONAIS",CO: WIN SPORTS+ HD
+http://cord-cutter.net:8080/33QbGv/014458/78697
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg/revision/latest/scale-to-width-down/200?cb=20210317233059" group-title="CANAIS: INTERNACIONAIS",US Latin Univision
+http://cord-cutter.net:8080/33QbGv/014458/108248
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",US Telemundo (WZDC( Leesburg (H)
+http://cord-cutter.net:8080/33QbGv/014458/120833
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",TELEVISA TELENOVELAS CHANNEL FRANCE
+https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",TELEVISA TELENOVELAS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3DBoAILUBTDC7JlhpK0ulF032V54TTAZzLIQ3ldQTlTOxDCJQhHlffqVVos00524Kqg&usqp=CAU" group-title="CANAIS: INTERNACIONAIS",TELEMUNDO PR (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/960px-Telemundo_logo_2012.svg.png?20210319235733" group-title="CANAIS: INTERNACIONAIS",TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",TELEMUNDO ROMANCE
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Las_Estrellas_2020.png/revision/latest?cb=20200703032920&path-prefix=es" group-title="CANAIS: INTERNACIONAIS",LAS ESTRELLAS (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",NBCU TELEMUNDO FLORIDA
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",NBCU TELEMUNDO NORTH EAST
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",NBCU TELEMUNDO TEXAS
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",NBCU TELEMUNDO WEST
+https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-name="" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="CANAIS: INTERNACIONAIS",PLUTO TV TELEMUNDO TELENOVELAS (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTelenovelas.es" tvg-name="" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="CANAIS: INTERNACIONAIS",PLUTO TV TELENOVELAS (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="WBQCLD1.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="CANAIS: INTERNACIONAIS",TELEMUNDO EAST (480p)
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",TELEMUNDO NOTICIAS NORESTE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b9d8440-9f8c-48af-b204-866c8629d07f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",TELEMUNDO TELENOVELAS CLÁSICAS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
+#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",Telemundo West (720p)
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-name="" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="CANAIS: INTERNACIONAIS",WKAQ-DT1 (TELEMUNDO PR) (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-name="" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="CANAIS: INTERNACIONAIS",TELEVISA AGUASCALIENTES (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
+#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-name="" tvg-logo="https://i.imgur.com/BKK0kTl.png" group-title="CANAIS: INTERNACIONAIS",TELEVISA QUERÉTARO (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26130_h15_aa.png" group-title="CANAIS: INTERNACIONAIS",TELEVISA TELENOVELAS CHANNEL
+https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26130_h15_aa.png" group-title="CANAIS: INTERNACIONAIS",TELEVISA TELENOVELAS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="CANAIS: INTERNACIONAIS",TELEFE
+http://104.238.205.28:8989/278773_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: INTERNACIONAIS",MTV (1080p)
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: INTERNACIONAIS",MTV ASIA (1080p)
+https://hkali.youyouko.com/api/streams/live/cs323/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: INTERNACIONAIS",MTV EN ESPAÑOL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
