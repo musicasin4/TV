@@ -399,7 +399,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8933
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8934
 #EXTINF:-1 tvg-chno="200" tvg-id="São.Paulo/SP..ID.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD ³" tvg-logo="http://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png" group-title="CANAIS: DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD ³
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30172
-#EXTINF:-1 tvg-chno="201" tvg-id="São Paulo/SP Discovery Kids HD ³" tvg-name="DISCOVERY KIDS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="CANAIS: DISCOVERY",DISCOVERY KIDS FHD H.265
+#EXTINF:-1 tvg-chno="201" tvg-id="São Paulo/SP Discovery Kids HD ³" tvg-name="DISCOVERY KIDS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91403
 #EXTINF:-1 tvg-chno="202" tvg-id="São Paulo/SP Discovery Kids HD ³" tvg-name="DISCOVERY KIDS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125440
@@ -1501,13 +1501,13 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/29662
 #EXTINF:-1 tvg-chno="751" tvg-id="WWE.Network.us2" tvg-name="WWE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="CANAIS: INTERNACIONAIS",WWE NETWORK
 http://cord-cutter.net:8080/33QbGv/014458/11645
-#EXTINF:-1 tvg-chno="752" tvg-id="Win Sports HD.co" tvg-name="WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/560px-Win_Sports_nuevo_logo.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",WIN SPORTS FHD
+#EXTINF:-1 tvg-chno="752" tvg-id="Win Sports HD.co" tvg-name="WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/560px-Win_Sports_nuevo_logo.svg.png" group-title="CANAIS: INTERNACIONAIS",WIN SPORTS FHD
 http://cord-cutter.net:8080/33QbGv/014458/78717
-#EXTINF:-1 tvg-chno="753" tvg-id="Win Sports+" tvg-name="WIN FÚTBOL+ HD CO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Win%2BF%C3%BAtbol.png/revision/latest/scale-to-width-down/284?cb=20240816224615" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",WIN FÚTBOL+ HD CO
+#EXTINF:-1 tvg-chno="753" tvg-id="Win Sports+" tvg-name="WIN FÚTBOL+ HD CO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Win%2BF%C3%BAtbol.png/revision/latest/scale-to-width-down/284?cb=20240816224615" group-title="CANAIS: INTERNACIONAIS",WIN FÚTBOL+ HD CO
 http://cord-cutter.net:8080/33QbGv/014458/78697
-#EXTINF:-1 tvg-chno="754" tvg-id="" tvg-name="SKY SPORTS F1 HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",SKY SPORTS F1 FHD (D) UK
+#EXTINF:-1 tvg-chno="754" tvg-id="" tvg-name="SKY SPORTS F1 HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="CANAIS: INTERNACIONAIS",SKY SPORTS F1 FHD (D) UK
 http://cord-cutter.net:8080/33QbGv/014458/53704
-#EXTINF:-1 tvg-chno="755" tvg-id="" tvg-name="SKY SPORTS F1 HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",SKY SPORTS F1 HD UK
+#EXTINF:-1 tvg-chno="755" tvg-id="" tvg-name="SKY SPORTS F1 HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="CANAIS: INTERNACIONAIS",SKY SPORTS F1 HD UK
 http://cord-cutter.net:8080/33QbGv/014458/35244
 #EXTINF:-1 tvg-chno="756" tvg-id="Telemundo.Satellite.Feed.Pacific.us2" tvg-name="TELEMUNDO 51 MIAMI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="CANAIS: INTERNACIONAIS",TELEMUNDO 51 MIAMI HD
 http://cord-cutter.net:8080/33QbGv/014458/56410
@@ -1577,611 +1577,643 @@ https://hkali.youyouko.com/api/streams/live/cs323/1080p/mpegts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
 #EXTINF:-1 tvg-chno="789" tvg-id="" tvg-name="MTV EUROPE" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: INTERNACIONAIS",MTV EUROPE
 http://update.miicrosoft.es:80/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5J/9143
-#EXTINF:-1 tvg-chno="790" tvg-id="" tvg-name="KPOPTV PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXONsjIX5cIhPwSRWgDcpBSmpPvKp6KP7ww&s" group-title="CANAIS: INTERNACIONAIS",KPOPTV PLAY
+#EXTINF:-1 tvg-chno="790" tvg-id="" tvg-name="MTV PORTUGAL" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: INTERNACIONAIS",MTV PORTUGAL
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132039
+#EXTINF:-1 tvg-chno="791" tvg-id="" tvg-name="KPOPTV PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXONsjIX5cIhPwSRWgDcpBSmpPvKp6KP7ww&s" group-title="CANAIS: INTERNACIONAIS",KPOPTV PLAY
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:-1 tvg-chno="791" tvg-id="Geekdot.br" tvg-name="GEEKDOT" tvg-logo="https://yt3.googleusercontent.com/GNnXrfW5GF2RmNlW9942NAl22p3td6RAtJPb7wbg4MU-9142ZCJJH8XhIhUIS4vEPJWdZiePIzU=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS: ANIMES",GEEKDOT (720p)
+#EXTINF:-1 tvg-chno="792" tvg-id="Geekdot.br" tvg-name="GEEKDOT" tvg-logo="https://yt3.googleusercontent.com/GNnXrfW5GF2RmNlW9942NAl22p3td6RAtJPb7wbg4MU-9142ZCJJH8XhIhUIS4vEPJWdZiePIzU=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS: ANIMES",GEEKDOT (720p)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-chno="792" tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png" group-title="CANAIS: ANIMES",LOADING (720p)
+#EXTINF:-1 tvg-chno="793" tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png" group-title="CANAIS: ANIMES",LOADING (720p)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="793" tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL RED ZONE FHD
+#EXTINF:-1 tvg-chno="794" tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL RED ZONE FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118763
-#EXTINF:-1 tvg-chno="794" tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL RED ZONE HD
+#EXTINF:-1 tvg-chno="795" tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL RED ZONE HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118764
-#EXTINF:-1 tvg-chno="795" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 00
+#EXTINF:-1 tvg-chno="796" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 00
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118765
-#EXTINF:-1 tvg-chno="796" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 01
+#EXTINF:-1 tvg-chno="797" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 01
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118766
-#EXTINF:-1 tvg-chno="797" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 02
+#EXTINF:-1 tvg-chno="798" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 02
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118767
-#EXTINF:-1 tvg-chno="798" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 03
+#EXTINF:-1 tvg-chno="799" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 03
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118768
-#EXTINF:-1 tvg-chno="799" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 04
+#EXTINF:-1 tvg-chno="800" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 04
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118769
-#EXTINF:-1 tvg-chno="800" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 05
+#EXTINF:-1 tvg-chno="801" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 05
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118770
-#EXTINF:-1 tvg-chno="801" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 06
+#EXTINF:-1 tvg-chno="802" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 06
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118771
-#EXTINF:-1 tvg-chno="802" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 07
+#EXTINF:-1 tvg-chno="803" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 07
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118772
-#EXTINF:-1 tvg-chno="803" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 08
+#EXTINF:-1 tvg-chno="804" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 08
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118773
-#EXTINF:-1 tvg-chno="804" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 09
+#EXTINF:-1 tvg-chno="805" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 09
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118774
-#EXTINF:-1 tvg-chno="805" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 10
+#EXTINF:-1 tvg-chno="806" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 10
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118775
-#EXTINF:-1 tvg-chno="806" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 11
+#EXTINF:-1 tvg-chno="807" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 11
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118776
-#EXTINF:-1 tvg-chno="807" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 12
+#EXTINF:-1 tvg-chno="808" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 12
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118777
-#EXTINF:-1 tvg-chno="808" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 13
+#EXTINF:-1 tvg-chno="809" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 13
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118778
-#EXTINF:-1 tvg-chno="809" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 14
+#EXTINF:-1 tvg-chno="810" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 14
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118779
-#EXTINF:-1 tvg-chno="810" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 15
+#EXTINF:-1 tvg-chno="811" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 15
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118780
-#EXTINF:-1 tvg-chno="811" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 16
+#EXTINF:-1 tvg-chno="812" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: NFL 16
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118781
-#EXTINF:-1 tvg-chno="812" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: US Sky Sports NFL HQ
+#EXTINF:-1 tvg-chno="813" tvg-id="" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: US Sky Sports NFL HQ
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118782
-#EXTINF:-1 tvg-chno="813" tvg-id="NFL.Network.HD.us2" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: US Peacock Live | NFL Network Channel
+#EXTINF:-1 tvg-chno="814" tvg-id="NFL.Network.HD.us2" tvg-name="NFL TV" tvg-logo="https://troypoint.com/wp-content/uploads/2022/02/watch-nfl-on-firestick-nfl-app-300x300.png" group-title="CANAIS: NFL / PPV",USA: US Peacock Live | NFL Network Channel
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118783
-#EXTINF:-1 tvg-chno="814" tvg-id="" tvg-name="TELA BRASIL TV ᴸᴼᵂ" tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fit/w_600,h_600,al_c/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-title="CANAIS: VARIEDADES",TELA BRASIL TV ᴸᴼᵂ
+#EXTINF:-1 tvg-chno="815" tvg-id="" tvg-name="TELA BRASIL TV ᴸᴼᵂ" tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fit/w_600,h_600,al_c/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-title="CANAIS: VARIEDADES",TELA BRASIL TV ᴸᴼᵂ
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-#EXTINF:-1 tvg-chno="815" tvg-id="" tvg-name="REVIVATV" tvg-logo="https://imgur.com/davbBNf.png" group-title="CANAIS: VARIEDADES",REVIVATV
+#EXTINF:-1 tvg-chno="816" tvg-id="" tvg-name="REVIVATV" tvg-logo="https://imgur.com/davbBNf.png" group-title="CANAIS: VARIEDADES",REVIVATV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 tvg-chno="816" tvg-id="" tvg-name="NOVELISIMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwiEZCAbdJXJ0t8l6G0y-_xQKWO_JCxtjSw&s" group-title="CANAIS: VARIEDADES",NOVELISIMA
+#EXTINF:-1 tvg-chno="817" tvg-id="" tvg-name="NOVELISIMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwiEZCAbdJXJ0t8l6G0y-_xQKWO_JCxtjSw&s" group-title="CANAIS: VARIEDADES",NOVELISIMA
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
-#EXTINF:-1 tvg-chno="817" tvg-id="" tvg-name="TNT SPORTS (ARG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/600px-TNT_Sports_%282023%29.svg.png" group-title="CANAIS: INTERNACIONAIS",TNT SPORTS (ARG)
+#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-name="TNT SPORTS (ARG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/600px-TNT_Sports_%282023%29.svg.png" group-title="CANAIS: INTERNACIONAIS",TNT SPORTS (ARG)
 http://lunar.pm:8080/2052532362/VKXv39SUytQ8/115184
-#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-name="RTP" tvg-logo="https://images.seeklogo.com/logo-png/12/1/rtp-logo-png_seeklogo-120519.png" group-title="CANAIS: INTERNACIONAIS",RTP
+#EXTINF:-1 tvg-chno="819" tvg-id="id" tvg-name="SPORT TV + [Live During Events Only] PT" tvg-logo="https://i.postimg.cc/htzvw8HT/sport-tv-2023-logo-png-seeklogo-504108.png" group-title="CANAIS: INTERNACIONAIS",SPORT TV + [Live During Events Only] PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132065
+#EXTINF:-1 tvg-chno="820" tvg-id="id" tvg-name="SPORT TV 1 PT" tvg-logo="https://i.postimg.cc/rp5myVy1/sport-tv-2023-logo-png-seeklogo-504109.png" group-title="CANAIS: INTERNACIONAIS",SPORT TV 1 PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132066
+#EXTINF:-1 tvg-chno="821" tvg-id="id" tvg-name="SPORT TV 2 PT" tvg-logo="https://i.postimg.cc/85HzWZ6M/sport-tv2-2023-logo-png-seeklogo-504105.png" group-title="CANAIS: INTERNACIONAIS",SPORT TV 2 PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132067
+#EXTINF:-1 tvg-chno="822" tvg-id="id" tvg-name="SPORT TV 3 [Live During Events Only] PT" tvg-logo="https://i.postimg.cc/66MQp1KC/sport-tv3-2023-logo-png-seeklogo-504104.png" group-title="CANAIS: INTERNACIONAIS",SPORT TV 3 [Live During Events Only] PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132068
+#EXTINF:-1 tvg-chno="823" tvg-id="id" tvg-name="SPORT TV 4 PT" tvg-logo="https://i.postimg.cc/7YcYgGfJ/sport-tv4-2023-logo-png-seeklogo-504102.png" group-title="CANAIS: INTERNACIONAIS",SPORT TV 4 PT
+link http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132069
+#EXTINF:-1 tvg-chno="824" tvg-id="id" tvg-name="SPORT TV 5 PT" tvg-logo="https://i.postimg.cc/jjYxFp67/sport-tv5-logo-png-seeklogo-503377.png" group-title="CANAIS: INTERNACIONAIS",SPORT TV 5 PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132070
+#EXTINF:-1 tvg-chno="825" tvg-id="id" tvg-name="SPORT TV 6 PT" tvg-logo="https://i.postimg.cc/7hhwzw4M/sport-tv6-2023-logo-png-seeklogo-504107.png" group-title="CANAIS: INTERNACIONAIS",SPORT TV 6 PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132071
+#EXTINF:-1 tvg-chno="826" tvg-id="" tvg-name="RTP" tvg-logo="https://i.postimg.cc/rwCscZY2/rtp-radio-e-televisao-de-portugal-logo-png-seeklogo-286992.png" group-title="CANAIS: INTERNACIONAIS",RTP
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
-#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-name="RTP MADEIRA" tvg-logo="https://images.seeklogo.com/logo-png/50/1/rtp-madeira-logo-png_seeklogo-503177.png" group-title="CANAIS: INTERNACIONAIS",RTP MADEIRA
+#EXTINF:-1 tvg-chno="827" tvg-id="" tvg-name="RTP MADEIRA" tvg-logo="https://i.postimg.cc/L4wVwD7K/rtp-madeira-logo-png-seeklogo-503177.png" group-title="CANAIS: INTERNACIONAIS",RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="820" tvg-id="" tvg-name="SIC" tvg-logo="https://yt3.googleusercontent.com/2lbNcxl_X3NRjTfo6xDAQnh7OuCDyD1UFDpMzd6OJwangkN0eZXoN4A8bL6IP4m9o5jcqmtI0WQ=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS: INTERNACIONAIS",SIC
+#EXTINF:-1 tvg-chno="828" tvg-id="" tvg-name="GLOBO PT" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: INTERNACIONAIS",GLOBO PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132030
+#EXTINF:-1 tvg-chno="829" tvg-id="" tvg-name="GLOBO NOW PT" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: INTERNACIONAIS",GLOBO NOW PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132031
+#EXTINF:-1 tvg-chno="830" tvg-id="id" tvg-name="RECORD TV PT" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: INTERNACIONAIS",RECORD TV PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132051
+#EXTINF:-1 tvg-chno="831" tvg-id="" tvg-name="EURO NEWS PT" tvg-logo="https://yt3.googleusercontent.com/mzF9dxkU1hpd_zUYk626Cz_GzyzMUjFjhbVauEiKazpyuOtOx8gRhiiLWpsdeVaD2TTFOBE=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS: INTERNACIONAIS",EURO NEWS PT
+http://lunar.pm:8080/2052532362/VKXv39SUytQ8/132023
+#EXTINF:-1 tvg-chno="832" tvg-id="" tvg-name="SIC" tvg-logo="https://yt3.googleusercontent.com/2lbNcxl_X3NRjTfo6xDAQnh7OuCDyD1UFDpMzd6OJwangkN0eZXoN4A8bL6IP4m9o5jcqmtI0WQ=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS: INTERNACIONAIS",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-chno="821" tvg-id="" tvg-name="SIC ALTA DEFINIÇÃO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/SIC_Alta_Defini%C3%A7%C3%A3o_2024.png/revision/latest?cb=20240716101024" group-title="CANAIS: INTERNACIONAIS",SIC ALTA DEFINIÇÃO
+#EXTINF:-1 tvg-chno="833" tvg-id="" tvg-name="SIC ALTA DEFINIÇÃO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/SIC_Alta_Defini%C3%A7%C3%A3o_2024.png/revision/latest?cb=20240716101024" group-title="CANAIS: INTERNACIONAIS",SIC ALTA DEFINIÇÃO
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 tvg-chno="822" tvg-id="" tvg-name="CINEMONDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1k64tukofPiYFvFwSLLaf_GUh1jJ7_Y1uCA&s" group-title="CANAIS: FILMES E SÉRIES",CINEMONDE
+#EXTINF:-1 tvg-chno="834" tvg-id="" tvg-name="CINEMONDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1k64tukofPiYFvFwSLLaf_GUh1jJ7_Y1uCA&s" group-title="CANAIS: FILMES E SÉRIES",CINEMONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-#EXTINF:-1 tvg-chno="823" tvg-id="" tvg-name="TRACE LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/600px-TRACE_Latina_Logo.png" group-title="CANAIS: INTERNACIONAIS",TRACE LATINA
+#EXTINF:-1 tvg-chno="835" tvg-id="id" tvg-name="TRACE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Trace_Brazuca_logo.png" group-title="CANAIS: INTERNACIONAIS",TRACE BRASIL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-chno="836" tvg-id="" tvg-name="TRACE LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/600px-TRACE_Latina_Logo.png" group-title="CANAIS: INTERNACIONAIS",TRACE LATINA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-chno="824" tvg-id="" tvg-name="TRACE URBAN²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/600px-Trace_Urban_logo_2010.svg.png" group-title="CANAIS: INTERNACIONAIS",TRACE URBAN²
+#EXTINF:-1 tvg-chno="837" tvg-id="" tvg-name="TRACE URBAN²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/600px-Trace_Urban_logo_2010.svg.png" group-title="CANAIS: INTERNACIONAIS",TRACE URBAN²
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-chno="825" tvg-id="" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="https://yt3.googleusercontent.com/TyNbisxuIwzUBjjNkUg8mOqR9_L2eKYShayM5A-kjpFeb0p47QCail4wuUn5KfCbDmB8yQ8RnD4=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",ES: REAL MADRID TV FHD
+#EXTINF:-1 tvg-chno="838" tvg-id="" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="https://yt3.googleusercontent.com/TyNbisxuIwzUBjjNkUg8mOqR9_L2eKYShayM5A-kjpFeb0p47QCail4wuUn5KfCbDmB8yQ8RnD4=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS: INTERNACIONAIS",ES: REAL MADRID TV FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115849
-#EXTINF:-1 tvg-chno="826" tvg-id="" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/600px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",ES: M+ LALIGA FHD
+#EXTINF:-1 tvg-chno="839" tvg-id="" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/600px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CANAIS: INTERNACIONAIS",ES: M+ LALIGA FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836
-#EXTINF:-1 tvg-chno="827" tvg-id="" tvg-name="ES: M+ LCAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/600px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",ES: M+ LCAMPEONES FHD
+#EXTINF:-1 tvg-chno="840" tvg-id="" tvg-name="ES: M+ LCAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/600px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CANAIS: INTERNACIONAIS",ES: M+ LCAMPEONES FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115837
-#EXTINF:-1 tvg-chno="828" tvg-id="" tvg-name="ES: M+ LCAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/600px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",ES: M+ LCAMPEONES FHD
+#EXTINF:-1 tvg-chno="841" tvg-id="" tvg-name="ES: M+ LCAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/600px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CANAIS: INTERNACIONAIS",ES: M+ LCAMPEONES FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115838
-#EXTINF:-1 tvg-chno="829" tvg-id="" tvg-name="ES: M+ LALIGA BAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",ES: M+ LALIGA BAR HD
+#EXTINF:-1 tvg-chno="842" tvg-id="" tvg-name="ES: M+ LALIGA BAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="CANAIS: INTERNACIONAIS",ES: M+ LALIGA BAR HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115858
-#EXTINF:-1 tvg-chno="830" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 COL (PM)(1080)
+#EXTINF:-1 tvg-chno="843" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 COL (PM)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9516
-#EXTINF:-1 tvg-chno="831" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 COL (e)(720)
+#EXTINF:-1 tvg-chno="844" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 COL (e)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9517
-#EXTINF:-1 tvg-chno="832" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 CHI (TV)(1080)
+#EXTINF:-1 tvg-chno="845" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 CHI (TV)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/99538
-#EXTINF:-1 tvg-chno="833" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 CHI (Z)(720)
+#EXTINF:-1 tvg-chno="846" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 CHI (Z)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/99539
-#EXTINF:-1 tvg-chno="834" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 ARG (T)(720)
+#EXTINF:-1 tvg-chno="847" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 ARG (T)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9520
-#EXTINF:-1 tvg-chno="835" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 ARG (TV)(1080)
+#EXTINF:-1 tvg-chno="848" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 ARG (TV)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9521
-#EXTINF:-1 tvg-chno="836" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 ARG (Z)(720)
+#EXTINF:-1 tvg-chno="849" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 ARG (Z)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9522
-#EXTINF:-1 tvg-chno="837" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 MEX (L)(720)
+#EXTINF:-1 tvg-chno="850" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 MEX (L)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9523
-#EXTINF:-1 tvg-chno="838" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 MEX (TV)(720)
+#EXTINF:-1 tvg-chno="851" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 MEX (TV)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9524
-#EXTINF:-1 tvg-chno="839" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 1 MEX (T)(1080)
+#EXTINF:-1 tvg-chno="852" tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: INTERNACIONAIS",ESPN 1 MEX (T)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9525
-#EXTINF:-1 tvg-chno="840" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 2 ARG (e)(720)
+#EXTINF:-1 tvg-chno="853" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS",ESPN 2 ARG (e)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9526
-#EXTINF:-1 tvg-chno="841" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 2 ARG (PM)(1080)
+#EXTINF:-1 tvg-chno="854" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS",ESPN 2 ARG (PM)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9527
-#EXTINF:-1 tvg-chno="842" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 2 ARG (Z)(720)
+#EXTINF:-1 tvg-chno="855" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS",ESPN 2 ARG (Z)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9528
-#EXTINF:-1 tvg-chno="843" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 2 COL (TV)(1080)
+#EXTINF:-1 tvg-chno="856" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS",ESPN 2 COL (TV)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9529
-#EXTINF:-1 tvg-chno="844" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 2 MEX (L)(720)
+#EXTINF:-1 tvg-chno="857" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS",ESPN 2 MEX (L)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9530
-#EXTINF:-1 tvg-chno="845" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 2 MEX (TV)(1080)
+#EXTINF:-1 tvg-chno="858" tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: INTERNACIONAIS",ESPN 2 MEX (TV)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9531
-#EXTINF:-1 tvg-chno="846" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 3 ARG (L)(720)
+#EXTINF:-1 tvg-chno="859" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS",ESPN 3 ARG (L)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9533
-#EXTINF:-1 tvg-chno="847" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 3 ARG (Z)(720)
+#EXTINF:-1 tvg-chno="860" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS",ESPN 3 ARG (Z)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9534
-#EXTINF:-1 tvg-chno="848" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 3 COL (M)(1080)
+#EXTINF:-1 tvg-chno="861" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS",ESPN 3 COL (M)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9532
-#EXTINF:-1 tvg-chno="849" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 3 MEX (M)(1080)
+#EXTINF:-1 tvg-chno="862" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS",ESPN 3 MEX (M)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9535
-#EXTINF:-1 tvg-chno="850" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 3 MEX (M)(720)
+#EXTINF:-1 tvg-chno="863" tvg-id="" tvg-name="" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: INTERNACIONAIS",ESPN 3 MEX (M)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9536
-#EXTINF:-1 tvg-chno="851" tvg-id="" tvg-name="" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 4 (T)(720)
+#EXTINF:-1 tvg-chno="864" tvg-id="" tvg-name="" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: INTERNACIONAIS",ESPN 4 (T)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9538
-#EXTINF:-1 tvg-chno="852" tvg-id="" tvg-name="" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 4 MEX (M)(1080)
+#EXTINF:-1 tvg-chno="865" tvg-id="" tvg-name="" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: INTERNACIONAIS",ESPN 4 MEX (M)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9537
-#EXTINF:-1 tvg-chno="853" tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 5 (M)(1080)
+#EXTINF:-1 tvg-chno="866" tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: INTERNACIONAIS",ESPN 5 (M)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9539
-#EXTINF:-1 tvg-chno="854" tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 5 (TV)(720)
+#EXTINF:-1 tvg-chno="867" tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: INTERNACIONAIS",ESPN 5 (TV)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9540
-#EXTINF:-1 tvg-chno="855" tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 6 (TV)(720)
+#EXTINF:-1 tvg-chno="868" tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" group-title="CANAIS: INTERNACIONAIS",ESPN 6 (TV)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9541
-#EXTINF:-1 tvg-chno="856" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - ESPN 7 (e)(1080)
+#EXTINF:-1 tvg-chno="869" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PpLqWCz/espn-7-logo-png-seeklogo-522718.png" group-title="CANAIS: INTERNACIONAIS",ESPN 7 (e)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9573
-#EXTINF:-1 tvg-chno="857" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - ESPN 7 (e)(720)
+#EXTINF:-1 tvg-chno="870" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PpLqWCz/espn-7-logo-png-seeklogo-522718.png" group-title="CANAIS: INTERNACIONAIS",ESPN 7 (e)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9574
-#EXTINF:-1 tvg-chno="858" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn 7 (PM)(720)
+#EXTINF:-1 tvg-chno="871" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PpLqWCz/espn-7-logo-png-seeklogo-522718.png" group-title="CANAIS: INTERNACIONAIS",ESPN 7 (PM)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9543
-#EXTINF:-1 tvg-chno="859" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/26/1/espn-deportes-logo-png_seeklogo-261968.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn Deportes (MEX) (Z)(720)
+#EXTINF:-1 tvg-chno="872" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvPh3L0F/espn-deportes-logo-png-seeklogo-261968.png" group-title="CANAIS: INTERNACIONAIS",ESPN DEPORTES (MEX) (Z)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9544
-#EXTINF:-1 tvg-chno="860" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/600px-ESPN_Premium_logo.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - ESPN Premium CL (Z)(720)
+#EXTINF:-1 tvg-chno="873" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/600px-ESPN_Premium_logo.svg.png" group-title="CANAIS: INTERNACIONAIS",ESPN PREMIUM CL (Z)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/115016
-#EXTINF:-1 tvg-chno="861" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/600px-ESPN_Premium_logo.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Espn Premium ARG (M)(1080)
+#EXTINF:-1 tvg-chno="874" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/600px-ESPN_Premium_logo.svg.png" group-title="CANAIS: INTERNACIONAIS",ESPN PREMIUM ARG (M)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9546
-#EXTINF:-1 tvg-chno="862" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/600px-ESPN_Premium_logo.svg.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - ESPN Premium ARG (TV)(1080)
+#EXTINF:-1 tvg-chno="875" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/600px-ESPN_Premium_logo.svg.png" group-title="CANAIS: INTERNACIONAIS",ESPN PREMIUM ARG (TV)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9550
-#EXTINF:-1 tvg-chno="863" tvg-id="" tvg-name="" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2020/05/FoxDeportes_Oval_FullColor-1.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Deportes (TV)(720)
+#EXTINF:-1 tvg-chno="876" tvg-id="" tvg-name="" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2020/05/FoxDeportes_Oval_FullColor-1.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 1(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9571
-#EXTINF:-1 tvg-chno="864" tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=495&h=600&crop=1" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 1 ARG (L)(720)
+#EXTINF:-1 tvg-chno="877" tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=495&h=600&crop=1" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 1 ARG (L)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9575
-#EXTINF:-1 tvg-chno="865" tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=495&h=600&crop=1" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 1 ARG (M)(720)
+#EXTINF:-1 tvg-chno="878" tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=495&h=600&crop=1" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 1 ARG (M)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9576
-#EXTINF:-1 tvg-chno="866" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-hd-logo-png_seeklogo-284627.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 1 COL (TV)(1080)
+#EXTINF:-1 tvg-chno="879" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/k5mJpNJJ/fox-sports-hd-logo-png-seeklogo-284627.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 1 COL (TV)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9577
-#EXTINF:-1 tvg-chno="867" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/36/1/fox-sports-2-logo-png_seeklogo-369602.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 2 ARG (L)(SD)
+#EXTINF:-1 tvg-chno="880" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tCn9Rv7b/fox-sports-2-logo-png-seeklogo-369602.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 ARG (L)(SD)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9581
-#EXTINF:-1 tvg-chno="868" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20240526103224&path-prefix=vi" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 2 ARG (T)(1080)
+#EXTINF:-1 tvg-chno="881" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20240526103224&path-prefix=vi" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 ARG (T)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9582
-#EXTINF:-1 tvg-chno="869" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20240526103224&path-prefix=vi" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 2 COL (TV)(1080)
+#EXTINF:-1 tvg-chno="882" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20240526103224&path-prefix=vi" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 COL (TV)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9583
-#EXTINF:-1 tvg-chno="870" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20240526103224&path-prefix=vi" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 2 MEX (L)(1080)
+#EXTINF:-1 tvg-chno="883" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20240526103224&path-prefix=vi" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 MEX (L)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9584
-#EXTINF:-1 tvg-chno="871" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20240526103224&path-prefix=vi" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 2 MEX (M)(1080)
+#EXTINF:-1 tvg-chno="884" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20240526103224&path-prefix=vi" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 MEX (M)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9585
-#EXTINF:-1 tvg-chno="872" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/51/1/fox-sports-3-logo-png_seeklogo-510012.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 3 COL (TV)(720)
+#EXTINF:-1 tvg-chno="885" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZYcwBJB8/Fox-Sports-3-Asia.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 COL (TV)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9590
-#EXTINF:-1 tvg-chno="873" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/51/1/fox-sports-3-logo-png_seeklogo-510012.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 3 MEX (M)(SD)
+#EXTINF:-1 tvg-chno="886" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZYcwBJB8/Fox-Sports-3-Asia.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 MEX (M)(SD)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9591
-#EXTINF:-1 tvg-chno="874" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Fox_Sports_3_HD.svg/revision/latest?cb=20231119212719" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 3 (Z)(1080)
+#EXTINF:-1 tvg-chno="887" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsn9rXCk/Fox-Sports-3-HD.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 (Z)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9587
-#EXTINF:-1 tvg-chno="875" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Fox_Sports_3_HD.svg/revision/latest?cb=20231119212719" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 3 ARG (T)(1080)
+#EXTINF:-1 tvg-chno="888" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsn9rXCk/Fox-Sports-3-HD.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 ARG (T)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9588
-#EXTINF:-1 tvg-chno="876" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Fox_Sports_3_HD.svg/revision/latest?cb=20231119212719" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 3 ARG (TV)(1080)
+#EXTINF:-1 tvg-chno="889" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsn9rXCk/Fox-Sports-3-HD.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 ARG (TV)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9589
-#EXTINF:-1 tvg-chno="877" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Fox_Sports_3_HD.svg/revision/latest?cb=20231119212719" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports 3 MX (Z)(1080)
+#EXTINF:-1 tvg-chno="890" tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsn9rXCk/Fox-Sports-3-HD.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS 3 MX (Z)(1080)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9592
-#EXTINF:-1 tvg-chno="878" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/600px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="CANAIS: INTERNACIONAIS" pltv-subgroup="ESPORTES",DEPORTES - Fox Sports Premium MX (L)(720)
+#EXTINF:-1 tvg-chno="891" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/600px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="CANAIS: INTERNACIONAIS",FOX SPORTS PREMIUM MX (L)(720)
 http://tv.proyectox.vip:8080/marcilloliss1/Uh3cF5yCAI/9593
-#EXTINF:-1 tvg-chno="879" tvg-id="" tvg-name="Rádio gospel capital" tvg-logo="" group-title="RÁDIOS FM",Rádio gospel capital
+#EXTINF:-1 tvg-chno="892" tvg-id="id" tvg-name="F1TV: RACE CHANNEL ¹⁰⁸⁰ᵖ" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-3.png" group-title="CANAIS: INTERNACIONAIS",F1TV: RACE CHANNEL ¹⁰⁸⁰ᵖ
+http://watch.tvkijkenzondergedoe.com:8000/3408238717580/6264794375/41358
+#EXTINF:-1 tvg-chno="893" tvg-id="id" tvg-name="F1TV: RACE CHANNEL ¹⁰⁸⁰ᵖ ʰᵉᵛᶜ" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-3.png" group-title="CANAIS: INTERNACIONAIS",F1TV: RACE CHANNEL ¹⁰⁸⁰ᵖ ʰᵉᵛᶜ
+http://watch.tvkijkenzondergedoe.com:8000/3408238717580/6264794375/111614
+#EXTINF:-1 tvg-chno="894" tvg-id="id" tvg-name="MR BEAN ANIMATED" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png/revision/latest/scale-to-width-down/600?cb=20240911125617" group-title="CANAIS: INFANTIS",MR BEAN ANIMATED
+https://amg00627-amg00627c35-xiaomi-international-4921.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 tvg-chno="895" tvg-id="" tvg-name="Rádio gospel capital" tvg-logo="" group-title="RÁDIOS FM",Rádio gospel capital
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594764
-#EXTINF:-1 tvg-chno="880" tvg-id="" tvg-name="Rádio JB RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio JB RJ
+#EXTINF:-1 tvg-chno="896" tvg-id="" tvg-name="Rádio JB RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio JB RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594692
-#EXTINF:-1 tvg-chno="881" tvg-id="" tvg-name="Esporte total" tvg-logo="" group-title="RÁDIOS FM",Esporte total
+#EXTINF:-1 tvg-chno="897" tvg-id="" tvg-name="Esporte total" tvg-logo="" group-title="RÁDIOS FM",Esporte total
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594765
-#EXTINF:-1 tvg-chno="882" tvg-id="" tvg-name="FM flashback" tvg-logo="" group-title="RÁDIOS FM",FM flashback
+#EXTINF:-1 tvg-chno="898" tvg-id="" tvg-name="FM flashback" tvg-logo="" group-title="RÁDIOS FM",FM flashback
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594766
-#EXTINF:-1 tvg-chno="883" tvg-id="" tvg-name="Rádio carioca RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio carioca RJ
+#EXTINF:-1 tvg-chno="899" tvg-id="" tvg-name="Rádio carioca RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio carioca RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594767
-#EXTINF:-1 tvg-chno="884" tvg-id="" tvg-name="Rádio Bandeirantes GO" tvg-logo="" group-title="RÁDIOS FM",Rádio Bandeirantes GO
+#EXTINF:-1 tvg-chno="900" tvg-id="" tvg-name="Rádio Bandeirantes GO" tvg-logo="" group-title="RÁDIOS FM",Rádio Bandeirantes GO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594768
-#EXTINF:-1 tvg-chno="885" tvg-id="" tvg-name="Nativa FM cuiaba" tvg-logo="" group-title="RÁDIOS FM",Nativa FM cuiaba
+#EXTINF:-1 tvg-chno="901" tvg-id="" tvg-name="Nativa FM cuiaba" tvg-logo="" group-title="RÁDIOS FM",Nativa FM cuiaba
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594769
-#EXTINF:-1 tvg-chno="886" tvg-id="" tvg-name="Music Five SP" tvg-logo="" group-title="RÁDIOS FM",Music Five SP
+#EXTINF:-1 tvg-chno="902" tvg-id="" tvg-name="Music Five SP" tvg-logo="" group-title="RÁDIOS FM",Music Five SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594770
-#EXTINF:-1 tvg-chno="887" tvg-id="" tvg-name="Rádio cidade verde PI" tvg-logo="" group-title="RÁDIOS FM",Rádio cidade verde PI
+#EXTINF:-1 tvg-chno="903" tvg-id="" tvg-name="Rádio cidade verde PI" tvg-logo="" group-title="RÁDIOS FM",Rádio cidade verde PI
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594771
-#EXTINF:-1 tvg-chno="888" tvg-id="" tvg-name="Rádio evangélica vida RN" tvg-logo="" group-title="RÁDIOS FM",Rádio evangélica vida RN
+#EXTINF:-1 tvg-chno="904" tvg-id="" tvg-name="Rádio evangélica vida RN" tvg-logo="" group-title="RÁDIOS FM",Rádio evangélica vida RN
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594772
-#EXTINF:-1 tvg-chno="889" tvg-id="" tvg-name="Rádio amor incondicional RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio amor incondicional RJ
+#EXTINF:-1 tvg-chno="905" tvg-id="" tvg-name="Rádio amor incondicional RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio amor incondicional RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594773
-#EXTINF:-1 tvg-chno="890" tvg-id="" tvg-name="Rádio nova play RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio nova play RJ
+#EXTINF:-1 tvg-chno="906" tvg-id="" tvg-name="Rádio nova play RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio nova play RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594774
-#EXTINF:-1 tvg-chno="891" tvg-id="" tvg-name="Rádio som jovem.PE" tvg-logo="" group-title="RÁDIOS FM",Rádio som jovem.PE
+#EXTINF:-1 tvg-chno="907" tvg-id="" tvg-name="Rádio som jovem.PE" tvg-logo="" group-title="RÁDIOS FM",Rádio som jovem.PE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594775
-#EXTINF:-1 tvg-chno="892" tvg-id="" tvg-name="Rádio melodia RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio melodia RJ
+#EXTINF:-1 tvg-chno="908" tvg-id="" tvg-name="Rádio melodia RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio melodia RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594776
-#EXTINF:-1 tvg-chno="893" tvg-id="" tvg-name="RADIO R&B" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO R&B
+#EXTINF:-1 tvg-chno="909" tvg-id="" tvg-name="RADIO R&B" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO R&B
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594625
-#EXTINF:-1 tvg-chno="894" tvg-id="" tvg-name="RADIO K-Pop" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO K-Pop
+#EXTINF:-1 tvg-chno="910" tvg-id="" tvg-name="RADIO K-Pop" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO K-Pop
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594626
-#EXTINF:-1 tvg-chno="895" tvg-id="" tvg-name="RADIO Folk" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Folk
+#EXTINF:-1 tvg-chno="911" tvg-id="" tvg-name="RADIO Folk" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Folk
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594627
-#EXTINF:-1 tvg-chno="896" tvg-id="" tvg-name="RADIO Gospel Internacional" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Gospel Internacional
+#EXTINF:-1 tvg-chno="912" tvg-id="" tvg-name="RADIO Gospel Internacional" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Gospel Internacional
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594628
-#EXTINF:-1 tvg-chno="897" tvg-id="" tvg-name="RADIO Gospel" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Gospel
+#EXTINF:-1 tvg-chno="913" tvg-id="" tvg-name="RADIO Gospel" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Gospel
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594629
-#EXTINF:-1 tvg-chno="898" tvg-id="" tvg-name="RADIO Reggae" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Reggae
+#EXTINF:-1 tvg-chno="914" tvg-id="" tvg-name="RADIO Reggae" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Reggae
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594630
-#EXTINF:-1 tvg-chno="899" tvg-id="" tvg-name="RADIO Rock" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Rock
+#EXTINF:-1 tvg-chno="915" tvg-id="" tvg-name="RADIO Rock" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Rock
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594631
-#EXTINF:-1 tvg-chno="900" tvg-id="" tvg-name="RADIO FORRÓ" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO FORRÓ
+#EXTINF:-1 tvg-chno="916" tvg-id="" tvg-name="RADIO FORRÓ" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO FORRÓ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594632
-#EXTINF:-1 tvg-chno="901" tvg-id="" tvg-name="RADIO POP" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO POP
+#EXTINF:-1 tvg-chno="917" tvg-id="" tvg-name="RADIO POP" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO POP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594633
-#EXTINF:-1 tvg-chno="902" tvg-id="" tvg-name="RADIO Latina" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Latina
+#EXTINF:-1 tvg-chno="918" tvg-id="" tvg-name="RADIO Latina" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Latina
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594634
-#EXTINF:-1 tvg-chno="903" tvg-id="" tvg-name="RADIO Eletrônica" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Eletrônica
+#EXTINF:-1 tvg-chno="919" tvg-id="" tvg-name="RADIO Eletrônica" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Eletrônica
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594635
-#EXTINF:-1 tvg-chno="904" tvg-id="" tvg-name="RADIO Hip-Hop" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Hip-Hop
+#EXTINF:-1 tvg-chno="920" tvg-id="" tvg-name="RADIO Hip-Hop" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Hip-Hop
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594636
-#EXTINF:-1 tvg-chno="905" tvg-id="" tvg-name="RADIO Pop Rock" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Pop Rock
+#EXTINF:-1 tvg-chno="921" tvg-id="" tvg-name="RADIO Pop Rock" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Pop Rock
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594637
-#EXTINF:-1 tvg-chno="906" tvg-id="" tvg-name="RADIO Funk" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Funk
+#EXTINF:-1 tvg-chno="922" tvg-id="" tvg-name="RADIO Funk" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Funk
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594638
-#EXTINF:-1 tvg-chno="907" tvg-id="" tvg-name="RADIO Pagode" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Pagode
+#EXTINF:-1 tvg-chno="923" tvg-id="" tvg-name="RADIO Pagode" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Pagode
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594639
-#EXTINF:-1 tvg-chno="908" tvg-id="" tvg-name="RADIO Rock" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Rock
+#EXTINF:-1 tvg-chno="924" tvg-id="" tvg-name="RADIO Rock" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Rock
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594640
-#EXTINF:-1 tvg-chno="909" tvg-id="" tvg-name="RADIO MPB" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO MPB
+#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name="RADIO MPB" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO MPB
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594641
-#EXTINF:-1 tvg-chno="910" tvg-id="" tvg-name="RADIO Sertanejo" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Sertanejo
+#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name="RADIO Sertanejo" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Sertanejo
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594642
-#EXTINF:-1 tvg-chno="911" tvg-id="" tvg-name="RADIO Sertanejo RomÃ¢ntico" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Sertanejo RomÃ¢ntico
+#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name="RADIO Sertanejo RomÃ¢ntico" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Sertanejo RomÃ¢ntico
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594643
-#EXTINF:-1 tvg-chno="912" tvg-id="" tvg-name="RADIO Anos 80" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Anos 80
+#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="RADIO Anos 80" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Anos 80
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594644
-#EXTINF:-1 tvg-chno="913" tvg-id="" tvg-name="RADIO Anos 90" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Anos 90
+#EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name="RADIO Anos 90" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Anos 90
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594645
-#EXTINF:-1 tvg-chno="914" tvg-id="" tvg-name="RADIO Anos 2000" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Anos 2000
+#EXTINF:-1 tvg-chno="930" tvg-id="" tvg-name="RADIO Anos 2000" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Anos 2000
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594646
-#EXTINF:-1 tvg-chno="915" tvg-id="" tvg-name="RADIO Pop Nacional" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Pop Nacional
+#EXTINF:-1 tvg-chno="931" tvg-id="" tvg-name="RADIO Pop Nacional" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Pop Nacional
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594647
-#EXTINF:-1 tvg-chno="916" tvg-id="" tvg-name="RADIO Pop Rock Nacional" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Pop Rock Nacional
+#EXTINF:-1 tvg-chno="932" tvg-id="" tvg-name="RADIO Pop Rock Nacional" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Pop Rock Nacional
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594648
-#EXTINF:-1 tvg-chno="917" tvg-id="" tvg-name="RADIO J-Pop" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO J-Pop
+#EXTINF:-1 tvg-chno="933" tvg-id="" tvg-name="RADIO J-Pop" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO J-Pop
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594649
-#EXTINF:-1 tvg-chno="918" tvg-id="" tvg-name="RADIO RomÃ¢nticas" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO RomÃ¢nticas
+#EXTINF:-1 tvg-chno="934" tvg-id="" tvg-name="RADIO RomÃ¢nticas" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO RomÃ¢nticas
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594650
-#EXTINF:-1 tvg-chno="919" tvg-id="" tvg-name="RADIO Cachoeira AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Cachoeira AM
+#EXTINF:-1 tvg-chno="935" tvg-id="" tvg-name="RADIO Cachoeira AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Cachoeira AM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594651
-#EXTINF:-1 tvg-chno="920" tvg-id="" tvg-name="RADIO Nova FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Nova FM
+#EXTINF:-1 tvg-chno="936" tvg-id="" tvg-name="RADIO Nova FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Nova FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594652
-#EXTINF:-1 tvg-chno="921" tvg-id="" tvg-name="RADIO Clube BagÃ© AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Clube BagÃ© AM
+#EXTINF:-1 tvg-chno="937" tvg-id="" tvg-name="RADIO Clube BagÃ© AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Clube BagÃ© AM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594653
-#EXTINF:-1 tvg-chno="922" tvg-id="" tvg-name="RADIO EsperanÃ§a AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO EsperanÃ§a AM
+#EXTINF:-1 tvg-chno="938" tvg-id="" tvg-name="RADIO Esperança AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO EsperanÃ§a AM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594655
-#EXTINF:-1 tvg-chno="923" tvg-id="" tvg-name="RADIO Alegria FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Alegria FM
+#EXTINF:-1 tvg-chno="939" tvg-id="" tvg-name="RADIO Alegria FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Alegria FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594654
-#EXTINF:-1 tvg-chno="924" tvg-id="" tvg-name="RADIO Itapema FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Itapema FM
+#EXTINF:-1 tvg-chno="940" tvg-id="" tvg-name="RADIO Itapema FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Itapema FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594656
-#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name="RADIO Novo Tempo FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Novo Tempo FM
+#EXTINF:-1 tvg-chno="941" tvg-id="" tvg-name="RADIO Novo Tempo FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Novo Tempo FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594657
-#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name="RADIO GuaÃ­ba FM/AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO GuaÃ­ba FM/AM
+#EXTINF:-1 tvg-chno="942" tvg-id="" tvg-name="RADIO GuaÃ­ba FM/AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO GuaÃ­ba FM/AM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594658
-#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name="RADIO AtlÃ¢ntida FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO AtlÃ¢ntida FM
+#EXTINF:-1 tvg-chno="943" tvg-id="" tvg-name="RADIO AtlÃ¢ntida FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO AtlÃ¢ntida FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594659
-#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="RADIO Band News FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Band News FM
+#EXTINF:-1 tvg-chno="944" tvg-id="" tvg-name="RADIO Band News FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Band News FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594660
-#EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name="RADIO Farroupilha FM/AM" tvg-logo="http://i.imgur.com/WZrYSBf.gif" group-title="RÁDIOS FM",RADIO Farroupilha FM/AM
+#EXTINF:-1 tvg-chno="945" tvg-id="" tvg-name="RADIO Farroupilha FM/AM" tvg-logo="http://i.imgur.com/WZrYSBf.gif" group-title="RÁDIOS FM",RADIO Farroupilha FM/AM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594661
-#EXTINF:-1 tvg-chno="930" tvg-id="" tvg-name="RADIO GaÃºcha FM/AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO GaÃºcha FM/AM
+#EXTINF:-1 tvg-chno="946" tvg-id="" tvg-name="RADIO GaÃºcha FM/AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO GaÃºcha FM/AM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594662
-#EXTINF:-1 tvg-chno="931" tvg-id="" tvg-name="RADIO Bandeirantes FM/AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Bandeirantes FM/AM
+#EXTINF:-1 tvg-chno="947" tvg-id="" tvg-name="RADIO Bandeirantes FM/AM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Bandeirantes FM/AM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594663
-#EXTINF:-1 tvg-chno="932" tvg-id="" tvg-name="Gr6 Explode FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",Gr6 Explode FM
+#EXTINF:-1 tvg-chno="948" tvg-id="" tvg-name="Gr6 Explode FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",Gr6 Explode FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594664
-#EXTINF:-1 tvg-chno="933" tvg-id="" tvg-name="RADIO FM O Dia" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO FM O Dia
+#EXTINF:-1 tvg-chno="949" tvg-id="" tvg-name="RADIO FM O Dia" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO FM O Dia
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594665
-#EXTINF:-1 tvg-chno="934" tvg-id="" tvg-name="RADIO Mix FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Mix FM
+#EXTINF:-1 tvg-chno="950" tvg-id="" tvg-name="RADIO Mix FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Mix FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594666
-#EXTINF:-1 tvg-chno="935" tvg-id="" tvg-name="RADIO Coca Cola FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Coca Cola FM
+#EXTINF:-1 tvg-chno="951" tvg-id="" tvg-name="RADIO Coca Cola FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Coca Cola FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594667
-#EXTINF:-1 tvg-chno="936" tvg-id="" tvg-name="RADIO Mania FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Mania FM
+#EXTINF:-1 tvg-chno="952" tvg-id="" tvg-name="RADIO Mania FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Mania FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594668
-#EXTINF:-1 tvg-chno="937" tvg-id="" tvg-name="RADIO Transamerica FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Transamerica FM
+#EXTINF:-1 tvg-chno="953" tvg-id="" tvg-name="RADIO Transamerica FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Transamerica FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594669
-#EXTINF:-1 tvg-chno="938" tvg-id="" tvg-name="RADIO Jovem Pan FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Jovem Pan FM
+#EXTINF:-1 tvg-chno="954" tvg-id="" tvg-name="RADIO Jovem Pan FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Jovem Pan FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594670
-#EXTINF:-1 tvg-chno="939" tvg-id="" tvg-name="RADIO 99.5 FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO 99.5 FM
+#EXTINF:-1 tvg-chno="955" tvg-id="" tvg-name="RADIO 99.5 FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO 99.5 FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594671
-#EXTINF:-1 tvg-chno="940" tvg-id="" tvg-name="RADIO Princesa FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Princesa FM
+#EXTINF:-1 tvg-chno="956" tvg-id="" tvg-name="RADIO Princesa FM" tvg-logo="http://neofeed.com.br/wp-content/uploads/2022/09/radio-2-v.jpg" group-title="RÁDIOS FM",RADIO Princesa FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594672
-#EXTINF:-1 tvg-chno="941" tvg-id="" tvg-name="Radio Missao Catolica de Garrafao do Norte - PA" tvg-logo="http://ccdntp.xyz:80/images/703021c3b3d98c2c828a17c813f9c98a.png" group-title="RÁDIOS FM",Radio Missao Catolica de Garrafao do Norte - PA
+#EXTINF:-1 tvg-chno="957" tvg-id="" tvg-name="Radio Missao Catolica de Garrafao do Norte - PA" tvg-logo="http://ccdntp.xyz:80/images/703021c3b3d98c2c828a17c813f9c98a.png" group-title="RÁDIOS FM",Radio Missao Catolica de Garrafao do Norte - PA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594673
-#EXTINF:-1 tvg-chno="942" tvg-id="" tvg-name="Radio Garra Norte FM de Garrafao do Norte - PA" tvg-logo="http://ccdntp.xyz:80/images/046e1c7987ce4f8e74b533fb245d2835.jpg" group-title="RÁDIOS FM",Radio Garra Norte FM de Garrafao do Norte - PA
+#EXTINF:-1 tvg-chno="958" tvg-id="" tvg-name="Radio Garra Norte FM de Garrafao do Norte - PA" tvg-logo="http://ccdntp.xyz:80/images/046e1c7987ce4f8e74b533fb245d2835.jpg" group-title="RÁDIOS FM",Radio Garra Norte FM de Garrafao do Norte - PA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594674
-#EXTINF:-1 tvg-chno="943" tvg-id="" tvg-name="Radio Ouro Verde de Capitao-poco - PA" tvg-logo="http://udiwebsistem.com.br/logos/radios/ouroverdefm.jpeg" group-title="RÁDIOS FM",Radio Ouro Verde de Capitao-poco - PA
+#EXTINF:-1 tvg-chno="959" tvg-id="" tvg-name="Radio Ouro Verde de Capitao-poco - PA" tvg-logo="http://udiwebsistem.com.br/logos/radios/ouroverdefm.jpeg" group-title="RÁDIOS FM",Radio Ouro Verde de Capitao-poco - PA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594675
-#EXTINF:-1 tvg-chno="944" tvg-id="" tvg-name="Serra Azul FM" tvg-logo="http://ccdntp.xyz:80/images/eafb4baf127df0e3ab7916ed86328a75.jpeg" group-title="RÁDIOS FM",Serra Azul FM
+#EXTINF:-1 tvg-chno="960" tvg-id="" tvg-name="Serra Azul FM" tvg-logo="http://ccdntp.xyz:80/images/eafb4baf127df0e3ab7916ed86328a75.jpeg" group-title="RÁDIOS FM",Serra Azul FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594676
-#EXTINF:-1 tvg-chno="945" tvg-id="" tvg-name="99FM Belém PA" tvg-logo="http://udiwebsistem.com.br/logos/radios/99fm.jpeg" group-title="RÁDIOS FM",99FM Belém PA
+#EXTINF:-1 tvg-chno="961" tvg-id="" tvg-name="99FM Belém PA" tvg-logo="http://udiwebsistem.com.br/logos/radios/99fm.jpeg" group-title="RÁDIOS FM",99FM Belém PA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594677
-#EXTINF:-1 tvg-chno="946" tvg-id="" tvg-name="Góspel FM Curitiba PR" tvg-logo="http://udiwebsistem.com.br/logos/radios/gospelfm993.jpg" group-title="RÁDIOS FM",Góspel FM Curitiba PR
+#EXTINF:-1 tvg-chno="962" tvg-id="" tvg-name="Góspel FM Curitiba PR" tvg-logo="http://udiwebsistem.com.br/logos/radios/gospelfm993.jpg" group-title="RÁDIOS FM",Góspel FM Curitiba PR
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594678
-#EXTINF:-1 tvg-chno="947" tvg-id="" tvg-name="Rádio Góspel Campinas" tvg-logo="http://udiwebsistem.com.br/logos/radios/radiogospelcampinas.jpg" group-title="RÁDIOS FM",Rádio Góspel Campinas
+#EXTINF:-1 tvg-chno="963" tvg-id="" tvg-name="Rádio Góspel Campinas" tvg-logo="http://udiwebsistem.com.br/logos/radios/radiogospelcampinas.jpg" group-title="RÁDIOS FM",Rádio Góspel Campinas
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594679
-#EXTINF:-1 tvg-chno="948" tvg-id="" tvg-name="Udi Jovem Web Rádio" tvg-logo="http://udiwebsistem.com.br/logos/radios/logo%20udijovem.png" group-title="RÁDIOS FM",Udi Jovem Web Rádio
+#EXTINF:-1 tvg-chno="964" tvg-id="" tvg-name="Udi Jovem Web Rádio" tvg-logo="http://udiwebsistem.com.br/logos/radios/logo%20udijovem.png" group-title="RÁDIOS FM",Udi Jovem Web Rádio
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594680
-#EXTINF:-1 tvg-chno="949" tvg-id="" tvg-name="TOP MUSICAL WEB RADIO" tvg-logo="http://udiwebsistem.com.br/logos/radios/radio%20topmusical.jpg" group-title="RÁDIOS FM",TOP MUSICAL WEB RADIO
+#EXTINF:-1 tvg-chno="965" tvg-id="" tvg-name="TOP MUSICAL WEB RADIO" tvg-logo="http://udiwebsistem.com.br/logos/radios/radio%20topmusical.jpg" group-title="RÁDIOS FM",TOP MUSICAL WEB RADIO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594681
-#EXTINF:-1 tvg-chno="950" tvg-id="" tvg-name="Rádio Ourem News" tvg-logo="http://i.imgur.com/ca0LxVW.jpg" group-title="RÁDIOS FM",Rádio Ourem News
+#EXTINF:-1 tvg-chno="966" tvg-id="" tvg-name="Rádio Ourem News" tvg-logo="http://i.imgur.com/ca0LxVW.jpg" group-title="RÁDIOS FM",Rádio Ourem News
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594682
-#EXTINF:-1 tvg-chno="951" tvg-id="" tvg-name="Radio Jipuúba - Garrafão do Norte -PA" tvg-logo="http://ccdntp.xyz:80/images/3f246a88ac4fd043c4e8f870479b2ddc.png" group-title="RÁDIOS FM",Radio Jipuúba - Garrafão do Norte -PA
+#EXTINF:-1 tvg-chno="967" tvg-id="" tvg-name="Radio Jipuúba - Garrafão do Norte -PA" tvg-logo="http://ccdntp.xyz:80/images/3f246a88ac4fd043c4e8f870479b2ddc.png" group-title="RÁDIOS FM",Radio Jipuúba - Garrafão do Norte -PA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594683
-#EXTINF:-1 tvg-chno="952" tvg-id="" tvg-name="Rádio gaúcha AM 600" tvg-logo="" group-title="RÁDIOS FM",Rádio gaúcha AM 600
+#EXTINF:-1 tvg-chno="968" tvg-id="" tvg-name="Rádio gaúcha AM 600" tvg-logo="" group-title="RÁDIOS FM",Rádio gaúcha AM 600
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594684
-#EXTINF:-1 tvg-chno="953" tvg-id="" tvg-name="Rádio Itatiaia MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Itatiaia MG
+#EXTINF:-1 tvg-chno="969" tvg-id="" tvg-name="Rádio Itatiaia MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Itatiaia MG
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594685
-#EXTINF:-1 tvg-chno="954" tvg-id="" tvg-name="Rádio Grenal RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Grenal RS
+#EXTINF:-1 tvg-chno="970" tvg-id="" tvg-name="Rádio Grenal RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Grenal RS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594686
-#EXTINF:-1 tvg-chno="955" tvg-id="" tvg-name="Rádio CBN SP" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN SP
+#EXTINF:-1 tvg-chno="971" tvg-id="" tvg-name="Rádio CBN SP" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594687
-#EXTINF:-1 tvg-chno="956" tvg-id="" tvg-name="Rádio Saudade SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Saudade SP
+#EXTINF:-1 tvg-chno="972" tvg-id="" tvg-name="Rádio Saudade SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Saudade SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594688
-#EXTINF:-1 tvg-chno="957" tvg-id="" tvg-name="Rádio Antena 1 SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Antena 1 SP
+#EXTINF:-1 tvg-chno="973" tvg-id="" tvg-name="Rádio Antena 1 SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Antena 1 SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594689
-#EXTINF:-1 tvg-chno="958" tvg-id="" tvg-name="Rádio Evangelizar PR" tvg-logo="" group-title="RÁDIOS FM",Rádio Evangelizar PR
+#EXTINF:-1 tvg-chno="974" tvg-id="" tvg-name="Rádio Evangelizar PR" tvg-logo="" group-title="RÁDIOS FM",Rádio Evangelizar PR
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594690
-#EXTINF:-1 tvg-chno="959" tvg-id="" tvg-name="Rádio Transamérica SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Transamérica SP
+#EXTINF:-1 tvg-chno="975" tvg-id="" tvg-name="Rádio Transamérica SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Transamérica SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594691
-#EXTINF:-1 tvg-chno="960" tvg-id="" tvg-name="Rádio Melodia RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Melodia RJ
+#EXTINF:-1 tvg-chno="976" tvg-id="" tvg-name="Rádio Melodia RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Melodia RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594693
-#EXTINF:-1 tvg-chno="961" tvg-id="" tvg-name="Rádio Capital SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Capital SP
+#EXTINF:-1 tvg-chno="977" tvg-id="" tvg-name="Rádio Capital SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Capital SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594694
-#EXTINF:-1 tvg-chno="962" tvg-id="" tvg-name="Rádio Clube DF" tvg-logo="" group-title="RÁDIOS FM",Rádio Clube DF
+#EXTINF:-1 tvg-chno="978" tvg-id="" tvg-name="Rádio Clube DF" tvg-logo="" group-title="RÁDIOS FM",Rádio Clube DF
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594695
-#EXTINF:-1 tvg-chno="963" tvg-id="" tvg-name="Rádio Sociedade BA" tvg-logo="" group-title="RÁDIOS FM",Rádio Sociedade BA
+#EXTINF:-1 tvg-chno="979" tvg-id="" tvg-name="Rádio Sociedade BA" tvg-logo="" group-title="RÁDIOS FM",Rádio Sociedade BA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594696
-#EXTINF:-1 tvg-chno="964" tvg-id="" tvg-name="Rádio Alpha SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Alpha SP
+#EXTINF:-1 tvg-chno="980" tvg-id="" tvg-name="Rádio Alpha SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Alpha SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594697
-#EXTINF:-1 tvg-chno="965" tvg-id="" tvg-name="Rádio Mix SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Mix SP
+#EXTINF:-1 tvg-chno="981" tvg-id="" tvg-name="Rádio Mix SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Mix SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594698
-#EXTINF:-1 tvg-chno="966" tvg-id="" tvg-name="Rádio Aparecida SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Aparecida SP
+#EXTINF:-1 tvg-chno="982" tvg-id="" tvg-name="Rádio Aparecida SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Aparecida SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594699
-#EXTINF:-1 tvg-chno="967" tvg-id="" tvg-name="Rádio Jovem Pan SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Jovem Pan SP
+#EXTINF:-1 tvg-chno="983" tvg-id="" tvg-name="Rádio Jovem Pan SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Jovem Pan SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594700
-#EXTINF:-1 tvg-chno="968" tvg-id="" tvg-name="Rádio Nova Brasil SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Nova Brasil SP
+#EXTINF:-1 tvg-chno="984" tvg-id="" tvg-name="Rádio Nova Brasil SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Nova Brasil SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594701
-#EXTINF:-1 tvg-chno="969" tvg-id="" tvg-name="Rádio Viola PR" tvg-logo="" group-title="RÁDIOS FM",Rádio Viola PR
+#EXTINF:-1 tvg-chno="985" tvg-id="" tvg-name="Rádio Viola PR" tvg-logo="" group-title="RÁDIOS FM",Rádio Viola PR
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594702
-#EXTINF:-1 tvg-chno="970" tvg-id="" tvg-name="Rádio GFM BA" tvg-logo="" group-title="RÁDIOS FM",Rádio GFM BA
+#EXTINF:-1 tvg-chno="986" tvg-id="" tvg-name="Rádio GFM BA" tvg-logo="" group-title="RÁDIOS FM",Rádio GFM BA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594703
-#EXTINF:-1 tvg-chno="971" tvg-id="" tvg-name="Rádio Metropolitana SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Metropolitana SP
+#EXTINF:-1 tvg-chno="987" tvg-id="" tvg-name="Rádio Metropolitana SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Metropolitana SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594704
-#EXTINF:-1 tvg-chno="972" tvg-id="" tvg-name="Rádio canção Nova SP" tvg-logo="" group-title="RÁDIOS FM",Rádio canção Nova SP
+#EXTINF:-1 tvg-chno="988" tvg-id="" tvg-name="Rádio canção Nova SP" tvg-logo="" group-title="RÁDIOS FM",Rádio canção Nova SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594705
-#EXTINF:-1 tvg-chno="973" tvg-id="" tvg-name="Rádio Rock SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Rock SP
+#EXTINF:-1 tvg-chno="989" tvg-id="" tvg-name="Rádio Rock SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Rock SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594706
-#EXTINF:-1 tvg-chno="974" tvg-id="" tvg-name="Rádio Conquista SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Conquista SP
+#EXTINF:-1 tvg-chno="990" tvg-id="" tvg-name="Rádio Conquista SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Conquista SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594707
-#EXTINF:-1 tvg-chno="975" tvg-id="" tvg-name="Rádio Guaíba RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Guaíba RS
+#EXTINF:-1 tvg-chno="991" tvg-id="" tvg-name="Rádio Guaíba RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Guaíba RS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594708
-#EXTINF:-1 tvg-chno="976" tvg-id="" tvg-name="Rádio Kiss SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Kiss SP
+#EXTINF:-1 tvg-chno="992" tvg-id="" tvg-name="Rádio Kiss SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Kiss SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594709
-#EXTINF:-1 tvg-chno="977" tvg-id="" tvg-name="Rádio 105 SP" tvg-logo="" group-title="RÁDIOS FM",Rádio 105 SP
+#EXTINF:-1 tvg-chno="993" tvg-id="" tvg-name="Rádio 105 SP" tvg-logo="" group-title="RÁDIOS FM",Rádio 105 SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594710
-#EXTINF:-1 tvg-chno="978" tvg-id="" tvg-name="Rádio Atlântida RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Atlântida RS
+#EXTINF:-1 tvg-chno="994" tvg-id="" tvg-name="Rádio Atlântida RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Atlântida RS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594711
-#EXTINF:-1 tvg-chno="979" tvg-id="" tvg-name="Rádio CBN grande Lagos SP" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN grande Lagos SP
+#EXTINF:-1 tvg-chno="995" tvg-id="" tvg-name="Rádio CBN grande Lagos SP" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN grande Lagos SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594712
-#EXTINF:-1 tvg-chno="980" tvg-id="" tvg-name="Rádio Energia Fm SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Energia Fm SP
+#EXTINF:-1 tvg-chno="996" tvg-id="" tvg-name="Rádio Energia Fm SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Energia Fm SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594713
-#EXTINF:-1 tvg-chno="981" tvg-id="" tvg-name="Rádio Liberdade MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Liberdade MG
+#EXTINF:-1 tvg-chno="997" tvg-id="" tvg-name="Rádio Liberdade MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Liberdade MG
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594714
-#EXTINF:-1 tvg-chno="982" tvg-id="" tvg-name="Radio 98 MG" tvg-logo="" group-title="RÁDIOS FM",Radio 98 MG
+#EXTINF:-1 tvg-chno="998" tvg-id="" tvg-name="Radio 98 MG" tvg-logo="" group-title="RÁDIOS FM",Radio 98 MG
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594715
-#EXTINF:-1 tvg-chno="983" tvg-id="" tvg-name="Rádio Difusora Pantanal MS" tvg-logo="" group-title="RÁDIOS FM",Rádio Difusora Pantanal MS
+#EXTINF:-1 tvg-chno="999" tvg-id="" tvg-name="Rádio Difusora Pantanal MS" tvg-logo="" group-title="RÁDIOS FM",Rádio Difusora Pantanal MS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594716
-#EXTINF:-1 tvg-chno="984" tvg-id="" tvg-name="Rádio Massa SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Massa SP
+#EXTINF:-1 tvg-chno="1000" tvg-id="" tvg-name="Rádio Massa SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Massa SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594717
-#EXTINF:-1 tvg-chno="985" tvg-id="" tvg-name="Rádio Difusora PB" tvg-logo="" group-title="RÁDIOS FM",Rádio Difusora PB
+#EXTINF:-1 tvg-chno="1001" tvg-id="" tvg-name="Rádio Difusora PB" tvg-logo="" group-title="RÁDIOS FM",Rádio Difusora PB
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594718
-#EXTINF:-1 tvg-chno="986" tvg-id="" tvg-name="Rádio Assunção Cearense CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Assunção Cearense CE
+#EXTINF:-1 tvg-chno="1002" tvg-id="" tvg-name="Rádio Assunção Cearense CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Assunção Cearense CE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594719
-#EXTINF:-1 tvg-chno="987" tvg-id="" tvg-name="Rádio Jangadeiro CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Jangadeiro CE
+#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-name="Rádio Jangadeiro CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Jangadeiro CE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594720
-#EXTINF:-1 tvg-chno="988" tvg-id="" tvg-name="Rádio Inconfidência MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Inconfidência MG
+#EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-name="Rádio Inconfidência MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Inconfidência MG
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594721
-#EXTINF:-1 tvg-chno="989" tvg-id="" tvg-name="Rádio Senado DF" tvg-logo="" group-title="RÁDIOS FM",Rádio Senado DF
+#EXTINF:-1 tvg-chno="1005" tvg-id="" tvg-name="Rádio Senado DF" tvg-logo="" group-title="RÁDIOS FM",Rádio Senado DF
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594722
-#EXTINF:-1 tvg-chno="990" tvg-id="" tvg-name="Rádio Pampa RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Pampa RS
+#EXTINF:-1 tvg-chno="1006" tvg-id="" tvg-name="Rádio Pampa RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Pampa RS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594723
-#EXTINF:-1 tvg-chno="991" tvg-id="" tvg-name="Rádio Banda B PR" tvg-logo="" group-title="RÁDIOS FM",Rádio Banda B PR
+#EXTINF:-1 tvg-chno="1007" tvg-id="" tvg-name="Rádio Banda B PR" tvg-logo="" group-title="RÁDIOS FM",Rádio Banda B PR
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594724
-#EXTINF:-1 tvg-chno="992" tvg-id="" tvg-name="Rádio Itapoan BA" tvg-logo="" group-title="RÁDIOS FM",Rádio Itapoan BA
+#EXTINF:-1 tvg-chno="1008" tvg-id="" tvg-name="Rádio Itapoan BA" tvg-logo="" group-title="RÁDIOS FM",Rádio Itapoan BA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594725
-#EXTINF:-1 tvg-chno="993" tvg-id="" tvg-name="Rádio Mirante MA" tvg-logo="" group-title="RÁDIOS FM",Rádio Mirante MA
+#EXTINF:-1 tvg-chno="1009" tvg-id="" tvg-name="Rádio Mirante MA" tvg-logo="" group-title="RÁDIOS FM",Rádio Mirante MA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594726
-#EXTINF:-1 tvg-chno="994" tvg-id="" tvg-name="Rádio Transcontinental SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Transcontinental SP
+#EXTINF:-1 tvg-chno="1010" tvg-id="" tvg-name="Rádio Transcontinental SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Transcontinental SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594727
-#EXTINF:-1 tvg-chno="995" tvg-id="" tvg-name="Rádio 90.3 MG" tvg-logo="" group-title="RÁDIOS FM",Rádio 90.3 MG
+#EXTINF:-1 tvg-chno="1011" tvg-id="" tvg-name="Rádio 90.3 MG" tvg-logo="" group-title="RÁDIOS FM",Rádio 90.3 MG
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594728
-#EXTINF:-1 tvg-chno="996" tvg-id="" tvg-name="Rádio Continental RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Continental RS
+#EXTINF:-1 tvg-chno="1012" tvg-id="" tvg-name="Rádio Continental RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Continental RS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594729
-#EXTINF:-1 tvg-chno="997" tvg-id="" tvg-name="Rádio Gazeta SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Gazeta SP
+#EXTINF:-1 tvg-chno="1013" tvg-id="" tvg-name="Rádio Gazeta SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Gazeta SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594730
-#EXTINF:-1 tvg-chno="998" tvg-id="" tvg-name="Rádio Rauland PA" tvg-logo="http://ccdntp.xyz:80/images/82d7604e0b522ead016c9a17735f941f.png" group-title="RÁDIOS FM",Rádio Rauland PA
+#EXTINF:-1 tvg-chno="1014" tvg-id="" tvg-name="Rádio Rauland PA" tvg-logo="http://ccdntp.xyz:80/images/82d7604e0b522ead016c9a17735f941f.png" group-title="RÁDIOS FM",Rádio Rauland PA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594731
-#EXTINF:-1 tvg-chno="999" tvg-id="" tvg-name="Rádio Super MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Super MG
+#EXTINF:-1 tvg-chno="1015" tvg-id="" tvg-name="Rádio Super MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Super MG
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594732
-#EXTINF:-1 tvg-chno="1000" tvg-id="" tvg-name="Rádio Dom Bosco CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Dom Bosco CE
+#EXTINF:-1 tvg-chno="1016" tvg-id="" tvg-name="Rádio Dom Bosco CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Dom Bosco CE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594733
-#EXTINF:-1 tvg-chno="1001" tvg-id="" tvg-name="Rádio Arapuan PB" tvg-logo="" group-title="RÁDIOS FM",Rádio Arapuan PB
+#EXTINF:-1 tvg-chno="1017" tvg-id="" tvg-name="Rádio Arapuan PB" tvg-logo="" group-title="RÁDIOS FM",Rádio Arapuan PB
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594734
-#EXTINF:-1 tvg-chno="1002" tvg-id="" tvg-name="Rádio Cidade Fortaleza CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Cidade Fortaleza CE
+#EXTINF:-1 tvg-chno="1018" tvg-id="" tvg-name="Rádio Cidade Fortaleza CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Cidade Fortaleza CE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594735
-#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-name="Rádio 89 Fm CE" tvg-logo="" group-title="RÁDIOS FM",Rádio 89 Fm CE
+#EXTINF:-1 tvg-chno="1019" tvg-id="" tvg-name="Rádio 89 Fm CE" tvg-logo="" group-title="RÁDIOS FM",Rádio 89 Fm CE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594736
-#EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-name="Rádio Ouro Verde Capitão Poço" tvg-logo="" group-title="RÁDIOS FM",Rádio Ouro Verde Capitão Poço
+#EXTINF:-1 tvg-chno="1020" tvg-id="" tvg-name="Rádio Ouro Verde Capitão Poço" tvg-logo="" group-title="RÁDIOS FM",Rádio Ouro Verde Capitão Poço
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594737
-#EXTINF:-1 tvg-chno="1005" tvg-id="" tvg-name="Rádio Cidade CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Cidade CE
+#EXTINF:-1 tvg-chno="1021" tvg-id="" tvg-name="Rádio Cidade CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Cidade CE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594738
-#EXTINF:-1 tvg-chno="1006" tvg-id="" tvg-name="Rádio Ministério Canaã CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Ministério Canaã CE
+#EXTINF:-1 tvg-chno="1022" tvg-id="" tvg-name="Rádio Ministério Canaã CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Ministério Canaã CE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594739
-#EXTINF:-1 tvg-chno="1007" tvg-id="" tvg-name="Rádio Liderança CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Liderança CE
+#EXTINF:-1 tvg-chno="1023" tvg-id="" tvg-name="Rádio Liderança CE" tvg-logo="" group-title="RÁDIOS FM",Rádio Liderança CE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594740
-#EXTINF:-1 tvg-chno="1008" tvg-id="" tvg-name="Rádio Positivo GO" tvg-logo="" group-title="RÁDIOS FM",Rádio Positivo GO
+#EXTINF:-1 tvg-chno="1024" tvg-id="" tvg-name="Rádio Positivo GO" tvg-logo="" group-title="RÁDIOS FM",Rádio Positivo GO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594741
-#EXTINF:-1 tvg-chno="1009" tvg-id="" tvg-name="Rádio Novas de Paz PE" tvg-logo="" group-title="RÁDIOS FM",Rádio Novas de Paz PE
+#EXTINF:-1 tvg-chno="1025" tvg-id="" tvg-name="Rádio Novas de Paz PE" tvg-logo="" group-title="RÁDIOS FM",Rádio Novas de Paz PE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594742
-#EXTINF:-1 tvg-chno="1010" tvg-id="" tvg-name="Rádio 98 Correio Sat PB" tvg-logo="" group-title="RÁDIOS FM",Rádio 98 Correio Sat PB
+#EXTINF:-1 tvg-chno="1026" tvg-id="" tvg-name="Rádio 98 Correio Sat PB" tvg-logo="" group-title="RÁDIOS FM",Rádio 98 Correio Sat PB
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594743
-#EXTINF:-1 tvg-chno="1011" tvg-id="" tvg-name="Rádio Hot SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Hot SP
+#EXTINF:-1 tvg-chno="1027" tvg-id="" tvg-name="Rádio Hot SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Hot SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594744
-#EXTINF:-1 tvg-chno="1012" tvg-id="" tvg-name="Rádio Imperial RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Imperial RS
+#EXTINF:-1 tvg-chno="1028" tvg-id="" tvg-name="Rádio Imperial RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Imperial RS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594745
-#EXTINF:-1 tvg-chno="1013" tvg-id="" tvg-name="Rádio Super RD SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Super RD SP
+#EXTINF:-1 tvg-chno="1029" tvg-id="" tvg-name="Rádio Super RD SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Super RD SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594746
-#EXTINF:-1 tvg-chno="1014" tvg-id="" tvg-name="Rádio Liberdade RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Liberdade RS
+#EXTINF:-1 tvg-chno="1030" tvg-id="" tvg-name="Rádio Liberdade RS" tvg-logo="" group-title="RÁDIOS FM",Rádio Liberdade RS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594747
-#EXTINF:-1 tvg-chno="1015" tvg-id="" tvg-name="Rádio Marumby SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Marumby SP
+#EXTINF:-1 tvg-chno="1031" tvg-id="" tvg-name="Rádio Marumby SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Marumby SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594748
-#EXTINF:-1 tvg-chno="1016" tvg-id="" tvg-name="Rádio SulAmérica Paradiso RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio SulAmérica Paradiso RJ
+#EXTINF:-1 tvg-chno="1032" tvg-id="" tvg-name="Rádio SulAmérica Paradiso RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio SulAmérica Paradiso RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594749
-#EXTINF:-1 tvg-chno="1017" tvg-id="" tvg-name="Rádio Tropical SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Tropical SP
+#EXTINF:-1 tvg-chno="1033" tvg-id="" tvg-name="Rádio Tropical SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Tropical SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594750
-#EXTINF:-1 tvg-chno="1018" tvg-id="" tvg-name="Rádio Piatã BA" tvg-logo="" group-title="RÁDIOS FM",Rádio Piatã BA
+#EXTINF:-1 tvg-chno="1034" tvg-id="" tvg-name="Rádio Piatã BA" tvg-logo="" group-title="RÁDIOS FM",Rádio Piatã BA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594751
-#EXTINF:-1 tvg-chno="1019" tvg-id="" tvg-name="Rádio Rio de janeiro RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Rio de janeiro RJ
+#EXTINF:-1 tvg-chno="1035" tvg-id="" tvg-name="Rádio Rio de janeiro RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Rio de janeiro RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594752
-#EXTINF:-1 tvg-chno="1020" tvg-id="" tvg-name="Rádio Disney SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Disney SP
+#EXTINF:-1 tvg-chno="1036" tvg-id="" tvg-name="Rádio Disney SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Disney SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594753
-#EXTINF:-1 tvg-chno="1021" tvg-id="" tvg-name="Apenas Acústico" tvg-logo="" group-title="RÁDIOS FM",Apenas Acústico
+#EXTINF:-1 tvg-chno="1037" tvg-id="" tvg-name="Apenas Acústico" tvg-logo="" group-title="RÁDIOS FM",Apenas Acústico
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594754
-#EXTINF:-1 tvg-chno="1022" tvg-id="" tvg-name="Web Rádio viva bem" tvg-logo="" group-title="RÁDIOS FM",Web Rádio viva bem
+#EXTINF:-1 tvg-chno="1038" tvg-id="" tvg-name="Web Rádio viva bem" tvg-logo="" group-title="RÁDIOS FM",Web Rádio viva bem
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594755
-#EXTINF:-1 tvg-chno="1023" tvg-id="" tvg-name="Radio nostalgia Toscana italia" tvg-logo="" group-title="RÁDIOS FM",Radio nostalgia Toscana italia
+#EXTINF:-1 tvg-chno="1039" tvg-id="" tvg-name="Radio nostalgia Toscana italia" tvg-logo="" group-title="RÁDIOS FM",Radio nostalgia Toscana italia
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594756
-#EXTINF:-1 tvg-chno="1024" tvg-id="" tvg-name="Rádio vfm Portugal" tvg-logo="" group-title="RÁDIOS FM",Rádio vfm Portugal
+#EXTINF:-1 tvg-chno="1040" tvg-id="" tvg-name="Rádio vfm Portugal" tvg-logo="" group-title="RÁDIOS FM",Rádio vfm Portugal
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594757
-#EXTINF:-1 tvg-chno="1025" tvg-id="" tvg-name="Rádio WA Argentina" tvg-logo="" group-title="RÁDIOS FM",Rádio WA Argentina
+#EXTINF:-1 tvg-chno="1041" tvg-id="" tvg-name="Rádio WA Argentina" tvg-logo="" group-title="RÁDIOS FM",Rádio WA Argentina
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594758
-#EXTINF:-1 tvg-chno="1026" tvg-id="" tvg-name="Antenne Bayern Coffee Music Alemanha" tvg-logo="" group-title="RÁDIOS FM",Antenne Bayern Coffee Music Alemanha
+#EXTINF:-1 tvg-chno="1042" tvg-id="" tvg-name="Antenne Bayern Coffee Music Alemanha" tvg-logo="" group-title="RÁDIOS FM",Antenne Bayern Coffee Music Alemanha
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594759
-#EXTINF:-1 tvg-chno="1027" tvg-id="" tvg-name="Aeroporto Internacional do Rio de Janeiro" tvg-logo="" group-title="RÁDIOS FM",Aeroporto Internacional do Rio de Janeiro
+#EXTINF:-1 tvg-chno="1043" tvg-id="" tvg-name="Aeroporto Internacional do Rio de Janeiro" tvg-logo="" group-title="RÁDIOS FM",Aeroporto Internacional do Rio de Janeiro
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594760
-#EXTINF:-1 tvg-chno="1028" tvg-id="" tvg-name="Cidade 99.1" tvg-logo="" group-title="RÁDIOS FM",Cidade 99.1
+#EXTINF:-1 tvg-chno="1044" tvg-id="" tvg-name="Cidade 99.1" tvg-logo="" group-title="RÁDIOS FM",Cidade 99.1
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594761
-#EXTINF:-1 tvg-chno="1029" tvg-id="" tvg-name="Band News  Goiânia" tvg-logo="" group-title="RÁDIOS FM",Band News  Goiânia
+#EXTINF:-1 tvg-chno="1045" tvg-id="" tvg-name="Band News  Goiânia" tvg-logo="" group-title="RÁDIOS FM",Band News  Goiânia
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594762
-#EXTINF:-1 tvg-chno="1030" tvg-id="" tvg-name="FM o dia" tvg-logo="" group-title="RÁDIOS FM",FM o dia
+#EXTINF:-1 tvg-chno="1046" tvg-id="" tvg-name="FM o dia" tvg-logo="" group-title="RÁDIOS FM",FM o dia
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594763
-#EXTINF:-1 tvg-chno="1031" tvg-id="" tvg-name="Soft radio web DF" tvg-logo="" group-title="RÁDIOS FM",Soft radio web DF
+#EXTINF:-1 tvg-chno="1047" tvg-id="" tvg-name="Soft radio web DF" tvg-logo="" group-title="RÁDIOS FM",Soft radio web DF
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594781
-#EXTINF:-1 tvg-chno="1032" tvg-id="" tvg-name="Rádio sem limites gospel RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio sem limites gospel RJ
+#EXTINF:-1 tvg-chno="1048" tvg-id="" tvg-name="Rádio sem limites gospel RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio sem limites gospel RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594782
-#EXTINF:-1 tvg-chno="1033" tvg-id="" tvg-name="Flash Disc dance 80 SP" tvg-logo="" group-title="RÁDIOS FM",Flash Disc dance 80 SP
+#EXTINF:-1 tvg-chno="1049" tvg-id="" tvg-name="Flash Disc dance 80 SP" tvg-logo="" group-title="RÁDIOS FM",Flash Disc dance 80 SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594783
-#EXTINF:-1 tvg-chno="1034" tvg-id="" tvg-name="Conexão Reggae AM" tvg-logo="" group-title="RÁDIOS FM",Conexão Reggae AM
+#EXTINF:-1 tvg-chno="1050" tvg-id="" tvg-name="Conexão Reggae AM" tvg-logo="" group-title="RÁDIOS FM",Conexão Reggae AM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594784
-#EXTINF:-1 tvg-chno="1035" tvg-id="" tvg-name="Rádio central da mídia PE" tvg-logo="" group-title="RÁDIOS FM",Rádio central da mídia PE
+#EXTINF:-1 tvg-chno="1051" tvg-id="" tvg-name="Rádio central da mídia PE" tvg-logo="" group-title="RÁDIOS FM",Rádio central da mídia PE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594785
-#EXTINF:-1 tvg-chno="1036" tvg-id="" tvg-name="Rádio OpalaRock MG" tvg-logo="" group-title="RÁDIOS FM",Rádio OpalaRock MG
+#EXTINF:-1 tvg-chno="1052" tvg-id="" tvg-name="Rádio OpalaRock MG" tvg-logo="" group-title="RÁDIOS FM",Rádio OpalaRock MG
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594786
-#EXTINF:-1 tvg-chno="1037" tvg-id="" tvg-name="Rádio Globo RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Globo RJ
+#EXTINF:-1 tvg-chno="1053" tvg-id="" tvg-name="Rádio Globo RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Globo RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594787
-#EXTINF:-1 tvg-chno="1038" tvg-id="" tvg-name="Band FM Bahia" tvg-logo="" group-title="RÁDIOS FM",Band FM Bahia
+#EXTINF:-1 tvg-chno="1054" tvg-id="" tvg-name="Band FM Bahia" tvg-logo="" group-title="RÁDIOS FM",Band FM Bahia
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594788
-#EXTINF:-1 tvg-chno="1039" tvg-id="" tvg-name="Rádio CBN SC" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN SC
+#EXTINF:-1 tvg-chno="1055" tvg-id="" tvg-name="Rádio CBN SC" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN SC
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594789
-#EXTINF:-1 tvg-chno="1040" tvg-id="" tvg-name="Rádio Clube PE" tvg-logo="" group-title="RÁDIOS FM",Rádio Clube PE
+#EXTINF:-1 tvg-chno="1056" tvg-id="" tvg-name="Rádio Clube PE" tvg-logo="" group-title="RÁDIOS FM",Rádio Clube PE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594790
-#EXTINF:-1 tvg-chno="1041" tvg-id="" tvg-name="Jovem Pan MS" tvg-logo="" group-title="RÁDIOS FM",Jovem Pan MS
+#EXTINF:-1 tvg-chno="1057" tvg-id="" tvg-name="Jovem Pan MS" tvg-logo="" group-title="RÁDIOS FM",Jovem Pan MS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594791
-#EXTINF:-1 tvg-chno="1042" tvg-id="" tvg-name="Rádio Play Hits MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Play Hits MG
+#EXTINF:-1 tvg-chno="1058" tvg-id="" tvg-name="Rádio Play Hits MG" tvg-logo="" group-title="RÁDIOS FM",Rádio Play Hits MG
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594792
-#EXTINF:-1 tvg-chno="1043" tvg-id="" tvg-name="Rádio Real SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Real SP
+#EXTINF:-1 tvg-chno="1059" tvg-id="" tvg-name="Rádio Real SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Real SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594793
-#EXTINF:-1 tvg-chno="1044" tvg-id="" tvg-name="Rádio comunicadora Iguassu Foz" tvg-logo="" group-title="RÁDIOS FM",Rádio comunicadora Iguassu Foz
+#EXTINF:-1 tvg-chno="1060" tvg-id="" tvg-name="Rádio comunicadora Iguassu Foz" tvg-logo="" group-title="RÁDIOS FM",Rádio comunicadora Iguassu Foz
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594794
-#EXTINF:-1 tvg-chno="1045" tvg-id="" tvg-name="Rádio da Bispa" tvg-logo="" group-title="RÁDIOS FM",Rádio da Bispa
+#EXTINF:-1 tvg-chno="1061" tvg-id="" tvg-name="Rádio da Bispa" tvg-logo="" group-title="RÁDIOS FM",Rádio da Bispa
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594795
-#EXTINF:-1 tvg-chno="1046" tvg-id="" tvg-name="Jovem Pan AP" tvg-logo="" group-title="RÁDIOS FM",Jovem Pan AP
+#EXTINF:-1 tvg-chno="1062" tvg-id="" tvg-name="Jovem Pan AP" tvg-logo="" group-title="RÁDIOS FM",Jovem Pan AP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594796
-#EXTINF:-1 tvg-chno="1047" tvg-id="" tvg-name="Rádio CBN PE" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN PE
+#EXTINF:-1 tvg-chno="1063" tvg-id="" tvg-name="Rádio CBN PE" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN PE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594797
-#EXTINF:-1 tvg-chno="1048" tvg-id="" tvg-name="Rádio Clube PI" tvg-logo="" group-title="RÁDIOS FM",Rádio Clube PI
+#EXTINF:-1 tvg-chno="1064" tvg-id="" tvg-name="Rádio Clube PI" tvg-logo="" group-title="RÁDIOS FM",Rádio Clube PI
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594798
-#EXTINF:-1 tvg-chno="1049" tvg-id="" tvg-name="Rádio Globo hits SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Globo hits SP
+#EXTINF:-1 tvg-chno="1065" tvg-id="" tvg-name="Rádio Globo hits SP" tvg-logo="" group-title="RÁDIOS FM",Rádio Globo hits SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594799
-#EXTINF:-1 tvg-chno="1050" tvg-id="" tvg-name="Rádio novela SP" tvg-logo="" group-title="RÁDIOS FM",Rádio novela SP
+#EXTINF:-1 tvg-chno="1066" tvg-id="" tvg-name="Rádio novela SP" tvg-logo="" group-title="RÁDIOS FM",Rádio novela SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594800
-#EXTINF:-1 tvg-chno="1051" tvg-id="" tvg-name="Jovem Pan SP" tvg-logo="" group-title="RÁDIOS FM",Jovem Pan SP
+#EXTINF:-1 tvg-chno="1067" tvg-id="" tvg-name="Jovem Pan SP" tvg-logo="" group-title="RÁDIOS FM",Jovem Pan SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594801
-#EXTINF:-1 tvg-chno="1052" tvg-id="" tvg-name="Band News RJ" tvg-logo="" group-title="RÁDIOS FM",Band News RJ
+#EXTINF:-1 tvg-chno="1068" tvg-id="" tvg-name="Band News RJ" tvg-logo="" group-title="RÁDIOS FM",Band News RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594802
-#EXTINF:-1 tvg-chno="1053" tvg-id="" tvg-name="Rádio Nova RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Nova RJ
+#EXTINF:-1 tvg-chno="1069" tvg-id="" tvg-name="Rádio Nova RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Nova RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594803
-#EXTINF:-1 tvg-chno="1054" tvg-id="" tvg-name="Rádio do K7 RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio do K7 RJ
+#EXTINF:-1 tvg-chno="1070" tvg-id="" tvg-name="Rádio do K7 RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio do K7 RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594804
-#EXTINF:-1 tvg-chno="1055" tvg-id="" tvg-name="Rádio JB RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio JB RJ
+#EXTINF:-1 tvg-chno="1071" tvg-id="" tvg-name="Rádio JB RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio JB RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594805
-#EXTINF:-1 tvg-chno="1056" tvg-id="" tvg-name="Rádio sintonia esportiva RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio sintonia esportiva RJ
+#EXTINF:-1 tvg-chno="1072" tvg-id="" tvg-name="Rádio sintonia esportiva RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio sintonia esportiva RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594806
-#EXTINF:-1 tvg-chno="1057" tvg-id="" tvg-name="Rádio Bicuda RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Bicuda RJ
+#EXTINF:-1 tvg-chno="1073" tvg-id="" tvg-name="Rádio Bicuda RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Bicuda RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594807
-#EXTINF:-1 tvg-chno="1058" tvg-id="" tvg-name="Rádio carioca futebol RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio carioca futebol RJ
+#EXTINF:-1 tvg-chno="1074" tvg-id="" tvg-name="Rádio carioca futebol RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio carioca futebol RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594808
-#EXTINF:-1 tvg-chno="1059" tvg-id="" tvg-name="Gama esportiva RJ" tvg-logo="" group-title="RÁDIOS FM",Gama esportiva RJ
+#EXTINF:-1 tvg-chno="1075" tvg-id="" tvg-name="Gama esportiva RJ" tvg-logo="" group-title="RÁDIOS FM",Gama esportiva RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594809
-#EXTINF:-1 tvg-chno="1060" tvg-id="" tvg-name="Rádio roquette pinto RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio roquette pinto RJ
+#EXTINF:-1 tvg-chno="1076" tvg-id="" tvg-name="Rádio roquette pinto RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio roquette pinto RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594810
-#EXTINF:-1 tvg-chno="1061" tvg-id="" tvg-name="Super Rádio Tupi RJ" tvg-logo="" group-title="RÁDIOS FM",Super Rádio Tupi RJ
+#EXTINF:-1 tvg-chno="1077" tvg-id="" tvg-name="Super Rádio Tupi RJ" tvg-logo="" group-title="RÁDIOS FM",Super Rádio Tupi RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594811
-#EXTINF:-1 tvg-chno="1062" tvg-id="" tvg-name="Rádio sertaneja Web RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio sertaneja Web RJ
+#EXTINF:-1 tvg-chno="1078" tvg-id="" tvg-name="Rádio sertaneja Web RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio sertaneja Web RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594812
-#EXTINF:-1 tvg-chno="1063" tvg-id="" tvg-name="Rádio costa do sol RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio costa do sol RJ
+#EXTINF:-1 tvg-chno="1079" tvg-id="" tvg-name="Rádio costa do sol RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio costa do sol RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594813
-#EXTINF:-1 tvg-chno="1064" tvg-id="" tvg-name="Rádio antena 1 lite RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio antena 1 lite RJ
+#EXTINF:-1 tvg-chno="1080" tvg-id="" tvg-name="Rádio antena 1 lite RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio antena 1 lite RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594814
-#EXTINF:-1 tvg-chno="1065" tvg-id="" tvg-name="Rádio Transamérica RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Transamérica RJ
+#EXTINF:-1 tvg-chno="1081" tvg-id="" tvg-name="Rádio Transamérica RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Transamérica RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594815
-#EXTINF:-1 tvg-chno="1066" tvg-id="" tvg-name="Rádio CBN RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN RJ
+#EXTINF:-1 tvg-chno="1082" tvg-id="" tvg-name="Rádio CBN RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio CBN RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594816
-#EXTINF:-1 tvg-chno="1067" tvg-id="" tvg-name="Rádio Ferj RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Ferj RJ
+#EXTINF:-1 tvg-chno="1083" tvg-id="" tvg-name="Rádio Ferj RJ" tvg-logo="" group-title="RÁDIOS FM",Rádio Ferj RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594817
-#EXTINF:-1 tvg-chno="1068" tvg-id="" tvg-name="Mega Rádio Axé SP" tvg-logo="" group-title="RÁDIOS FM",Mega Rádio Axé SP
+#EXTINF:-1 tvg-chno="1084" tvg-id="" tvg-name="Mega Rádio Axé SP" tvg-logo="" group-title="RÁDIOS FM",Mega Rádio Axé SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594818
-#EXTINF:-1 tvg-chno="1069" tvg-id="" tvg-name="ABM axé music BA" tvg-logo="" group-title="RÁDIOS FM",ABM axé music BA
+#EXTINF:-1 tvg-chno="1085" tvg-id="" tvg-name="ABM axé music BA" tvg-logo="" group-title="RÁDIOS FM",ABM axé music BA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594819
-#EXTINF:-1 tvg-chno="1070" tvg-id="" tvg-name="Agogô carioca RJ" tvg-logo="" group-title="RÁDIOS FM",Agogô carioca RJ
+#EXTINF:-1 tvg-chno="1086" tvg-id="" tvg-name="Agogô carioca RJ" tvg-logo="" group-title="RÁDIOS FM",Agogô carioca RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594820
-#EXTINF:-1 tvg-chno="1071" tvg-id="" tvg-name="Axé Brasil BA" tvg-logo="" group-title="RÁDIOS FM",Axé Brasil BA
+#EXTINF:-1 tvg-chno="1087" tvg-id="" tvg-name="Axé Brasil BA" tvg-logo="" group-title="RÁDIOS FM",Axé Brasil BA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594821
-#EXTINF:-1 tvg-chno="1072" tvg-id="" tvg-name="Barra Funda SP" tvg-logo="" group-title="RÁDIOS FM",Barra Funda SP
+#EXTINF:-1 tvg-chno="1088" tvg-id="" tvg-name="Barra Funda SP" tvg-logo="" group-title="RÁDIOS FM",Barra Funda SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594822
-#EXTINF:-1 tvg-chno="1073" tvg-id="" tvg-name="Ju samba show RJ" tvg-logo="" group-title="RÁDIOS FM",Ju samba show RJ
+#EXTINF:-1 tvg-chno="1089" tvg-id="" tvg-name="Ju samba show RJ" tvg-logo="" group-title="RÁDIOS FM",Ju samba show RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594823
-#EXTINF:-1 tvg-chno="1074" tvg-id="" tvg-name="Micareta FM RJ" tvg-logo="" group-title="RÁDIOS FM",Micareta FM RJ
+#EXTINF:-1 tvg-chno="1090" tvg-id="" tvg-name="Micareta FM RJ" tvg-logo="" group-title="RÁDIOS FM",Micareta FM RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594824
-#EXTINF:-1 tvg-chno="1075" tvg-id="" tvg-name="Rádio respirando carnaval RS" tvg-logo="" group-title="RÁDIOS FM",Rádio respirando carnaval RS
+#EXTINF:-1 tvg-chno="1091" tvg-id="" tvg-name="Rádio respirando carnaval RS" tvg-logo="" group-title="RÁDIOS FM",Rádio respirando carnaval RS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594825
-#EXTINF:-1 tvg-chno="1076" tvg-id="" tvg-name="Rádio Kpop Litoral" tvg-logo="" group-title="RÁDIOS FM",Rádio Kpop Litoral
+#EXTINF:-1 tvg-chno="1092" tvg-id="" tvg-name="Rádio Kpop Litoral" tvg-logo="" group-title="RÁDIOS FM",Rádio Kpop Litoral
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594826
-#EXTINF:-1 tvg-chno="1077" tvg-id="" tvg-name="Essência Kpop - Espanha" tvg-logo="" group-title="RÁDIOS FM",Essência Kpop - Espanha
+#EXTINF:-1 tvg-chno="1093" tvg-id="" tvg-name="Essência Kpop - Espanha" tvg-logo="" group-title="RÁDIOS FM",Essência Kpop - Espanha
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594827
-#EXTINF:-1 tvg-chno="1078" tvg-id="" tvg-name="Jovem Rádio SP" tvg-logo="" group-title="RÁDIOS FM",Jovem Rádio SP
+#EXTINF:-1 tvg-chno="1094" tvg-id="" tvg-name="Jovem Rádio SP" tvg-logo="" group-title="RÁDIOS FM",Jovem Rádio SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594828
-#EXTINF:-1 tvg-chno="1079" tvg-id="" tvg-name="Rádio Adore Gabriel" tvg-logo="" group-title="RÁDIOS FM",Rádio Adore Gabriel
+#EXTINF:-1 tvg-chno="1095" tvg-id="" tvg-name="Rádio Adore Gabriel" tvg-logo="" group-title="RÁDIOS FM",Rádio Adore Gabriel
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594829
-#EXTINF:-1 tvg-chno="1080" tvg-id="" tvg-name="CLUBE 105.5 FM" tvg-logo="http://i.imgur.com/CSmNKWx.png" group-title="RÁDIOS FM",CLUBE 105.5 FM
+#EXTINF:-1 tvg-chno="1096" tvg-id="" tvg-name="CLUBE 105.5 FM" tvg-logo="http://i.imgur.com/CSmNKWx.png" group-title="RÁDIOS FM",CLUBE 105.5 FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594830
-#EXTINF:-1 tvg-chno="1081" tvg-id="" tvg-name="RADIO CLUBE PARÁ" tvg-logo="http://ccdntp.xyz:80/images/d2e10e6980321d5fe523d7637c22da1d.png" group-title="RÁDIOS FM",RADIO CLUBE PARÁ
+#EXTINF:-1 tvg-chno="1097" tvg-id="" tvg-name="RADIO CLUBE PARÁ" tvg-logo="http://ccdntp.xyz:80/images/d2e10e6980321d5fe523d7637c22da1d.png" group-title="RÁDIOS FM",RADIO CLUBE PARÁ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594831
-#EXTINF:-1 tvg-chno="1082" tvg-id="" tvg-name="TOP RADIO SERTANEJO" tvg-logo="" group-title="RÁDIOS FM",TOP RADIO SERTANEJO
+#EXTINF:-1 tvg-chno="1098" tvg-id="" tvg-name="TOP RADIO SERTANEJO" tvg-logo="" group-title="RÁDIOS FM",TOP RADIO SERTANEJO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594832
-#EXTINF:-1 tvg-chno="1083" tvg-id="" tvg-name="TOP RADIO AMADO BATISTA" tvg-logo="" group-title="RÁDIOS FM",TOP RADIO AMADO BATISTA
+#EXTINF:-1 tvg-chno="1099" tvg-id="" tvg-name="TOP RADIO AMADO BATISTA" tvg-logo="" group-title="RÁDIOS FM",TOP RADIO AMADO BATISTA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594833
-#EXTINF:-1 tvg-chno="1084" tvg-id="" tvg-name="TOP RADIO GÓSPEL" tvg-logo="" group-title="RÁDIOS FM",TOP RADIO GÓSPEL
+#EXTINF:-1 tvg-chno="1100" tvg-id="" tvg-name="TOP RADIO GÓSPEL" tvg-logo="" group-title="RÁDIOS FM",TOP RADIO GÓSPEL
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594834
-#EXTINF:-1 tvg-chno="1085" tvg-id="" tvg-name="TOP RADIO SERTÃO" tvg-logo="" group-title="RÁDIOS FM",TOP RADIO SERTÃO
+#EXTINF:-1 tvg-chno="1101" tvg-id="" tvg-name="TOP RADIO SERTÃO" tvg-logo="" group-title="RÁDIOS FM",TOP RADIO SERTÃO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594835
-#EXTINF:-1 tvg-chno="1086" tvg-id="" tvg-name="RADIO PARÁCAP" tvg-logo="http://i.imgur.com/bq5hUxR.jpg" group-title="RÁDIOS FM",RADIO PARÁCAP
+#EXTINF:-1 tvg-chno="1102" tvg-id="" tvg-name="RADIO PARÁCAP" tvg-logo="http://i.imgur.com/bq5hUxR.jpg" group-title="RÁDIOS FM",RADIO PARÁCAP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594836
-#EXTINF:-1 tvg-chno="1087" tvg-id="" tvg-name="Radio Sorriso FM 87,9 - São Miguel do Guamá" tvg-logo="http://ccdntp.xyz:80/images/6bb7ca113ff450f0273844940d2c7ea7.png" group-title="RÁDIOS FM",9 - São Miguel do Guamá
+#EXTINF:-1 tvg-chno="1103" tvg-id="" tvg-name="Radio Sorriso FM 87,9 - São Miguel do Guamá" tvg-logo="http://ccdntp.xyz:80/images/6bb7ca113ff450f0273844940d2c7ea7.png" group-title="RÁDIOS FM",9 - São Miguel do Guamá
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594837
-#EXTINF:-1 tvg-chno="1088" tvg-id="" tvg-name="Rádio Nazaré 91.3 FM" tvg-logo="http://ccdntp.xyz:80/images/784e26ed0c112d66d0850496e57e9630.jpg" group-title="RÁDIOS FM",Rádio Nazaré 91.3 FM
+#EXTINF:-1 tvg-chno="1104" tvg-id="" tvg-name="Rádio Nazaré 91.3 FM" tvg-logo="http://ccdntp.xyz:80/images/784e26ed0c112d66d0850496e57e9630.jpg" group-title="RÁDIOS FM",Rádio Nazaré 91.3 FM
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594838
-#EXTINF:-1 tvg-chno="1089" tvg-id="" tvg-name="Rádio Web Basílica de Nazaré" tvg-logo="http://ccdntp.xyz:80/images/e51c12da3ae9c6cea2fcac6262e9419a.png" group-title="RÁDIOS FM",Rádio Web Basílica de Nazaré
+#EXTINF:-1 tvg-chno="1105" tvg-id="" tvg-name="Rádio Web Basílica de Nazaré" tvg-logo="http://ccdntp.xyz:80/images/e51c12da3ae9c6cea2fcac6262e9419a.png" group-title="RÁDIOS FM",Rádio Web Basílica de Nazaré
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594839
-#EXTINF:-1 tvg-chno="1090" tvg-id="" tvg-name="Rádio futebol interior SP" tvg-logo="" group-title="RÁDIOS FM",Rádio futebol interior SP
+#EXTINF:-1 tvg-chno="1106" tvg-id="" tvg-name="Rádio futebol interior SP" tvg-logo="" group-title="RÁDIOS FM",Rádio futebol interior SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594777
-#EXTINF:-1 tvg-chno="1091" tvg-id="" tvg-name="Rádio antena 1 SP" tvg-logo="" group-title="RÁDIOS FM",Rádio antena 1 SP
+#EXTINF:-1 tvg-chno="1107" tvg-id="" tvg-name="Rádio antena 1 SP" tvg-logo="" group-title="RÁDIOS FM",Rádio antena 1 SP
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594778
-#EXTINF:-1 tvg-chno="1092" tvg-id="" tvg-name="Rádio antena + PR" tvg-logo="" group-title="RÁDIOS FM",Rádio antena + PR
+#EXTINF:-1 tvg-chno="1108" tvg-id="" tvg-name="Rádio antena + PR" tvg-logo="" group-title="RÁDIOS FM",Rádio antena + PR
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594779
-#EXTINF:-1 tvg-chno="1093" tvg-id="" tvg-name="Fita Cassete" tvg-logo="" group-title="RÁDIOS FM",Fita Cassete
+#EXTINF:-1 tvg-chno="1109" tvg-id="" tvg-name="Fita Cassete" tvg-logo="" group-title="RÁDIOS FM",Fita Cassete
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594780
