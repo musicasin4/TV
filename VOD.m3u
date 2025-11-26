@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="3" tvg-id="WANDINHA" tvg-name="WANDINHA - S02E01" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiphMT41Pw3WTrldXm9jCJS1LES14GYEZGllIsrnEfflB5kC-s" group-title="SÉRIE - WANDINHA",WANDINHA - S02E01
-https://llanfairpwllgwyngyll.com/cdn/hls/00814200d4af57bfccd4eb699c56776c/master.txt
-#EXTINF:-1 tvg-chno="4" tvg-id="WANDINHA" tvg-name="WANDINHA - S02E02" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiphMT41Pw3WTrldXm9jCJS1LES14GYEZGllIsrnEfflB5kC-s" group-title="SÉRIE - WANDINHA",WANDINHA - S02E02
-https://llanfairpwllgwyngyll.com/cdn/hls/f2402d82f37abb67e9e2b20be3c1b55f/master.txt
-#EXTINF:-1 tvg-chno="5" tvg-id="WANDINHA" tvg-name="WANDINHA - S02E03" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiphMT41Pw3WTrldXm9jCJS1LES14GYEZGllIsrnEfflB5kC-s" group-title="SÉRIE - WANDINHA",WANDINHA - S02E03
-https://llanfairpwllgwyngyll.com/cdn/hls/8c7358ff3c6e4312b4f28c8b27bd66af/master.txt
-#EXTINF:-1 tvg-chno="6" tvg-id="WANDINHA" tvg-name="WANDINHA - S02E04" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiphMT41Pw3WTrldXm9jCJS1LES14GYEZGllIsrnEfflB5kC-s" group-title="SÉRIE - WANDINHA",WANDINHA - S02E04
-https://llanfairpwllgwyngyll.com/cdn/hls/c14b804e1c440eeeff73c3dd2760cc9d/master.txt
-#EXTINF:-1 tvg-chno="7" tvg-id="WANDINHA" tvg-name="WANDINHA - S02E05" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiphMT41Pw3WTrldXm9jCJS1LES14GYEZGllIsrnEfflB5kC-s" group-title="SÉRIE - WANDINHA",WANDINHA - S02E05
-https://llanfairpwllgwyngyll.com/cdn/hls/63ec5b54a50a414611ceb6d58d2f2c8c/master.txt
-#EXTINF:-1 tvg-chno="8" tvg-id="WANDINHA" tvg-name="WANDINHA - S02E06" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiphMT41Pw3WTrldXm9jCJS1LES14GYEZGllIsrnEfflB5kC-s" group-title="SÉRIE - WANDINHA",WANDINHA - S02E06
-https://llanfairpwllgwyngyll.com/cdn/hls/c3219fcdf8019155b7e5c7afce20b1a9/master.txt
-#EXTINF:-1 tvg-chno="9" tvg-id="WANDINHA" tvg-name="WANDINHA - S02E07" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiphMT41Pw3WTrldXm9jCJS1LES14GYEZGllIsrnEfflB5kC-s" group-title="SÉRIE - WANDINHA",WANDINHA - S02E07
-https://llanfairpwllgwyngyll.com/cdn/hls/030829df966e44093f9edf4253db5609/master.txt
-#EXTINF:-1 tvg-chno="10" tvg-id="WANDINHA" tvg-name="WANDINHA - S02E08" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiphMT41Pw3WTrldXm9jCJS1LES14GYEZGllIsrnEfflB5kC-s" group-title="SÉRIE - WANDINHA",WANDINHA - S02E08
-https://llanfairpwllgwyngyll.com/cdn/hls/a2a6deaaee329c93bbe342e5ed437908/master.txt
+#EXTINF:-1 tvg-chno="3" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E01
+https://112234152.xyz/hls/553faad115155c7702de1d3f6b7683d1/master.txt
+#EXTINF:-1 tvg-chno="4" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E02" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E02
+https://112234152.xyz/hls/d93da3b28e755840a325f0cd25ca2c02/master.txt
+#EXTINF:-1 tvg-chno="5" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E03" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E03
+https://112234152.xyz/hls/a428efa6c2e5d07d17174ff9563d9e98/master.txt
+#EXTINF:-1 tvg-chno="6" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E04" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E04
+https://112234152.xyz/hls/6dac3e26c4f8349dd4d90a2cbd1e7646/master.txt
+#EXTINF:-1 tvg-chno="7" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E05" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E05
+https://112234152.xyz/hls/66fab714910d6eaadf56b40a5af7ea8b/master.txt
+#EXTINF:-1 tvg-chno="8" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E06" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E06
+https://112234152.xyz/hls/4aec30307fe530ba9537842b35eb5fa1/master.txt
+#EXTINF:-1 tvg-chno="9" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E07" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E07
+https://112234152.xyz/hls/ad5f96270cd10426aad812fdd2760233/master.txt
+#EXTINF:-1 tvg-chno="10" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E08" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E08
+https://112234152.xyz/hls/da3994cc561559bcfa11a06966da2f2a/master.txt
 #EXTINF:-1 tvg-chno="382" tvg-id="Frankenstein" tvg-name="Frankenstein" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg2NTZlNWQtZDlkNy00ZDNhLWEzODYtMmM0MzBmNTk1NjkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILMES - VOD",Frankenstein
 https://embedplay.upns.ink/hls/mx0m7sUJBv1WWO0JW3U-9w/5w3/xieum5st/r5xkxv/tt/index-f1-a1.m3u8?v=1758651105
 #EXTINF:-1 tvg-chno="383" tvg-id="Frankenstein" tvg-name="Frankenstein" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg2NTZlNWQtZDlkNy00ZDNhLWEzODYtMmM0MzBmNTk1NjkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILMES - VOD",Frankenstein
@@ -2273,5 +2273,7 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublad
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/13.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="743" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde - E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada",o Cão Covarde - E13
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="Teste" tvg-name="Teste1" tvg-logo="" group-title="Só teste",Teste2
+#EXTINF:-1 tvg-chno="" tvg-id="fran001" tvg-name="Teste1" tvg-logo="" group-title="Só teste",Teste2
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="wt2" tvg-name="Teste1" tvg-logo="" group-title="Só teste",Teste2
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/13.mp4/index.m3u8
