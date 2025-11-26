@@ -1,0 +1,80 @@
+{
+  "vod_catalog": {
+    "categories": [
+      {
+        "category_id": "filmes_drama",
+        "name": "Filmes de Drama",
+        "movies": [
+          {
+            "id": "fran001",
+            "title": "Frankenstein",
+            "description": "O clássico de terror de Mary Shelley ganha nova vida nessa adaptação pela mente de Guillermo Del Toro. Frankenstein acompanha o brilhante, mas egocêntrico cientista Victor Frankenstein que resolve se aventurar em experimentos audaciosos e criar do zero uma criatura com vida. O que essas tentativas e estudos desencadeiam é uma tragédia tanto para o criador quanto para sua criação monstruosa. Brincar de Deus levou Frankenstein a concretizar suas maiores ambições científicas, mas colocou-o na mira da raiva de sua própria criatura, que, agora, busca por vingança após se ver descartada pelo professor.",
+            "genre": ["Drama", "Ficção Científica"],
+            "duration": "2h 30m",
+            "rating": "18+",
+            "director": "Guillermo del Toro",
+            "actors": ["Oscar Isaac", ""],
+            "release_year": 2025,
+            "thumbnail_url": "",
+            "stream_url": ""
+          },
+          // ... mais filmes nesta categoria
+          {
+            "id": "faro001",
+            "title": "Faroeste Caboclo",
+            "description": "João (Fabrício Boliveira) deixa Santo Cristo em busca de uma vida melhor em Brasília. Ele quer deixar o passado repleto de tragédias para trás. Lá, conta com o apoio do primo e traficante Pablo (César Troncoso), com quem passa a trabalhar. Já conhecido como João de Santo Cristo, o jovem se envolve com o tráfico de drogas, ao mesmo tempo em que mantém um emprego como carpinteiro. Em meio a tudo isso, conhece a bela e inquieta Maria Lúcia (Ísis Valverde), filha de um senador (Marcos Paulo), por quem se apaixona loucamente. Os dois começam uma relação marcada pela paixão e pelo romance, mas logo João se verá em meio a uma guerra com o playboy e traficante Jeremias (Felipe Abib), que coloca tudo a perder.",
+            "genre": ["Drama", "Romance"],
+            "duration": "1h 48m",
+            "rating": "18+",
+            "director": "Victor Atherino",
+            "actors": ["Fabrício Boliveira", "Ísis Valverde"],
+            "release_year": 2013,
+            "thumbnail_url": "",
+            "stream_url": ""
+          },
+        ]
+      },
+      {
+        "category_id": "series_terror",
+        "name": "Séries de Terror",
+        "series": [
+          {
+            "id": "wt2",
+            "title": "Wandinha",
+            "description": "Wandinha Addams (Jenna Ortega) está de volta à Escola Nunca Mais, mas desta vez, as sombras escondem mais do que segredos. Entre os corredores góticos da academia, uma nova ameaça surge, desafiando sua astúcia e coragem. Enquanto enfrenta rivais antigos e dilemas familiares, Wandinha se vê no centro de um mistério sobrenatural ainda mais sombrio, um que pode abalar os próprios alicerces de seu mundo macabro. Agora, ela precisará desvendar enigmas mortais, confrontar alianças traiçoeiras e descobrir até onde está disposta a ir para proteger aqueles que… bem, tolerá.",
+            "genre": ["Terror", "Aventura"],
+            "rating": "16+",
+            "seasons": [
+              {
+                "season_num": 2,
+                "episodes": [
+                  {
+                    "episode_id": "wt2e1",
+                    "title": "O Começo de Tudo",
+                    "description": "test1",
+                    "duration": "60m",
+                    "thumbnail_url": "",
+                    "stream_url": ""
+                  },
+                  // ... mais episódios
+              {
+                "episodes": [
+                  {
+                    "episode_id": "wt2e2",
+                    "title": "O Começo de Tudo 2",
+                    "description": "test2",
+                    "duration": "60m",
+                    "thumbnail_url": "",
+                    "stream_url": ""
+                  },
+                ]
+              }
+              // ... mais temporadas
+            ]
+          },
+          // ... mais séries
+        ]
+      }
+    ]
+  }
+}
