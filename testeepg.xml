@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Informações">
+
+  <!-- SEÇÃO DE DEFINIÇÃO DE CANAIS/FONTES -->
+  <channel id="IDM4">
+    <display-name lang="pt">Filmes</display-name>
+    <icon src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/aXpMqIPndxuDxDA3d2uoNlwc4L.jpg" />
+  </channel>
+
+  <channel id="fran001">
+    <display-name lang="pt">Filmes 2</display-name>
+  </channel>
+  
+  <!-- Repita para todos os seus canais/categorias -->
+
+  <!-- SEÇÃO DE LISTAGEM DE PROGRAMAS/CONTEÚDO -->
+  <programme start="0" stop="135" channel="IDM4">
+    <title lang="pt">Invocação do Mal 4: O Último Ritual</title>
+    <desc lang="pt">Invocação do Mal 4: O Último Ritual marca o desfecho da franquia de terror iniciada em 2013 por James Wan. Os filmes são inspirados nas investigações sobrenaturais do famoso casal de paranormais norte-americanos Ed e Lorraine Warren, interpretados por Vera Farmiga e Patrick Wilson. Neste último capítulo, os Warren enfrentam mais um caso aterrorizante, desta vez envolvendo entidades misteriosas que desafiam sua experiência. Ed e Lorraine se veem obrigados a encarar seus maiores medos, colocando suas vidas em risco em uma batalha final contra forças malignas. O filme promete encerrar a história dos investigadores com suspense e momentos de tensão, consolidando a franquia como uma das mais populares do gênero. Além dos sustos, o longa também explora o relacionamento do casal, mostrando sua força emocional diante das adversidades.</desc>
+    <category lang="pt">Terror</category>
+    <rating system="classificação indicativa">
+      <value>16+</value>
+    </rating>
+    <!-- Adicione mais metadados específicos para VOD, se necessário -->
+  </programme>
+
+  <programme start="0" stop="150" channel="fran001">
+    <title lang="pt">Frankenstein</title>
+    <desc lang="pt">O clássico de terror de Mary Shelley ganha nova vida nessa adaptação pela mente de Guillermo Del Toro. Frankenstein acompanha o brilhante, mas egocêntrico cientista Victor Frankenstein que resolve se aventurar em experimentos audaciosos e criar do zero uma criatura com vida. O que essas tentativas e estudos desencadeiam é uma tragédia tanto para o criador quanto para sua criação monstruosa. Brincar de Deus levou Frankenstein a concretizar suas maiores ambições científicas, mas colocou-o na mira da raiva de sua própria criatura, que, agora, busca por vingança após se ver descartada pelo professor.</desc>
+    <category lang="pt">Drama</category>
+    <date>2025</date>
+    <director>Guilhermo del Toro</director>
+    <actor>Oscar Isaac</actor>
+    <!-- Outros detalhes do programa -->
+  </programme>
+
+  <programme start="YYYYMMDDHHMMSS +0000" stop="YYYYMMDDHHMMSS +0000" channel="ID_UNICO_CANAL_OU_VOD_2">
+    <title lang="pt">Outro Filme VOD</title>
+    <desc lang="pt">Sinopse do filme.</desc>
+    <category lang="pt">Drama</category>
+    <!-- Outros detalhes do programa -->
+  </programme>
+
+  <!-- Repita para todo o seu conteúdo -->
+</tv>
