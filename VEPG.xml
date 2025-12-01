@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tv date="2025/11/21" generator-info-name="Serviço De VOD RB">
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
   <!-- Informações do Filme (cada filme é um "programa" no contexto EPG/XMLTV) -->
   <programme id="WANDINHA" ...>
     <title lang="pt">WANDINHA</title>
@@ -379,3 +381,4 @@
     <country></country>
   </programme>
 </tv>
+
