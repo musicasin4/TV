@@ -45,6 +45,22 @@ https://loldewfwvwvwewefdw.cyou/cdn/hls/2cb472cff6a03a59570bd6a633c67357/master.
 https://llanfairpwllgwyngyll.com/cdn/hls/83c3377e08db7dfabd8cb9cce510554c/master.txt
 #EXTINF:-1 tvg-chno="2" tvg-id="COMO TREINAR O SEU DRAGÃO" tvg-name="COMO TREINAR O SEU DRAGÃO (2025)" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/how-to-train-your-dragon-intl/images/regions/us/updates2/onesheet.jpg" group-title="FILMES - VOD",COMO TREINAR O SEU DRAGÃO (2025)
 https://loldewfwvwvwewefdw.cyou/cdn/hls/1ef7ddaffc3fecafddb2e939ee1a4913/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Naruto Shippuden: O Filme" tvg-logo="" group-title="FILMES - VOD",Naruto Shippuden: O Filme
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Naruto Shippuuden: Laços" tvg-logo="" group-title="FILMES - VOD",Naruto Shippuuden: Laços
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Naruto Shippuden: Os Herdeiros da Vontade do Fogo" tvg-logo="" group-title="FILMES - VOD",Naruto Shippuden: Os Herdeiros da Vontade do Fogo
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Naruto Shippuden: A Torre Perdida" tvg-logo="" group-title="FILMES - VOD",Naruto Shippuden: A Torre Perdida
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Naruto Shippuden: Prisão de Sangue" tvg-logo="" group-title="FILMES - VOD",Naruto Shippuden: Prisão de Sangue
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Naruto Shippuden: Road to Ninja" tvg-logo="" group-title="FILMES - VOD",Naruto Shippuden: Road to Ninja O Filme
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Naruto Shippuden: The Last" tvg-logo="" group-title="FILMES - VOD",Naruto Shippuden: The Last
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Boruto: Naruto" tvg-logo="" group-title="FILMES - VOD",Boruto: Naruto O Filme
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/08.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN - S06E135" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S06",NARUTO SHIPPUDEN - S06E135
 https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-dublado/135.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN - S06E136" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S06",NARUTO SHIPPUDEN - S06E136
@@ -2169,109 +2185,109 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/b/boruto-dublado/50.mp4/index.m3
 https://cdn-s01.mywallpaper-4k-image.net/stream/b/boruto-dublado/51.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="691" tvg-id="BNNG" tvg-name="Boruto: Naruto Next Generations E52" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/12/assistir-boruto-naruto-next-generations-dublado-todos-os-episodios-online-animes-online.jpg" group-title="ANIME - Boruto: Naruto Next Generations",Boruto: Naruto Next Generations E52
 https://cdn-s01.mywallpaper-4k-image.net/stream/b/boruto-dublado/52.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="692" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E01
+#EXTINF:-1 tvg-chno="692" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="693" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E02" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E02
+#EXTINF:-1 tvg-chno="693" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E02" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E02
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="694" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E03" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E03
+#EXTINF:-1 tvg-chno="694" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E03" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E03
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="695" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E04" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E04
+#EXTINF:-1 tvg-chno="695" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E04" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E04
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="696" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E05" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E05
+#EXTINF:-1 tvg-chno="696" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E05" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="697" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E06" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E06
+#EXTINF:-1 tvg-chno="697" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E06" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E06
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="698" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E07" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E07
+#EXTINF:-1 tvg-chno="698" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E07" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E07
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="699" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E08" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E08
+#EXTINF:-1 tvg-chno="699" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E08" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E08
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="700" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E09" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E09
+#EXTINF:-1 tvg-chno="700" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E09" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E09
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="701" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E10" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E10
+#EXTINF:-1 tvg-chno="701" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E10" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E10
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="702" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E11" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E11
+#EXTINF:-1 tvg-chno="702" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E11" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E11
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="703" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E12" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E12
+#EXTINF:-1 tvg-chno="703" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E12" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E12
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/12.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="704" tvg-id="COCC1" tvg-name="Coragem, o Cão Covarde E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E13
+#EXTINF:-1 tvg-chno="704" tvg-id="COCC1" tvg-name="Coragem: o Cão Covarde E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 1ª Temporada", o Cão Covarde E13
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="705" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E01
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="706" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E02" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E02
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="707" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E03" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E03
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="708" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E04" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E04
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="709" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E05" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E05
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="710" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E06" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E06
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="711" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E07" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E07
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="712" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E08" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E08
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="713" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E09" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E09
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="714" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E10" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E10
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="715" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E11" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E11
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="716" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E12" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E12
+#EXTINF:-1 tvg-chno="705" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E01
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="706" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E02" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E02
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="707" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E03" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E03
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="708" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E04" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E04
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="709" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E05" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E05
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="710" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E06" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E06
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="711" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E07" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E07
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="712" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E08" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E08
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="713" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E09" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E09
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="714" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E10" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E10
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="715" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E11" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E11
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="716" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E12" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E12
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="717" tvg-id="COCC2" tvg-name="Coragem: o Cão Covarde E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E13
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="717" tvg-id="COCC2" tvg-name="Coragem, o Cão Covarde E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-2a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 2ª Temporada", o Cão Covarde E13
-https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="718" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E01
+#EXTINF:-1 tvg-chno="718" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="719" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E02" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E02
+#EXTINF:-1 tvg-chno="719" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E02" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E02
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="720" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E03" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E03
+#EXTINF:-1 tvg-chno="720" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E03" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E03
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="721" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E04" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E04
+#EXTINF:-1 tvg-chno="721" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E04" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E04
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="722" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E05" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E05
+#EXTINF:-1 tvg-chno="722" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E05" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="723" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E06" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E06
+#EXTINF:-1 tvg-chno="723" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E06" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E06
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="724" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E07" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E07
+#EXTINF:-1 tvg-chno="724" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E07" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E07
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="725" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E08" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E08
+#EXTINF:-1 tvg-chno="725" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E08" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E08
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="726" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E09" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E09
+#EXTINF:-1 tvg-chno="726" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E09" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E09
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="727" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E10" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E10
+#EXTINF:-1 tvg-chno="727" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E10" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E10
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="728" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E11" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E11
+#EXTINF:-1 tvg-chno="728" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E11" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E11
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="729" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E12" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E12
+#EXTINF:-1 tvg-chno="729" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E12" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E12
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="730" tvg-id="COCC3" tvg-name="Coragem, o Cão Covarde E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E13
+#EXTINF:-1 tvg-chno="730" tvg-id="COCC3" tvg-name="Coragem: o Cão Covarde E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-3a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 3ª Temporada", o Cão Covarde E13
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-3-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="731" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E01
+#EXTINF:-1 tvg-chno="731" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="732" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E02" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E02
+#EXTINF:-1 tvg-chno="732" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E02" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E02
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="733" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E03" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E03
+#EXTINF:-1 tvg-chno="733" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E03" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E03
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="734" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E04" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E04
+#EXTINF:-1 tvg-chno="734" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E04" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E04
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="735" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E05" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E05
+#EXTINF:-1 tvg-chno="735" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E05" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="736" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E06" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E06
+#EXTINF:-1 tvg-chno="736" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E06" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E06
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="737" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E07" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E07
+#EXTINF:-1 tvg-chno="737" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E07" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E07
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="738" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E08" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E08
+#EXTINF:-1 tvg-chno="738" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E08" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E08
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="739" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E09" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E09
+#EXTINF:-1 tvg-chno="739" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E09" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E09
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="740" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E10" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E10
+#EXTINF:-1 tvg-chno="740" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E10" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E10
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="741" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E11" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E11
+#EXTINF:-1 tvg-chno="741" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E11" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E11
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="742" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E12" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E12
+#EXTINF:-1 tvg-chno="742" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E12" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E12
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-2-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="743" tvg-id="COCC4" tvg-name="Coragem, o Cão Covarde E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E13
+#EXTINF:-1 tvg-chno="743" tvg-id="COCC4" tvg-name="Coragem: o Cão Covarde E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/03/assistir-coragem-o-cao-covarde-dublado-4a-temporada-todos-os-episodios-online-animes-online-203x300.jpg" group-title="DESENHO - Coragem, o Cão Covarde 4ª Temporada", o Cão Covarde E13
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/13.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="SXFS1" tvg-name="Spy x Family S1E01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/34/Spy_x_Family_-_Capa_-_Volume_1.png" group-title="ANIME - Spy x Family S1",Spy x Family S1E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-family-dublado/01.mp4/index.m3u8
@@ -2357,54 +2373,6 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-x-family-3-dublado/03.mp4/
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-x-family-3-dublado/04.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="SXFS3" tvg-name="Spy x Family S3E05" tvg-logo="https://a.storyblok.com/f/178900/1200x1703/d95d1167b5/spy-x-family-season-3-teaser-visual.jpg" group-title="ANIME - Spy x Family S3",Spy x Family S3E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-x-family-3-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Ele Ressuscitou" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Ele Ressuscitou
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Erigida sobre uma Rocha" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Erigida sobre uma Rocha
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sinais dos Tempos" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Sinais dos Tempos
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Jesus o Filho de Deus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Jesus o Filho de Deus
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="João O Batista" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",João O Batista
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Lázaro Vive" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Lázaro Vive
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Nasce o Rei" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Nasce o Rei
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Bom Samaritano" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Bom Samaritano
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Filho Prodigo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Filho Prodigo
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Juiz Justo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Juiz Justo
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Maior é o Menor" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Maior é o Menor
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Messias Está Chegando" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Messias Está Chegando
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/12.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Ministério de Paulo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Ministério de Paulo
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Pai Nosso" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Pai Nosso
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/14.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Perdido é Achado" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Perdido é Achado
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/15.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Pão do Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Pão do Céu
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/16.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Reino do Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Reino do Céu
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/17.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Os Milagres de Jesus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Os Milagres de Jesus
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/18.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Parábolas de Jesus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Parábolas de Jesus
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/19.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Perdoai as nossas Dívidas" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Perdoai as nossas Dívidas
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/20.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Respeitável É Jesus Cristo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Respeitável É Jesus Cristo
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/21.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Saulo de Tarso" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Saulo de Tarso
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/22.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Senhor, Eu Acredito" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Senhor, Eu Acredito
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/23.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Tesouros no Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Tesouros no Céu
-https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/24.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E01" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/01.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E02" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E02
@@ -2430,7 +2398,7 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/11.mp4/index.
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E12" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E12
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/12.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E01" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E01
-https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/01.mp4/index.m3u8
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/01.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E02" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E02
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/02.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E03" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E03
@@ -2501,7 +2469,179 @@ https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/010.mp4/media
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/011.mp4/media-1/stream.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E12" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E12
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/012.mp4/media-1/stream.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Ele Ressuscitou" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Ele Ressuscitou
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Erigida sobre uma Rocha" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Erigida sobre uma Rocha
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sinais dos Tempos" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Sinais dos Tempos
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Jesus o Filho de Deus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Jesus o Filho de Deus
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="João O Batista" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",João O Batista
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Lázaro Vive" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Lázaro Vive
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Nasce o Rei" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Nasce o Rei
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Bom Samaritano" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Bom Samaritano
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Filho Prodigo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Filho Prodigo
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Juiz Justo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Juiz Justo
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Maior é o Menor" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Maior é o Menor
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Messias Está Chegando" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Messias Está Chegando
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Ministério de Paulo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Ministério de Paulo
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Pai Nosso" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Pai Nosso
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/14.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Perdido é Achado" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Perdido é Achado
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/15.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Pão do Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Pão do Céu
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/16.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Reino do Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Reino do Céu
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/17.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Os Milagres de Jesus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Os Milagres de Jesus
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/18.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Parábolas de Jesus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Parábolas de Jesus
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/19.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Perdoai as nossas Dívidas" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Perdoai as nossas Dívidas
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/20.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Respeitável É Jesus Cristo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Respeitável É Jesus Cristo
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/21.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Saulo de Tarso" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Saulo de Tarso
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/22.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Senhor, Eu Acredito" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Senhor, Eu Acredito
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/23.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Tesouros no Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Tesouros no Céu
+https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/24.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E01" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E01
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E02" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E02
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E03" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E03
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E04" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E04
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E05" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E05
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E06" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E06
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E07" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E07
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E08" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E08
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E09" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E09
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E10" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E10
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E11" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E11
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E12" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E12
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E13" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E13
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E14" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E14
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/14.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E15" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E15
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/15.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E16" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E16
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/16.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E17" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E17
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/17.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E18" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E18
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/18.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E19" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E19
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/19.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E20" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E20
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/20.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E21" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E21
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/21.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E22" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E22
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/22.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E23" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E23
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/23.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E24" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E24
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/24.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E25" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E25
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/25.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E26" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E26
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/26.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E27" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E27
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/27.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E28" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E28
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/28.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E29" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E29
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/29.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E30" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E30
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/30.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E31" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E31
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/31.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E32" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E32
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/32.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E33" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E33
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/33.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E34" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E34
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/34.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E35" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E35
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/35.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E36" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E36
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/36.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E37" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E37
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/37.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E38" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E38
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/38.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E39" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E39
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/39.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E40" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E40
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/40.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E41" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E41
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/41.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E42" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E42
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/42.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E43" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E43
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/43.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E44" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E44
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/44.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E45" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E45
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/45.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E46" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E46
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/46.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E47" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E47
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/47.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E48" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E48
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/48.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E49" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E49
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/49.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E50" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E50
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/50.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E51" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E51
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/51.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E52" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E52
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/52.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="fran001" tvg-name="Teste1" tvg-logo="" group-title="Só teste",Teste2
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/13.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="IDM4" tvg-name="Teste3" tvg-logo="" group-title="Só teste",Teste4
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",
+https://llanfairpwllgwyngy.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",
+https://hlswish.com/stream/OXK0erhYqSPEsZhQEv7C6Q/kjhhiuahiuhgihdf/1765196928/58084208/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",frankie-e-os-monstros
+https://llanfairpwllgwyngy.com/cdn/hls/3bea36ef704c219e30349149b446f576/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="superflixapi" tvg-logo="" group-title="FILMES - VOD",frankie-e-os-monstros
+https://streamcnvs.com/m/Stitch.Head.2025.1080p.WEBRip.Dublado.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",como trei oneflix
+https://llanfairpwllgwyngy.com/cdn/hls/17d08ab7b04f144dd66cef4472bea6f6/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",one flix play 4
+https://embedplayer1.xyz/cdn/hls/abc1f499901bc004e98c5b921d411a63/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",frankie-e-os-monstros oneflix pla1
+https://llanfairpwllgwyngy.com/cdn/hls/3bea36ef704c219e30349149b446f576/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",frankie-e-os-monstros oneflix play 4
+https://embedplayer1.xyz/cdn/hls/075ba8268afadd965f8543873c29525d/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",diario-de-um-banana-a-gota-dagua pobre 1
+https://llanfairpwllgwyngy.com/cdn/hls/404648ffdb43429bee4fc6c070e96d15/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",diario-de-um-banana-a-gota-dagua/ pobre 2
+https://hlswish.com/stream/RW-2QF-gslKiBazDRiyUmg/kjhhiuahiuhgihdf/1765198930/65923720/master.m3u8
