@@ -2373,275 +2373,591 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-x-family-3-dublado/03.mp4/
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-x-family-3-dublado/04.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="SXFS3" tvg-name="Spy x Family S3E05" tvg-logo="https://a.storyblok.com/f/178900/1200x1703/d95d1167b5/spy-x-family-season-3-teaser-visual.jpg" group-title="ANIME - Spy x Family S3",Spy x Family S3E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-x-family-3-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E01" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E01
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E01" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E02" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E02
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E02" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E02
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E03" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E03
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E03" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E03
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E04" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E04
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E04" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E04
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E05" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E05
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E05" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E06" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E06
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E06" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E06
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E07" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E07
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E07" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E07
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E08" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E08
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E08" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E08
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E09" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E09
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E09" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E09
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E10" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E10
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E10" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E10
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E11" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E11
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E11" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E11
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E12" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E12
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E12" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan S01",Dandadan E12
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-dublado/12.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E01" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E01
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E01" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E02" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E02
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E02" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E02
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E03" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E03
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E03" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E03
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E04" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E04
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E04" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E04
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E05" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E05
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E05" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E06" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E06
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E06" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E06
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E07" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E07
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E07" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E07
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E08" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E08
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E08" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E08
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E09" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E09
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E09" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E09
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E10" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E10
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E10" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E10
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E11" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E11
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E11" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E11
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan E12" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E12
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan E12" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan S02",Dandadan E12
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/dandadan-2-dublado/12.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E01" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E01
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E01" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E01
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/001.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E02" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E02
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E02" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E02
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/002.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E03" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E03
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E03" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E03
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/003.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E04" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E04
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E04" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E04
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/004.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E05" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E05
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E05" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E05
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/005.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E06" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E06
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E06" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E06
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/006.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E07" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E07
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E07" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E07
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/007.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E08" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E08
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E08" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E08
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/008.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E09" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E09
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E09" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E09
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/009.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E10" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E10
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E10" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E10
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/010.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E11" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E11
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E11" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E11
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/011.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E12" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E12
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E12" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyF1p-h8o1bUltun2VnnLP20LK5gtRfLxXVWluyTT93ACCJBc4" group-title="ANIME - Dandadan Legendado S01",Dandadan Legendado E12
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/012.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E01" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E01
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E01" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E01
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/001.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E02" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E02
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E02" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E02
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/002.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E03" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E03
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E03" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E03
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/003.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E04" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E04
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E04" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E04
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/004.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E05" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E05
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E05" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E05
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/005.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E06" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E06
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E06" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E06
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/006.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E07" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E07
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E07" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E07
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/007.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E08" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E08
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E08" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E08
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/008.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E09" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E09
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E09" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E09
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/009.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E10" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E10
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E10" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E10
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/010.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E11" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E11
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E11" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E11
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/011.mp4/media-1/stream.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dandadan Legendado E12" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E12
+#EXTINF:-1 tvg-chno="" tvg-id="DDD02" tvg-name="Dandadan Legendado E12" tvg-logo="https://a.storyblok.com/f/178900/1768x2500/8ec41105e6/dan-da-dan-s2-kv.jpeg" group-title="ANIME - Dandadan Legendado S02",Dandadan Legendado E12
 https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan-2/012.mp4/media-1/stream.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Ele Ressuscitou" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Ele Ressuscitou
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Erigida sobre uma Rocha" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Erigida sobre uma Rocha
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Erigida sobre uma Rocha" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Erigida sobre uma Rocha
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sinais dos Tempos" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Sinais dos Tempos
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Sinais dos Tempos" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Sinais dos Tempos
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Jesus o Filho de Deus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Jesus o Filho de Deus
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Jesus o Filho de Deus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Jesus o Filho de Deus
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="João O Batista" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",João O Batista
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="João O Batista" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",João O Batista
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Lázaro Vive" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Lázaro Vive
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Lázaro Vive" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Lázaro Vive
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Nasce o Rei" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Nasce o Rei
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Nasce o Rei" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Nasce o Rei
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Bom Samaritano" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Bom Samaritano
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Bom Samaritano" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Bom Samaritano
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Filho Prodigo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Filho Prodigo
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Filho Prodigo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Filho Prodigo
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Juiz Justo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Juiz Justo
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Juiz Justo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Juiz Justo
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Maior é o Menor" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Maior é o Menor
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Maior é o Menor" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Maior é o Menor
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Messias Está Chegando" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Messias Está Chegando
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Messias Está Chegando" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Messias Está Chegando
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/12.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Ministério de Paulo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Ministério de Paulo
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Ministério de Paulo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Ministério de Paulo
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Pai Nosso" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Pai Nosso
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Pai Nosso" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Pai Nosso
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/14.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Perdido é Achado" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Perdido é Achado
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Perdido é Achado" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Perdido é Achado
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/15.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Pão do Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Pão do Céu
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Pão do Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Pão do Céu
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/16.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Reino do Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Reino do Céu
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="O Reino do Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",O Reino do Céu
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/17.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Os Milagres de Jesus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Os Milagres de Jesus
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Os Milagres de Jesus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Os Milagres de Jesus
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/18.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Parábolas de Jesus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Parábolas de Jesus
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Parábolas de Jesus" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Parábolas de Jesus
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/19.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Perdoai as nossas Dívidas" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Perdoai as nossas Dívidas
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Perdoai as nossas Dívidas" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Perdoai as nossas Dívidas
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/20.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Respeitável É Jesus Cristo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Respeitável É Jesus Cristo
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Respeitável É Jesus Cristo" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Respeitável É Jesus Cristo
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/21.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Saulo de Tarso" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Saulo de Tarso
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Saulo de Tarso" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Saulo de Tarso
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/22.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Senhor, Eu Acredito" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Senhor, Eu Acredito
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Senhor, Eu Acredito" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Senhor, Eu Acredito
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/23.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Tesouros no Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Tesouros no Céu
+#EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Tesouros no Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Tesouros no Céu
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/24.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E01" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E01
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E01" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E02" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E02
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E02" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E02
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E03" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E03
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E03" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E03
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E04" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E04
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E04" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E04
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E05" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E05
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E05" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E06" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E06
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E06" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E06
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E07" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E07
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E07" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E07
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E08" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E08
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E08" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E08
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E09" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E09
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E09" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E09
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E10" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E10
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E10" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E10
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E11" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E11
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E11" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E11
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E12" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E12
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E12" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E12
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/12.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E13" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E13
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E13" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E13
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E14" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E14
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E14" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E14
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/14.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E15" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E15
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E15" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E15
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/15.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E16" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E16
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E16" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E16
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/16.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E17" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E17
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E17" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E17
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/17.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E18" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E18
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E18" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E18
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/18.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E19" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E19
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E19" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E19
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/19.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E20" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E20
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E20" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E20
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/20.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E21" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E21
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E21" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E21
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/21.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E22" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E22
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E22" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E22
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/22.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E23" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E23
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E23" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E23
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/23.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E24" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E24
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E24" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E24
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/24.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E25" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E25
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E25" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E25
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/25.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E26" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E26
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E26" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E26
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/26.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E27" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E27
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E27" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E27
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/27.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E28" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E28
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E28" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E28
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/28.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E29" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E29
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E29" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E29
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/29.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E30" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E30
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E30" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E30
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/30.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E31" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E31
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E31" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E31
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/31.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E32" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E32
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E32" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E32
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/32.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E33" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E33
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E33" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E33
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/33.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E34" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E34
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E34" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E34
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/34.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E35" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E35
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E35" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E35
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/35.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E36" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E36
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E36" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E36
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/36.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E37" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E37
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E37" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E37
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/37.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E38" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E38
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E38" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E38
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/38.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E39" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E39
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E39" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E39
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/39.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E40" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E40
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E40" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E40
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/40.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E41" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E41
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E41" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E41
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/41.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E42" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E42
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E42" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E42
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/42.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E43" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E43
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E43" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E43
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/43.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E44" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E44
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E44" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E44
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/44.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E45" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E45
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E45" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E45
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/45.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E46" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E46
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E46" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E46
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/46.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E47" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E47
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E47" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E47
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/47.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E48" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E48
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E48" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E48
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/48.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E49" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E49
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E49" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E49
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/49.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E50" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E50
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E50" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E50
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/50.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E51" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E51
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E51" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E51
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/51.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Choque E52" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E52
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E52" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E52
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/52.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E01" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 01
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E02" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 02
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E03" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 03
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E04" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 04
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E05" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 05
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E06" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 06
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E07" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 07
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E08" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 08
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E09" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 09
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E10" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 10
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E11" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 11
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E12" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 12
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E13" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 13
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E14" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 14
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/14.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E15" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 15
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/15.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E16" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 16
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/16.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E17" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 17
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/17.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E18" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 18
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/18.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E19" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 19
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/19.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E20" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 20
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/20.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E21" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 21
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/21.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E22" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 22
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/22.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E23" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 23
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/23.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E24" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 24
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/24.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E25" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 25
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/25.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E26" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 26
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/26.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E01" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 01
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E02" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 02
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E03" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 03
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E04" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 04
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E05" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 05
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E06" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 06
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E07" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 07
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E08" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 08
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E09" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 09
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E10" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 10
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E11" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 11
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E12" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 12
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E13" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 13
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E14" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 14
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/14.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E15" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 15
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/15.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E16" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 16
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/16.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E17" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 17
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/17.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E18" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 18
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/18.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E19" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 19
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/19.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E20" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 20
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/20.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E21" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 21
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/21.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E22" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 22
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/22.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E23" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 23
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/23.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E24" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 24
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/24.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E25" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 25
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/25.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E26" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S02",Du Dudu e Edu 26
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-2-temporada-dublado/26.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E01" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 01
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E02" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 02
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E03" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 03
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E04" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 04
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E05" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 05
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E06" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 06
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E07" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 07
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E08" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 08
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E09" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 09
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E10" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 10
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E11" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 11
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E12" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 12
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E13" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 13
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E14" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 14
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/14.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E15" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 15
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/15.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E16" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 16
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/16.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E17" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 17
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/17.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E18" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 18
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/18.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E19" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 19
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/19.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E20" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 20
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/20.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E21" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 21
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/21.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E22" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 22
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/22.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E23" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 23
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/23.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E24" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 24
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/24.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E25" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 25
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/25.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E26" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S03",Du Dudu e Edu 26
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-3-temporada-dublado/26.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E01" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 01
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E02" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 02
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E03" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 03
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E04" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 04
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E05" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 05
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E06" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 06
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E07" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 07
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E08" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 08
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E09" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 09
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E10" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 10
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E11" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 11
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E12" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 12
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E13" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 13
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E14" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 14
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/14.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E15" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 15
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/15.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E16" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 16
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/16.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E17" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 17
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/17.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E18" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 18
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/18.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E19" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 19
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/19.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E20" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 20
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/20.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E21" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 21
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/21.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E22" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 22
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/22.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E23" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 23
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/23.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E24" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S04",Du Dudu e Edu 24
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-4-temporada-dublado/24.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E01" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 01
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E02" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 02
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E03" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 03
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E04" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 04
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E05" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 05
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E06" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 06
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E07" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 07
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E08" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 08
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E09" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 09
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E10" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 10
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E11" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 11
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E12" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 12
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E13" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 13
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E14" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 14
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/14.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E15" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 15
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/15.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E16" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 16
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/16.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E17" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 17
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/17.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E18" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 18
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/18.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E19" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 19
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/19.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E20" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 20
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/20.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E21" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 21
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/21.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E22" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S05",Du Dudu e Edu 22
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-5-temporada-dublado/22.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E01" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S06",Du Dudu e Edu 01
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-6-temporada-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E02" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S06",Du Dudu e Edu 02
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-6-temporada-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E03" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S06",Du Dudu e Edu 03
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-6-temporada-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E04" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S06",Du Dudu e Edu 04
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-6-temporada-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E05" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S06",Du Dudu e Edu 05
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-6-temporada-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E06" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Du Dudu e Edu S06",Du Dudu e Edu 06
+https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-6-temporada-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E01" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E01
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E02" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E02
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/02.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E03" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E03
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/03.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E04" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E04
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E05" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E05
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E06" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E06
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E07" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E07
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/07.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E08" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E08
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/08.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E09" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E09
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/09.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E10" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E10
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/10.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E11" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E11
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/11.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E12" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E12
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/12.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E13" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E13
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/13.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E14" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E14
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/14.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E15" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E15
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/15.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E16" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E16
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/16.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E17" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E17
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/17.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E18" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E18
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/18.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E19" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E19
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/19.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E20" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E20
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/20.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E21" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E21
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/21.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E22" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E22
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/22.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E23" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E23
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/23.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E24" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E24
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/24.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E25" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E25
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/25.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E26" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E26
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/26.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E27" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E27
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/27.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E28" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E28
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/28.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E29" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E29
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/29.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E30" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E30
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/30.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E31" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E31
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/31.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E32" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E32
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/32.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E33" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E33
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/33.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="Corrida Maluca E34" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHO - Corrida Maluca",Corrida Maluca E34
+https://cdn-s01.mywallpaper-4k-image.net/stream/c/corrida-maluca-dublado/34.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="fran001" tvg-name="Teste1" tvg-logo="" group-title="Só teste",Teste2
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/13.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="IDM4" tvg-name="Teste3" tvg-logo="" group-title="Só teste",Teste4
 https://cdn-s01.mywallpaper-4k-image.net/stream/c/coragem-o-cao-covarde-4-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",F1
 https://llanfairpwllgwyngy.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",
-https://hlswish.com/stream/OXK0erhYqSPEsZhQEv7C6Q/kjhhiuahiuhgihdf/1765196928/58084208/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",frankie-e-os-monstros
-https://llanfairpwllgwyngy.com/cdn/hls/3bea36ef704c219e30349149b446f576/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="superflixapi" tvg-logo="" group-title="FILMES - VOD",frankie-e-os-monstros
-https://streamcnvs.com/m/Stitch.Head.2025.1080p.WEBRip.Dublado.mp4
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",como trei oneflix
 https://llanfairpwllgwyngy.com/cdn/hls/17d08ab7b04f144dd66cef4472bea6f6/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",one flix play 4
 https://embedplayer1.xyz/cdn/hls/abc1f499901bc004e98c5b921d411a63/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",frankie-e-os-monstros oneflix pla1
-https://llanfairpwllgwyngy.com/cdn/hls/3bea36ef704c219e30349149b446f576/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",frankie-e-os-monstros oneflix play 4
-https://embedplayer1.xyz/cdn/hls/075ba8268afadd965f8543873c29525d/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",diario-de-um-banana-a-gota-dagua pobre 1
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",diario de um banana pobre 1
 https://llanfairpwllgwyngy.com/cdn/hls/404648ffdb43429bee4fc6c070e96d15/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",diario-de-um-banana-a-gota-dagua/ pobre 2
-https://hlswish.com/stream/RW-2QF-gslKiBazDRiyUmg/kjhhiuahiuhgihdf/1765198930/65923720/master.m3u8
