@@ -342,7 +342,7 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-dublado/273.m
 #EXTINF:-1 tvg-chno="150" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN E274" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S11",NARUTO SHIPPUDEN E274
 https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-dublado/274.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN E275" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S11",NARUTO SHIPPUDEN E275
-https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-dublado/275.mp4/index.m3u8
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-dublado/275v2.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="152" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN E276" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S11",NARUTO SHIPPUDEN E276
 https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-dublado/276.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN E277" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S11",NARUTO SHIPPUDEN E277
@@ -2961,3 +2961,7 @@ https://llanfairpwllgwyngy.com/cdn/hls/17d08ab7b04f144dd66cef4472bea6f6/master.t
 https://embedplayer1.xyz/cdn/hls/abc1f499901bc004e98c5b921d411a63/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",diario de um banana pobre 1
 https://llanfairpwllgwyngy.com/cdn/hls/404648ffdb43429bee4fc6c070e96d15/master.txt
+#EXTINF:-1 tvg-chno="000" tvg-id="OAS" tvg-name="O Agente Secreto" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/cjHczbkm4j9Dccgf2RzyjZh8kYT.jpg" group-title="FILMES - VOD",O Agente Secreto
+https://llanfairpwllgwyngy.com/cdn/hls/e268cb63c5f3645a7780c2b1b6030a03/master.txt
+#EXTINF:-1 tvg-chno="000" tvg-id="OAS" tvg-name="Truque de Mestre o 3º Ato" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/cPk3nl11KtzRHEBrYRbjXr009jQ.jpg" group-title="FILMES - VOD",Truque de Mestre o 3º Ato
+https://llanfairpwllgwyngy.com/cdn/hls/47f7518a78fdc7fa651944c58c3e9c69/master.txt
