@@ -65,7 +65,7 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublad
 https://cdn-s01.mywallpaper-4k-image.net/stream/a/akira-dublado/01.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="000" tvg-id="AKR" tvg-name="Akira" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1ODVmZDktYzRjNi00ODEzLTk4ZmMtMTg5NGJiOWY3MTQzXkEyXkFqcGc@._V1_.jpg" group-title="FILMES - VOD",Akira
 https://cdn-s01.mywallpaper-4k-image.net/stream/a/akira/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salve Geral: Irmandade" tvg-logo="https://image.tmdb.org/t/p/w342/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg" group-title="FILME - Salve Geral: Irmandade",Salve Geral: Irmandade
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salve Geral: Irmandade" tvg-logo="https://image.tmdb.org/t/p/w342/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg" group-title="FILMES - VOD",Salve Geral: Irmandade
 https://embedplayer1.xyz/cdn/hls/46d1183a914a91e10df18efe3c898824/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="PB" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S1 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S01",Peaky Blinders Sangue; Apostas e Navalhas
 https://112234152.xyz/hls/a71cdf423ea5906c5fa85fff95d90360/master.txt
@@ -139,7 +139,7 @@ https://112234152.xyz/hls/23ba85862dd19c3550e7c0f0af84c7ed/master.txt
 https://112234152.xyz/hls/fe59c7995755aa739facd4144d45247b/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="PB" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S6 E06" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S06",Peaky Blinders Sangue; Apostas e Navalhas
 https://112234152.xyz/hls/e3d23b257cd19c27ca38fb7a8eeb9cd1/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="PBF" tvg-name="Peaky Blinders: O Homem Imortal" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/zhtt4k4Vqz2k0frLtBddJmNbqjK.jpg" group-title="FILME - Peaky Blinders: O Homem Imortal",Peaky Blinders: O Homem Imortal
+#EXTINF:-1 tvg-chno="" tvg-id="PBF" tvg-name="Peaky Blinders: O Homem Imortal" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/zhtt4k4Vqz2k0frLtBddJmNbqjK.jpg" group-title="FILMES - VOD",Peaky Blinders: O Homem Imortal
 https://llanfairpwllgwyngy.com/cdn/hls/4322b085689f9a799af3295d42da796e/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Impuros E01" tvg-logo="https://image.tmdb.org/t/p/w342/zTvluwSblMTAkM7Po7Sp75eqLzM.jpg" group-title="SÉRIE - Impuros S06",Impuros E01
 https://embedplayer1.xyz/cdn/hls/dba20b176a62450d02a8d7ec162e0532/master.txt
@@ -161,10 +161,24 @@ https://linktudi.com/cdn/hls/f4572881dad36202748e9627e56862bb/master.txt
 https://linktudi.com/cdn/hls/a92243e9422f06d3039fdb9694c04f2a/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Impuros E10" tvg-logo="https://image.tmdb.org/t/p/w342/zTvluwSblMTAkM7Po7Sp75eqLzM.jpg" group-title="SÉRIE - Impuros S06",Impuros E10
 https://linktudi.com/cdn/hls/2c4482612456835f9845da19122bec05/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Scarface: A Força do Poder" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/4d6ksr4wsBd1fifF7YLAm9wbWiK.jpg" group-title="FILME - Scarface: A Força do Poder",Scarface: A Força do Poder
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Scarface: A Força do Poder" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/4d6ksr4wsBd1fifF7YLAm9wbWiK.jpg" group-title="FILMES - VOD",Scarface: A Força do Poder
 https://llanfairpwllgwyngy.com/cdn/hls/4880d087493836bc8139d07e0e457fbf/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Pulp Fiction" tvg-logo="" group-title="FILME - Pulp Fiction",Pulp Fiction
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Pulp Fiction" tvg-logo="" group-title="FILMES - VOD",Pulp Fiction
 https://netcinevu.lat/media-player/hls/PFTDVIOLENCIA1994DUB-BAIXO.php?token=1776666012_e0cf5e6f334bf9623b49d32d1e7c7a07242fdfec9be396cd1268b8dec9413bdb&apr=MvGAy9%2BRgV5t2XhlWsOJ%2Bg%3D%3D
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Memórias de uma Gueixa" tvg-logo="https://image.tmdb.org/t/p/w342/w6gOSVEaC2gXFLtwIZPyci8IL2b.jpg" group-title="FILMES - VOD",Memórias de uma Gueixa
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/00f480ca2c0a5145574ff53339950fc6/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Capone O Gângster" tvg-logo="https://image.tmdb.org/t/p/w342/fvzjlxPk2J3NEaFfLA0tJRNmI68.jpg" group-title="FILMES - VOD",Capone; O Gângster
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/1f4eddeb7111f9d2544573a0cc294422/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Era Uma vez na América" tvg-logo="" group-title="FILMES - VOD",Era Uma vez na América
+https://cdnst93.tokyvideo.com/videos/810/810874/mp4/14196dad100687c7bbca470ce7c4c7712460fc300a557a3c2aef1ade3cd0ec34.mp4?secure=Y33Q8ebUWxKmcNLz-R7nSQ%3D%3D%2C1779655124
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Mundo dos Pequeninos" tvg-logo="" group-title="FILMES - VOD",Tok t O Mundo dos Pequeninos
+https://cdnst81.tokyvideo.com/videos/747/747414/mp4/8fd47701e9aad2455f77c6248f1166803766525b0b6beb54884bb8f474b2dae5.mp4?secure=-T_81pMh2je1D5ILDuAFsw%3D%3D%2C1779655589
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",O Mundo dos Pequeninos
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/4b1d5ed5d519eb3dae12b8850633212c/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Anaconda" tvg-logo="" group-title="FILMES - VOD",Anaconda
+https://llanfairpwllgwyngy.com/cdn/hls/19114892e8a93aa02d450370a8339c1d/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Poço 2" tvg-logo="https://image.tmdb.org/t/p/w342/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg" group-title="FILMES - VOD",O Poço 2
+https://llanfairpwllgwyngy.com/cdn/hls/ba9976e7e02c589bc774a8395b30826f/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Um desastre como o Brasil nunca viu" tvg-logo="https://image.tmdb.org/t/p/w342/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg" group-title="SÉRIE - Emergência Radioativa",Um desastre como o Brasil nunca viu
 https://embedplayer1.xyz/cdn/hls/c2708d5f7e4abf1b279ec0d2ca69254e/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Quando a gente vai voltar pra casa?" tvg-logo="https://image.tmdb.org/t/p/w342/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg" group-title="SÉRIE - Emergência Radioativa",Quando a gente vai voltar pra casa?
@@ -175,7 +189,9 @@ https://embedplayer1.xyz/cdn/hls/cc2c04856e207fbd7094a0342908ef00/master.txt
 https://embedplayer1.xyz/cdn/hls/b3faf11f59c6881a981a067690031ea8/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alguém precisa confiar em alguém" tvg-logo="https://image.tmdb.org/t/p/w342/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg" group-title="SÉRIE - Emergência Radioativa",Alguém precisa confiar em alguém
 https://embedplayer1.xyz/cdn/hls/207b48194f7d0ec5a17d625ede098f6f/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Eddingto" tvg-logo="https://image.tmdb.org/t/p/w342/wpZUzr2fsfj3k5ZXyIBmH7Btngo.jpg" group-title="FILME - Eddingto",Eddingto
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alguém precisa confiar em alguém2" tvg-logo="https://image.tmdb.org/t/p/w342/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg" group-title="SÉRIE - Emergência Radioativa",Alguém precisa confiar em alguém2
+https://vid7102401.hclod.qzz.io/_s3_/1/292474/s1e5/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Eddingto" tvg-logo="https://image.tmdb.org/t/p/w342/wpZUzr2fsfj3k5ZXyIBmH7Btngo.jpg" group-title="FILMES - VOD",Eddingto
 https://embedplayer1.xyz/cdn/hls/c605ccf4ff9b16792e8a8f2d595f18f2/master.txt
 #EXTINF:-1 tvg-chno="11" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN - S06E135" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S06",NARUTO SHIPPUDEN - S06E135
 https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-dublado/135.mp4/index.m3u8
@@ -3217,7 +3233,7 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/j/jujutsu-kaisen-3-dublado/21.mp
 https://cdn-s01.mywallpaper-4k-image.net/stream/j/jujutsu-kaisen-3-dublado/22.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="JJK" tvg-name="Jujutsu Kaisen - S03E23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/JujutsuKaisenseasonthreekeyvisual.jpg/250px-JujutsuKaisenseasonthreekeyvisual.jpg" group-title="ANIME - Jujutsu Kaisen S03",Jujutsu Kaisen S03
 https://cdn-s01.mywallpaper-4k-image.net/stream/j/jujutsu-kaisen-3-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="JJK0" tvg-name="Jujutsu Kaisen 0" tvg-logo="https://animesdigital.org/wp-content/uploads/2023/06/jujutsu-kaisen-0-categoria.jpg" group-title="FILME - Jujutsu Kaisen 0",Jujutsu Kaisen 0
+#EXTINF:-1 tvg-chno="" tvg-id="JJK0" tvg-name="Jujutsu Kaisen 0" tvg-logo="https://animesdigital.org/wp-content/uploads/2023/06/jujutsu-kaisen-0-categoria.jpg" group-title="FILMES - VOD",Jujutsu Kaisen 0
 https://cdn-s01.mywallpaper-4k-image.net/stream/j/jujutsu-kaisen-filme-0-dublado/01.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="BSK" tvg-name="Berserk E01" tvg-logo="https://animesdigital.org/wp-content/uploads/2023/05/assistir-berserk-todos-os-episodios-online-animes-online-215x300.jpg" group-title="ANIME - Berserk",Berserk E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/b/berserk/01.mp4/index.m3u8
