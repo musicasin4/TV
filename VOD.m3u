@@ -43,7 +43,7 @@ https://llanfairpwllgwyngyll.com/cdn/hls/306cde5cae3e833315bdf232fccf4be1/master
 https://vid7102401.hclod.qzz.io/_s3_/v01/402431/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="WICKED2" tvg-name="WICKED 2" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/dtEQlBNKMlT2vIoRFkPSErZBKQg.jpg" group-title="FILMES - VOD",WICKED 2
 https://vid7102401.hclod.qzz.io/_s3_/v03/967941/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="COMO TREINAR O SEU DRAGÃO" tvg-name="COMO TREINAR O SEU DRAGÃO (2025)" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/how-to-train-your-dragon-intl/images/regions/us/updates2/onesheet.jpg" group-title="FILMES - VOD",COMO TREINAR O SEU DRAGÃO (2025)
+#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="COMO TREINAR O SEU DRAGÃO" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/how-to-train-your-dragon-intl/images/regions/us/updates2/onesheet.jpg" group-title="FILMES - VOD",COMO TREINAR O SEU DRAGÃO
 https://loldewfwvwvwewefdw.cyou/cdn/hls/1ef7ddaffc3fecafddb2e939ee1a4913/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Naruto Shippuden: O Filme" tvg-logo="https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-1.jpg" group-title="FILMES - VOD",Naruto Shippuden: O Filme
 https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-filmes-dublado/01.mp4/index.m3u8
@@ -175,6 +175,10 @@ https://www-fontedecanais-me.63ioec50wtok71.com/movies/28/309720.mp4?username=Ro
 https://llanfairpwllgwyngy.com/cdn/hls/19114892e8a93aa02d450370a8339c1d/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Poço 2" tvg-logo="https://image.tmdb.org/t/p/w342/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg" group-title="FILMES - VOD",O Poço 2
 https://llanfairpwllgwyngy.com/cdn/hls/ba9976e7e02c589bc774a8395b30826f/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Mario Galaxy: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg" group-title="FILMES - VOD",Super Mario Galaxy: O Filme
+https://vid7102401.hclod.qzz.io/_s3_/v11/1226863/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Super Mario Galaxy: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg" group-title="FILMES - VOD",Super Mario Galaxy: O Filme V2
+https://embedplayer2.xyz/cdn/hls/99c1ba25f4d3a0f298b0cf2c31f91a81/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Um desastre como o Brasil nunca viu" tvg-logo="https://image.tmdb.org/t/p/w342/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg" group-title="SÉRIE - Emergência Radioativa",Um Desastre Como o Brasil Nunca Viu
 https://vid7102401.hclod.qzz.io/_s3_/1/292474/s1e1/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Quando a gente vai voltar pra casa?" tvg-logo="https://image.tmdb.org/t/p/w342/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg" group-title="SÉRIE - Emergência Radioativa",Quando a Gente Vai Voltar Pra Casa?
@@ -282,6 +286,128 @@ https://embedplayer2.xyz/cdn/hls/e9d1649813e5543616f7aec3df52d3cf/master.txt
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/master.m3u8?t=1woz-y6v5DICM-9qVWkzUHGNu6vryM_0nT7Miuiy3Kk&s=1780959106&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/index-v1-a1.m3u8?t=1woz-y6v5DICM-9qVWkzUHGNu6vryM_0nT7Miuiy3Kk&s=1780959106&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Cumprir o que foi acordado
+https://embedplayer2.xyz/cdn/hls/4a3078b3456830f4fb293b24f566a4bb/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Imprudência letal
+https://embedplayer2.xyz/cdn/hls/9a5b50cf2ca1848f20687b67815c953b/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Errar o alvo
+https://embedplayer2.xyz/cdn/hls/035a4ee0b85b01a0cdec45143f8ecc9e/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Cavalo de Troia
+https://embedplayer2.xyz/cdn/hls/faa7ca3e93da7272a56d8a13c894f7e0/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Dia da Marmota
+https://embedplayer2.xyz/cdn/hls/58667c45a53041501bbcf08d84b1cdcc/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",A guerra fria morna
+https://embedplayer2.xyz/cdn/hls/6962e288d2aca7126ab0b5bb010d3e6a/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Instabilidade refrigerada
+https://embedplayer2.xyz/cdn/hls/5291b93f2b7ceea7b8d0c7efd634cfc1/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Você provocou isso
+https://embedplayer2.xyz/cdn/hls/23bae78b9367d0a83199fce7760913e9/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Quem persiste, vence.
+https://embedplayer2.xyz/cdn/hls/84726fd1cb4f3e853e2ae24d7120ab83/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",As máscaras desapareceram
+https://embedplayer2.xyz/cdn/hls/364d683b94a77e9162eaed36da8bca52/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",O mentor do plano
+https://embedplayer2.xyz/cdn/hls/84e7e829142119e8927cef2ea81475db/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Uma questão de eficácia
+https://embedplayer2.xyz/cdn/hls/06c4319b836b987b34db8dd7e1be3acb/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",O que fizemos?
+https://embedplayer2.xyz/cdn/hls/0ecef623bbc7255d4fb7046e159e7c48/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Estamos de volta
+https://embedplayer2.xyz/cdn/hls/b1b90eb44dd21feecb508bbde5e45346/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Aikido
+https://embedplayer2.xyz/cdn/hls/5862c8e7ce268df72a5927e139264756/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",48 metros de profundidade
+https://embedplayer2.xyz/cdn/hls/a59e44305a8c5f70fd99c24d7c5e9fdc/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Hora do golfinho
+https://embedplayer2.xyz/cdn/hls/64035739150bb7e5ec924cc9c8c57ee0/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Bum bum ciao
+https://embedplayer2.xyz/cdn/hls/c5448a414c651560cd38b67ef726c618/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Tudo parecia insignificante
+https://embedplayer2.xyz/cdn/hls/7be589597c4b1ced873cd9f573ccbcdb/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Férias curtas
+https://embedplayer2.xyz/cdn/hls/0a7814e0b2104a162d32e0439273755e/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",À deriva
+https://embedplayer2.xyz/cdn/hls/93b6fa1f5587f4de1663085a4f0cd0bd/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Fim de Jogo
+https://embedplayer2.xyz/cdn/hls/8d520a7efb1de5948af7c5d28d55e8fc/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Fim da Estrada
+https://embedplayer2.xyz/cdn/hls/763488987c2f087d1f082150fdddd2e6/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Você Acredita em Reencarnação
+https://embedplayer2.xyz/cdn/hls/d86460a60ec0d1b893e417a3e258f10c/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Bem-Vindos ao Show da Vida
+https://embedplayer2.xyz/cdn/hls/d2de8e64f01cce31520d1c9080ae3297/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Seu Lugar no Céu
+https://embedplayer2.xyz/cdn/hls/548c025faf0f56300edeefe36218d0ba/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Muitas Vidas Para Viver
+https://embedplayer2.xyz/cdn/hls/6df3ce92700a4990bb7252e5845dfb3f/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Válvula de Escape
+https://embedplayer2.xyz/cdn/hls/d8215cd4fc15cac505ca0c49dadd22d2/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Voluntarismo
+https://embedplayer2.xyz/cdn/hls/f7e77ea97a2eaf443fd4e994ecb850da/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",A Teoria da Elegância
+https://embedplayer2.xyz/cdn/hls/56c62745b9c354b2b878192fe2874f17/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+https://video.wixstatic.com/video/8d3786_1c4a97b94f04479cb50a9d701a02d063/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+https://video.wixstatic.com/video/8d3786_ac4222d9ffbf48a186b349be5a4c6895/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+https://video.wixstatic.com/video/8d3786_53831ad9e4fd4dd788ef2d383de1e11b/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+https://video.wixstatic.com/video/8d3786_dc8675179f124a64adddc2ebe034d1d2/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+https://video.wixstatic.com/video/8d3786_734981d1bbde4b6b9c262a9788c4e015/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+https://video.wixstatic.com/video/8d3786_5224e0ee544e417f8b14cb55867ce2aa/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+https://video.wixstatic.com/video/8d3786_fe360c49ace44205a888dbdb01316c55/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+https://video.wixstatic.com/video/8d3786_11d8e22b18174fc5a09ebb2d8e623be0/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04", S04 E01
+https://drive.google.com/drive/folders/18PnvwmfWbaLHd1jeb_uwcYcjbn_qvUxO
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01", Test 7 la casa
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/cd168798553e99cce992514e1f11acf2/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",A Familia do Chapolin Colorado
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e1/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",Piratas Não Jogam Futebol
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e2/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",O Homem Das Cavernas Escondido o Armário!
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e3/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",Tem uma Pinhata Viva!
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e4/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",Lina Fica Grandona, Lina Fica Pequenininha
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e5/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",No Mar a Vida É Mais Gostosa... Até o Tubarão Aparecer!
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e6/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",Um Conto Encantado do Chapolin Colorado
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e7/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",Procura-se a Mãe do Bebê Jupiteriano
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e8/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",Mais Barriga que Juízo: A Saga dos Gordicholas
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e9/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",Não Há Clone Que Não Venha Para o Bem
+https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e10/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/qF0R9nx8gtne6tdhVt4lMxXXVvE.jpg" group-title="FILMES - VOD",Resident Evil: A Vingança
+https://embedplayer2.xyz/cdn/hls/f31df4dbbcf2c00959452b95b2a96a64/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/tron-ares-2025-03-12-2025.webp" group-title="FILMES - VOD",TRON Ares
+https://vid7102401.hclod.qzz.io/_s3_/v03/533533/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/elio-2025-17-09-2025.webp" group-title="FILMES - VOD",Elio
+https://vid7102401.hclod.qzz.io/_s3_/v02/1022787/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/5UfZeMmpw0SKAK13VPUpTtN7xRb.jpg" group-title="FILMES - VOD",Road Wars Max Fury
+https://embedplayer2.xyz/cdn/hls/e22f0f402e9ff516444121564c8459c2/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/uXjbKJ57H30YrOQx5GfXoGvnsGY.jpg" group-title="FILMES - VOD",Planeta dos Macacos: O Reinado
+https://vid7102401.hclod.qzz.io/_s3_/v01/653346/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/a9z2cmIBfx99dtzj8TaSFU50AnW.jpg" group-title="FILMES - VOD",Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes
+https://vid7102401.hclod.qzz.io/_s3_/v02/695721/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/pVTtJSvJoOofD1YoyPSGwWEWmJd.jpg" group-title="FILMES - VOD",Extermínio
+https://vid7102401.hclod.qzz.io/_s3_/v01/170/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/aaI74oimFVIUEgq4i188mG8p7KE.jpg" group-title="FILMES - VOD",Extermínio 2
+https://vid7102401.hclod.qzz.io/_s3_/v01/1562/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/hh73Pn1NOwApIkhroZ5EkMoDXq6.jpg" group-title="FILMES - VOD",Extermínio: A Evolução
+https://vid7102401.hclod.qzz.io/_s3_/v01/1100988/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/7ngPPf8mdLANn267uuWK2iRAuTu.jpg" group-title="SÉRIE - Neon Genesis Evangelion S01",O Ataque dos Anjos
+https://cdn-s01.mywallpaper-4k-image.net/stream/n/neon-genesis-evangelion-dublado/01.mp4/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/7ngPPf8mdLANn267uuWK2iRAuTu.jpg" group-title="SÉRIE - Neon Genesis Evangelion S01",O Ataque dos Anjos V2
+https://embedplayer2.xyz/cdn/hls/b951b6ad2548558f3d26d88c364037f6/master.txt
 #EXTINF:-1 tvg-chno="11" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN - S06E135" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S06",NARUTO SHIPPUDEN - S06E135
 https://cdn-s01.mywallpaper-4k-image.net/stream/n/naruto-shippuden-dublado/135.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="NS" tvg-name="NARUTO SHIPPUDEN - S06E136" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIME - NARUTO SHIPPUDEN S06",NARUTO SHIPPUDEN - S06E136
@@ -3504,7 +3630,6 @@ https://embedplayer2.xyz/cdn/hls/a557dc4a22e31ec03251f6dd50ddc8c1/master.txt
 https://embedplayer2.xyz/cdn/hls/12b8ea2544928ed31483a65020c8ffe1/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Impuros E10" tvg-logo="https://image.tmdb.org/t/p/w342/zTvluwSblMTAkM7Po7Sp75eqLzM.jpg" group-title="V2 SÉRIE - Impuros S06",Impuros E10
 https://embedplayer2.xyz/cdn/hls/766545486375fb35b1efebb494c72ace/master.txt
-
 #EXTINF:-1 tvg-chno="" tvg-id="PB" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S1 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="V2 SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S01",Peaky Blinders Sangue; Apostas e Navalhas S1 E01
 https://112234152.xyz/hls/a71cdf423ea5906c5fa85fff95d90360/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="PB" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S1 E02" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="V2 SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S01",Peaky Blinders Sangue; Apostas e Navalhas S1 E02
@@ -3633,3 +3758,15 @@ https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/330163.mp4?user
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/330164.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFhfW05eR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFNZQ0JcUxc%3D
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",O Mundo dos Pequeninos
 https://www-fontedecanais-me.72yrci50ppqp71.com/movies/28/309720.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFhZXE9aR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFxbQEBUUhc%3D
+#EXTINF:-1 tvg-chno="" tvg-id="WICKED2" tvg-name="Zootopia 2" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/02/hv5nuAy.png" group-title="FILMES - VOD",Zootopia 2
+https://vid7102401.hclod.qzz.io/_s3_/v05/1084242/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="WICKED2" tvg-name="Smurfs" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2025/08/Obgbafq0_o.png" group-title="FILMES - VOD",Smurfs
+https://vid7102401.hclod.qzz.io/_s3_/v02/936108/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="WICKED2" tvg-name="Bob Esponja: Em Busca da Calça Quadrada" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/V6kDDu5.png" group-title="FILMES - VOD",Bob Esponja: Em Busca da Calça Quadrada
+https://vid7102401.hclod.qzz.io/_s3_/v03/991494/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="WICKED2" tvg-name="Plankton: O Filme" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2025/03/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg" group-title="FILMES - VOD",Plankton: O Filme
+https://vid7102401.hclod.qzz.io/_s3_/v07/1104845/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="WICKED2" tvg-name="Kayara - A Princesa Inca" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2025/05/vrNi9r3.png" group-title="FILMES - VOD",Kayara - A Princesa Inca
+https://vid7102401.hclod.qzz.io/_s3_/v10/666154/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="WICKED2" tvg-name="Kayara - A Princesa Inca" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2025/05/vrNi9r3.png" group-title="FILMES - VOD",Kayara - A Princesa Inca V2
+https://embedplayer2.xyz/cdn/hls/678aa2a4da4136b9ea633ddef1726aec/master.txt
