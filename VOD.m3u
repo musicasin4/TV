@@ -1,4 +1,14 @@
 #EXTM3U x-tvg-url="https://github.com/musicasin4/TV/raw/refs/heads/main/testeepg.xml"
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E01
+https://embedplayer2.xyz/cdn/hls/f0d603e8a27bfb25f02806ed3c817992/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E01
+https://megaembed.link/hls/rymcpWj2Qiz8xsSbctnkzA/5c/wybsz8q9/thwcls/tt/index-f1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E01
+https://megaembed.link/hls/rymcpWj2Qiz8xsSbctnkzA/5c/wybsz8q9/thwcls/tt/master.m3u8?v=1766826492
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E01 New
+https://telegrambot1.pluxfilmeseseries.workers.dev/playlist/house.of.the.dragon.s03e01.dublado.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E01
+https://tgm.playerp1.sbs/file/5eadd7a65d4a
 #EXTINF:-1 tvg-chno="3" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E01
 https://112234152.xyz/hls/553faad115155c7702de1d3f6b7683d1/master.txt
 #EXTINF:-1 tvg-chno="4" tvg-id="WANDINHA" tvg-name="WANDINHA - S01E02" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIE - WANDINHA",WANDINHA - S01E02
@@ -190,7 +200,7 @@ https://vid7102401.hclod.qzz.io/_s3_/1/292474/s1e4/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alguém precisa confiar em alguém" tvg-logo="https://image.tmdb.org/t/p/w342/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg" group-title="SÉRIE - Emergência Radioativa",Alguém Precisa Confiar em Alguém
 https://vid7102401.hclod.qzz.io/_s3_/1/292474/s1e5/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Eddingto" tvg-logo="https://image.tmdb.org/t/p/w342/wpZUzr2fsfj3k5ZXyIBmH7Btngo.jpg" group-title="FILMES - VOD",Eddingto
-https://embedplayer1.xyz/cdn/hls/c605ccf4ff9b16792e8a8f2d595f18f2/master.txt
+https://vid7102401.hclod.qzz.io/_s3_/v03/648878/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Pão e Loteria E01" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",Pão e Loteria
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s2e1/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Festa de Halloween E02" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",Festa de Halloween
@@ -217,7 +227,7 @@ https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e4/playlist.m3u8
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e5/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Humanos E06" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03",Humanos
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e6/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",F1
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/621953c18a79f28d07670e1c78827b4d8bb63c076c78481795f031c76a2ae41f.jpg" group-title="FILMES - VOD",F1: O Filme
 https://llanfairpwllgwyngy.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-chno="2" tvg-id="COMO TREINAR O SEU DRAGÃO" tvg-name="COMO TREINAR O SEU DRAGÃO (2025)" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/how-to-train-your-dragon-intl/images/regions/us/updates2/onesheet.jpg" group-title="FILMES - VOD",COMO TREINAR O SEU DRAGÃO (2025) play 2
 https://llanfairpwllgwyngy.com/cdn/hls/17d08ab7b04f144dd66cef4472bea6f6/master.txt
@@ -227,14 +237,16 @@ https://embedplayer1.xyz/cdn/hls/abc1f499901bc004e98c5b921d411a63/master.txt
 https://llanfairpwllgwyngy.com/cdn/hls/404648ffdb43429bee4fc6c070e96d15/master.txt
 #EXTINF:-1 tvg-chno="000" tvg-id="OAS" tvg-name="O Agente Secreto" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/cjHczbkm4j9Dccgf2RzyjZh8kYT.jpg" group-title="FILMES - VOD",O Agente Secreto
 https://llanfairpwllgwyngy.com/cdn/hls/e268cb63c5f3645a7780c2b1b6030a03/master.txt
-#EXTINF:-1 tvg-chno="000" tvg-id="OAS" tvg-name="Truque de Mestre: O 3º Ato" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1ODVmZDktYzRjNi00ODEzLTk4ZmMtMTg5NGJiOWY3MTQzXkEyXkFqcGc@._V1_.jpg" group-title="FILMES - VOD",Truque de Mestre: O 3º Ato
+#EXTINF:-1 tvg-chno="000" tvg-id="OAS" tvg-name="Truque de Mestre: O 3º Ato" tvg-logo="https://www.starckfilmes-v19.com/img/truque-de-mestre-o-3-ato-2025-16-12-2025.webp" group-title="FILMES - VOD",Truque de Mestre: O 3º Ato
 https://vid7102401.hclod.qzz.io/_s3_/v02/425274/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston" tvg-logo="https://image.tmdb.org/t/p/w342/wi6vA0C9MOwsI6fBkghGdCllpZl.jpg" group-title="FILMES - VOD",I Wanna Dance with Somebody: A História de Whitney Houston
 https://vid7102401.hclod.qzz.io/_s3_/v05/696157/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Napoleão" tvg-logo="https://images.justwatch.com/poster/309771177/s718/napoleon-2023.jpg" group-title="FILMES - VOD",Napoleão
 https://vid7102401.hclod.qzz.io/_s3_/v02/753342/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Bob Marley: One Love" tvg-logo="https://image.tmdb.org/t/p/w342/7RXyg2jBgItk0wG5eNbYHb23qXt.jpg" group-title="FILMES - VOD",Bob Marley: One Love
-https://vid7102401.hclod.qzz.io/_s3_/v03/802219/playlist.m3u8
+https://embedplayer2.xyz/cdn/hls/b0ec809d7466ae0cf5c55bbb7b0b493c/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Elvis" tvg-logo="https://image.tmdb.org/t/p/w342/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" group-title="FILMES - VOD",Elvis
+https://embedplayer2.xyz/cdn/hls/4f2f749802ccb967fdb4e4c19cc1a472/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Jogo do Predador" tvg-logo="" group-title="FILMES - VOD",O Jogo do Predador
 https://vid7102401.hclod.qzz.io/_s3_/v09/1318447/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Eles Vão Te Matar" tvg-logo="" group-title="FILMES - VOD",Eles Vão Te Matar
@@ -243,9 +255,8 @@ https://vid7102401.hclod.qzz.io/_s3_/v09/1292695/playlist.m3u8
 https://vid7102401.hclod.qzz.io/_s3_/v09/1290821/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O Legado" tvg-logo="" group-title="FILMES - VOD",O Legado
 https://vid7102401.hclod.qzz.io/_s3_/v09/1217690/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",O Último Conquistador
 https://vid7102401.hclod.qzz.io/_s3_/v09/1207162/playlist.m3u8
-O Último Conquistador
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Herança" tvg-logo="" group-title="FILMES - VOD",A Herança
 https://vid7102401.hclod.qzz.io/_s3_/v09/1140346/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Resgate em grande altitude" tvg-logo="" group-title="FILMES - VOD",Resgate em grande altitude
@@ -254,7 +265,7 @@ https://vid7102401.hclod.qzz.io/_s3_/v09/1125899/playlist.m3u8
 https://vid7102401.hclod.qzz.io/_s3_/v09/1126577/playlist.m3u8
 #EXTINF:-1 tvg-chno="377" tvg-id="NS" tvg-name="Invocação do Mal 4: O Último Ritual" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/aXpMqIPndxuDxDA3d2uoNlwc4L.jpg" group-title="FILMES - VOD",Invocação do Mal 4: O Último Ritual
 https://llanfairpwllgwyngyll.com/cdn/hls/bf73d202fe941bf65ad51c21f9a0247a/master.txt
-#EXTINF:-1 tvg-chno="378" tvg-id="NS" tvg-name="F1 O Filme" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/621953c18a79f28d07670e1c78827b4d8bb63c076c78481795f031c76a2ae41f.jpg" group-title="FILMES - VOD",F1 O Filme
+#EXTINF:-1 tvg-chno="378" tvg-id="NS" tvg-name="F1: O Filme" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/621953c18a79f28d07670e1c78827b4d8bb63c076c78481795f031c76a2ae41f.jpg" group-title="FILMES - VOD",F1: O Filme
 https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-chno="379" tvg-id="NS" tvg-name="Rust: A Lei do Oeste" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFlMjhjZTktYzE1NC00MDM5LWEwMjktZmFiMDk3NjIzZTEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILMES - VOD",Rust: A Lei do Oeste
 https://watch.brplayer.cc/stream/bTN1OC8xMC8yYzRhNWM4YWU5MTYzNmY2MTdkNWEyZTFiMDhlZjg2OC83MjBwLzcyMHAubTN1OD9pZD0zMDc4Nw==
@@ -2854,109 +2865,109 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-d
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/23.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Tesouros no Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Tesouros no Céu
 https://cdn-s01.mywallpaper-4k-image.net/stream/h/historias-do-novo-testamento-dublado/24.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E01" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E01
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E01" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E02" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E02
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E02" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E02
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E03" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E03
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E03" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E03
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E04" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E04
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E04" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E04
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E05" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E05
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E05" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E05
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E06" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E06
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E06" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E06
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E07" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E07
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E07" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E07
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E08" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E08
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E08" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E08
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E09" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E09
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E09" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E09
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E10" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E10
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E10" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E10
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E11" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E11
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E11" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E11
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E12" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E12
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E12" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E12
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/12.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E13" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E13
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E13" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E13
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E14" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E14
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E14" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E14
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/14.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E15" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E15
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E15" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E15
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/15.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E16" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E16
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E16" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E16
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/16.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E17" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E17
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E17" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E17
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/17.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E18" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E18
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E18" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E18
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/18.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E19" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E19
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E19" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E19
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/19.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E20" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E20
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E20" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E20
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/20.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E21" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E21
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E21" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E21
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/21.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E22" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E22
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E22" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E22
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/22.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E23" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E23
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E23" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E23
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/23.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E24" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E24
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E24" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E24
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/24.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E25" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E25
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E25" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E25
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/25.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E26" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E26
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E26" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E26
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/26.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E27" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E27
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E27" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E27
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/27.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E28" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E28
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E28" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E28
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/28.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E29" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E29
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E29" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E29
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/29.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E30" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E30
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E30" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E30
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/30.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E31" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E31
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E31" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E31
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/31.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E32" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E32
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E32" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E32
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/32.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E33" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E33
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E33" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E33
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/33.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E34" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E34
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E34" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E34
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/34.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E35" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E35
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E35" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E35
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/35.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E36" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E36
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E36" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E36
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/36.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E37" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E37
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E37" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E37
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/37.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E38" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E38
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E38" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E38
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/38.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E39" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E39
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E39" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E39
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/39.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E40" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E40
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E40" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E40
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/40.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E41" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E41
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E41" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E41
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/41.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E42" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E42
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E42" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E42
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/42.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E43" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E43
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E43" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E43
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/43.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E44" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E44
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E44" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E44
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/44.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E45" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E45
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E45" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E45
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/45.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E46" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E46
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E46" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E46
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/46.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E47" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E47
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E47" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E47
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/47.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E48" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E48
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E48" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E48
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/48.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E49" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E49
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E49" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E49
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/49.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E50" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E50
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E50" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E50
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/50.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E51" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E51
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E51" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E51
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/51.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E52" tvg-logo="" group-title="DESENHO - Super Choque",Super Choque E52
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E52" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E52
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/super-choque-dublado/52.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E01" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 01
 https://cdn-s01.mywallpaper-4k-image.net/stream/d/du-dudu-e-edu-1-temporada-dublado/01.mp4/index.m3u8
@@ -3770,3 +3781,33 @@ https://vid7102401.hclod.qzz.io/_s3_/v07/1104845/playlist.m3u8
 https://vid7102401.hclod.qzz.io/_s3_/v10/666154/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="WICKED2" tvg-name="Kayara - A Princesa Inca" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2025/05/vrNi9r3.png" group-title="FILMES - VOD",Kayara - A Princesa Inca V2
 https://embedplayer2.xyz/cdn/hls/678aa2a4da4136b9ea633ddef1726aec/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston" tvg-logo="https://image.tmdb.org/t/p/w342/wi6vA0C9MOwsI6fBkghGdCllpZl.jpg" group-title="FILMES - VOD",I Wanna Dance with Somebody: A História de Whitney Houston V2
+https://embedplayer2.xyz/cdn/hls/38c697903d903fec032563220ede4232/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston" tvg-logo="https://image.tmdb.org/t/p/w342/wi6vA0C9MOwsI6fBkghGdCllpZl.jpg" group-title="FILMES - VOD",I Wanna Dance with Somebody: A História de Whitney Houston V3
+https://www-fontedecanais-me.72yrci50ppqp71.com/movies/26/187881.mp4?username=Roger1&token=C1EQAgcOWlBaW0hBVFxcU0hYR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUF1ZQkZcUhc%3D
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Bob Marley: One Love" tvg-logo="https://image.tmdb.org/t/p/w342/7RXyg2jBgItk0wG5eNbYHb23qXt.jpg" group-title="FILMES - VOD",Bob Marley: One Love V2
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/7b4fb1f8675b95f7626839b628dbae8b/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/621953c18a79f28d07670e1c78827b4d8bb63c076c78481795f031c76a2ae41f.jpg" group-title="FILMES - VOD",F1: O Filme V1
+https://vid7102401.hclod.qzz.io/_s3_/v02/911430/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/621953c18a79f28d07670e1c78827b4d8bb63c076c78481795f031c76a2ae41f.jpg" group-title="FILMES - VOD",F1: O Filme V2
+https://embedplayer2.xyz/cdn/hls/d13a10c67f267144fe5348866e8c93f0/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/yovlgDFP53N7IW7O4irM6INBxmp.jpg" group-title="V2 FILMES - VOD",O Mundo dos Pequeninos
+https://www-fontedecanais-me.72yrci50ppqp71.com/movies/28/309720.mp4?username=Roger1&token=C1EQAgcOWlBaW0hBVFxdUkpfR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFxbQEBUUhc%3D
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original//5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg" group-title="V2 FILMES - VOD",Terror em Silent Hill: Regresso Para o Inferno
+https://top44244166864.mercagado.site/deregodego/novudo/firm/1/t3rr0r3ms1l3nth1llr3gr3ss0p4r4DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L5JW5PZIT8Q1WYN9ZNDV%2F20260621%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260621T220500Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=3002f7b4dac3eae69dcd3f3947325006adb7540ce546b12fb92d79ea4af918ac
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES - VOD",Alita: Anjo de Combate
+https://vid7102401.hclod.qzz.io/_s3_/v02/399579/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES - VOD",Alita: Anjo de Combate V4
+https://www-fontedecanais-me.72yrci50ppqp71.com/movies/23/98809.mp4?username=Roger1&token=C1EQAgcOWlBaW0hBVFNaXk5bR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUF1YSUFWXhc%3D
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/cNG8IwOovhq8n9iBMOcxT2c2gc9.jpg" group-title="FILMES - VOD",Naruto: O Confronto Ninja no País da Neve
+https://embedplayer2.xyz/cdn/hls/ea5ee9c87ee38c9de9b2c823b8ce9a1f/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/91MdpBECxnko6W48X05snozqjPh.jpg" group-title="FILMES - VOD",Naruto: A Lenda da Pedra de Gelel
+https://vid7102401.hclod.qzz.io/_s3_/v09/16910/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/91MdpBECxnko6W48X05snozqjPh.jpg" group-title="FILMES - VOD",Naruto: A Lenda da Pedra de Gelel V2
+https://embedplayer2.xyz/cdn/hls/ff25abb08a297a233102febb35dcd597/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/91MdpBECxnko6W48X05snozqjPh.jpg" group-title="FILMES - VOD",Naruto: A Lenda da Pedra de Gelel V3
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/e7b4b45a9e8e9bbe704656fb62370624/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/2wwVFqDULo63dxQGp4jOKzClIGt.jpg" group-title="FILMES - VOD",Naruto: Guardiões do Reino da Lua Crescente
+https://vid7102401.hclod.qzz.io/_s3_/v09/18861/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/2wwVFqDULo63dxQGp4jOKzClIGt.jpg" group-title="FILMES - VOD",Naruto: Guardiões do Reino da Lua Crescente V2
+https://embedplayer2.xyz/cdn/hls/42833bddbafafa7cb5ba3ebfbb00888f/master.txt
