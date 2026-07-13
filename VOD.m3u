@@ -91,6 +91,10 @@ https://cdn.imagesskill.com/stream/a/akira-dublado/01.mp4/index.m3u8
 https://cdn.imagesskill.com/stream/a/akira/01.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salve Geral: Irmandade" tvg-logo="https://image.tmdb.org/t/p/w342/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg" group-title="FILMES - VOD",Salve Geral: Irmandade
 https://embedplayer1.xyz/cdn/hls/46d1183a914a91e10df18efe3c898824/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salve Geral: Irmandade" tvg-logo="https://image.tmdb.org/t/p/w342/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg" group-title="FILMES - VOD",Salve Geral: Irmandade (1)
+https://vid7102401.hclod.qzz.io/_s3_/v05/1426964/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salve Geral: Irmandade" tvg-logo="https://image.tmdb.org/t/p/w342/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg" group-title="FILMES - VOD",Salve Geral: Irmandade (2)
+https://embedplayer2.xyz/cdn/hls/46d1183a914a91e10df18efe3c898824/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="PB" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S1 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S01",Peaky Blinders Sangue; Apostas e Navalhas S1 E01
 https://vid7102401.hclod.qzz.io/_s3_/1/60574/s1e1/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="PB" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S1 E02" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S01",Peaky Blinders Sangue; Apostas e Navalhas S1 E02
@@ -215,31 +219,31 @@ https://vid7102401.hclod.qzz.io/_s3_/1/292474/s1e4/playlist.m3u8
 https://vid7102401.hclod.qzz.io/_s3_/1/292474/s1e5/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Eddingto" tvg-logo="https://image.tmdb.org/t/p/w342/wpZUzr2fsfj3k5ZXyIBmH7Btngo.jpg" group-title="FILMES - VOD",Eddingto
 https://vid7102401.hclod.qzz.io/_s3_/v03/648878/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Pão e Loteria E01" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",Pão e Loteria
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Pão e Loteria E01" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02",Pão e Loteria
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s2e1/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Festa de Halloween E02" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",Festa de Halloween
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Festa de Halloween E02" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02",Festa de Halloween
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s2e2/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="001 E03" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",001
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="001 E03" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02",001
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s2e3/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Seis Pernas E04" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",Seis Pernas
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Seis Pernas E04" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02",Seis Pernas
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s2e4/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Mais um Jogo E05" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",Mais um Jogo
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Mais um Jogo E05" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02",Mais um Jogo
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s2e5/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O X E06" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",O X
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O X E06" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02",O X
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s2e6/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Amigos ou Inimigos? E07" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02",Amigos ou Inimigos?
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Amigos ou Inimigos? E07" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02",Amigos ou Inimigos?
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s2e7/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Chaves e Facas E01" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03",Chaves e Facas
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Chaves e Facas E01" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03",Chaves e Facas
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e1/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Noite Estrelada E02" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03",Noite Estrelada
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Noite Estrelada E02" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03",Noite Estrelada
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e2/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Não é Culpa Sua E03" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03",Não é Culpa Sua
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Não é Culpa Sua E03" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03",Não é Culpa Sua
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e3/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="222 E04" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03",222
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="222 E04" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03",222
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e4/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="○△□ E05" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03",○△□
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="○△□ E05" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03",○△□
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e5/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Humanos E06" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03",Humanos
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Humanos E06" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03",Humanos
 https://vid7102401.hclod.qzz.io/_s3_/t02/93405/s3e6/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/621953c18a79f28d07670e1c78827b4d8bb63c076c78481795f031c76a2ae41f.jpg" group-title="FILMES - VOD",F1: O Filme
 https://llanfairpwllgwyngy.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
@@ -251,7 +255,7 @@ https://embedplayer1.xyz/cdn/hls/abc1f499901bc004e98c5b921d411a63/master.txt
 https://llanfairpwllgwyngy.com/cdn/hls/404648ffdb43429bee4fc6c070e96d15/master.txt
 #EXTINF:-1 tvg-chno="000" tvg-id="OAS" tvg-name="O Agente Secreto" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/cjHczbkm4j9Dccgf2RzyjZh8kYT.jpg" group-title="FILMES - VOD",O Agente Secreto
 https://llanfairpwllgwyngy.com/cdn/hls/e268cb63c5f3645a7780c2b1b6030a03/master.txt
-#EXTINF:-1 tvg-chno="000" tvg-id="OAS" tvg-name="Truque de Mestre: O 3º Ato" tvg-logo="https://www.starckfilmes-v19.com/img/truque-de-mestre-o-3-ato-2025-16-12-2025.webp" group-title="FILMES - VOD",Truque de Mestre: O 3º Ato
+#EXTINF:-1 tvg-chno="000" tvg-id="OAS" tvg-name="Truque de Mestre: O 3º Ato" tvg-logo="https://image.tmdb.org/t/p/w500/xUddC5HTjMWmClD007QBWR0BLHY.jpg" group-title="FILMES - VOD",Truque de Mestre: O 3º Ato
 https://vid7102401.hclod.qzz.io/_s3_/v02/425274/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston" tvg-logo="https://image.tmdb.org/t/p/w342/wi6vA0C9MOwsI6fBkghGdCllpZl.jpg" group-title="FILMES - VOD",I Wanna Dance with Somebody: A História de Whitney Houston
 https://vid7102401.hclod.qzz.io/_s3_/v05/696157/playlist.m3u8
@@ -305,91 +309,91 @@ https://vid7102402.hclod.qzz.io/_s3_/t04/292532/s1e4/playlist.m3u8
 https://vid7102402.hclod.qzz.io/_s3_/t04/292532/s1e5/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Brasil 2002 Os Bastidores do Penta" tvg-logo="https://image.tmdb.org/t/p/w342/3IbiDD9iZbeBxnaxT7p7qr92Z76.jpg" group-title="Filme - Brasil 2002: Os Bastidores do Penta",Brasil 2002 Os Bastidores do Penta
 https://www-fontedecanais-me.72yrci50ppqp71.com/movies/302/177221.mp4?username=Roger1&token=C1EQAgcOWlBaW0hDU1JSUktcR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUF1YSENRXRc%3D
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael
 https://embedplayer2.xyz/cdn/hls/e9d1649813e5543616f7aec3df52d3cf/master.txt
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/master.m3u8?t=1woz-y6v5DICM-9qVWkzUHGNu6vryM_0nT7Miuiy3Kk&s=1780959106&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/index-v1-a1.m3u8?t=1woz-y6v5DICM-9qVWkzUHGNu6vryM_0nT7Miuiy3Kk&s=1780959106&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Cumprir o que foi acordado
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Cumprir o que foi acordado
 https://embedplayer2.xyz/cdn/hls/4a3078b3456830f4fb293b24f566a4bb/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Imprudência letal
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Imprudência letal
 https://embedplayer2.xyz/cdn/hls/9a5b50cf2ca1848f20687b67815c953b/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Errar o alvo
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Errar o alvo
 https://embedplayer2.xyz/cdn/hls/035a4ee0b85b01a0cdec45143f8ecc9e/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Cavalo de Troia
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Cavalo de Troia
 https://embedplayer2.xyz/cdn/hls/faa7ca3e93da7272a56d8a13c894f7e0/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Dia da Marmota
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Dia da Marmota
 https://embedplayer2.xyz/cdn/hls/58667c45a53041501bbcf08d84b1cdcc/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",A guerra fria morna
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",A guerra fria morna
 https://embedplayer2.xyz/cdn/hls/6962e288d2aca7126ab0b5bb010d3e6a/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Instabilidade refrigerada
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Instabilidade refrigerada
 https://embedplayer2.xyz/cdn/hls/5291b93f2b7ceea7b8d0c7efd634cfc1/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Você provocou isso
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Você provocou isso
 https://embedplayer2.xyz/cdn/hls/23bae78b9367d0a83199fce7760913e9/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Quem persiste, vence.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Quem persiste, vence.
 https://embedplayer2.xyz/cdn/hls/84726fd1cb4f3e853e2ae24d7120ab83/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",As máscaras desapareceram
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",As máscaras desapareceram
 https://embedplayer2.xyz/cdn/hls/364d683b94a77e9162eaed36da8bca52/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",O mentor do plano
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",O mentor do plano
 https://embedplayer2.xyz/cdn/hls/84e7e829142119e8927cef2ea81475db/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Uma questão de eficácia
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Uma questão de eficácia
 https://embedplayer2.xyz/cdn/hls/06c4319b836b987b34db8dd7e1be3acb/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",O que fizemos?
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",O que fizemos?
 https://embedplayer2.xyz/cdn/hls/0ecef623bbc7255d4fb7046e159e7c48/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Estamos de volta
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Estamos de volta
 https://embedplayer2.xyz/cdn/hls/b1b90eb44dd21feecb508bbde5e45346/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Aikido
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Aikido
 https://embedplayer2.xyz/cdn/hls/5862c8e7ce268df72a5927e139264756/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",48 metros de profundidade
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",48 metros de profundidade
 https://embedplayer2.xyz/cdn/hls/a59e44305a8c5f70fd99c24d7c5e9fdc/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Hora do golfinho
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Hora do golfinho
 https://embedplayer2.xyz/cdn/hls/64035739150bb7e5ec924cc9c8c57ee0/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Bum bum ciao
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Bum bum ciao
 https://embedplayer2.xyz/cdn/hls/c5448a414c651560cd38b67ef726c618/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Tudo parecia insignificante
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Tudo parecia insignificante
 https://embedplayer2.xyz/cdn/hls/7be589597c4b1ced873cd9f573ccbcdb/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Férias curtas
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Férias curtas
 https://embedplayer2.xyz/cdn/hls/0a7814e0b2104a162d32e0439273755e/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",À deriva
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",À deriva
 https://embedplayer2.xyz/cdn/hls/93b6fa1f5587f4de1663085a4f0cd0bd/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Fim de Jogo
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-2-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S02",Fim de Jogo
 https://embedplayer2.xyz/cdn/hls/8d520a7efb1de5948af7c5d28d55e8fc/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Fim da Estrada
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Fim da Estrada
 https://embedplayer2.xyz/cdn/hls/763488987c2f087d1f082150fdddd2e6/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Você Acredita em Reencarnação
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Você Acredita em Reencarnação
 https://embedplayer2.xyz/cdn/hls/d86460a60ec0d1b893e417a3e258f10c/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Bem-Vindos ao Show da Vida
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Bem-Vindos ao Show da Vida
 https://embedplayer2.xyz/cdn/hls/d2de8e64f01cce31520d1c9080ae3297/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Seu Lugar no Céu
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Seu Lugar no Céu
 https://embedplayer2.xyz/cdn/hls/548c025faf0f56300edeefe36218d0ba/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Muitas Vidas Para Viver
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Muitas Vidas Para Viver
 https://embedplayer2.xyz/cdn/hls/6df3ce92700a4990bb7252e5845dfb3f/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Válvula de Escape
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Válvula de Escape
 https://embedplayer2.xyz/cdn/hls/d8215cd4fc15cac505ca0c49dadd22d2/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Voluntarismo
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",Voluntarismo
 https://embedplayer2.xyz/cdn/hls/f7e77ea97a2eaf443fd4e994ecb850da/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",A Teoria da Elegância
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-3-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S03",A Teoria da Elegância
 https://embedplayer2.xyz/cdn/hls/56c62745b9c354b2b878192fe2874f17/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
 https://video.wixstatic.com/video/8d3786_1c4a97b94f04479cb50a9d701a02d063/720p/mp4/file.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
 https://video.wixstatic.com/video/8d3786_ac4222d9ffbf48a186b349be5a4c6895/720p/mp4/file.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
 https://video.wixstatic.com/video/8d3786_53831ad9e4fd4dd788ef2d383de1e11b/720p/mp4/file.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
 https://video.wixstatic.com/video/8d3786_dc8675179f124a64adddc2ebe034d1d2/720p/mp4/file.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
 https://video.wixstatic.com/video/8d3786_734981d1bbde4b6b9c262a9788c4e015/720p/mp4/file.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
 https://video.wixstatic.com/video/8d3786_5224e0ee544e417f8b14cb55867ce2aa/720p/mp4/file.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
 https://video.wixstatic.com/video/8d3786_fe360c49ace44205a888dbdb01316c55/720p/mp4/file.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04",
 https://video.wixstatic.com/video/8d3786_11d8e22b18174fc5a09ebb2d8e623be0/720p/mp4/file.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04", S04 E01
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-4-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S04", S04 E01
 https://drive.google.com/drive/folders/18PnvwmfWbaLHd1jeb_uwcYcjbn_qvUxO
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01", Test 7 la casa
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01", Test 7 la casa
 https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/cd168798553e99cce992514e1f11acf2/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2026/01/R8dG0MI.png" group-title="SÉRIE - Chapolin e Os Colorados S01",A Familia do Chapolin Colorado
 https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e1/playlist.m3u8
@@ -413,9 +417,9 @@ https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e9/playlist.m3u8
 https://vid7102401.hclod.qzz.io/_s3_/1/294344/s1e10/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/qF0R9nx8gtne6tdhVt4lMxXXVvE.jpg" group-title="FILMES - VOD",Resident Evil: A Vingança
 https://embedplayer2.xyz/cdn/hls/f31df4dbbcf2c00959452b95b2a96a64/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/tron-ares-2025-03-12-2025.webp" group-title="FILMES - VOD",TRON Ares
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/tron-ares-2025-03-12-2025.webp" group-title="FILMES - VOD",TRON Ares
 https://vid7102401.hclod.qzz.io/_s3_/v03/533533/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v19.com/img/elio-2025-17-09-2025.webp" group-title="FILMES - VOD",Elio
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/elio-2025-17-09-2025.webp" group-title="FILMES - VOD",Elio
 https://vid7102401.hclod.qzz.io/_s3_/v02/1022787/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/5UfZeMmpw0SKAK13VPUpTtN7xRb.jpg" group-title="FILMES - VOD",Road Wars Max Fury
 https://embedplayer2.xyz/cdn/hls/e22f0f402e9ff516444121564c8459c2/master.txt
@@ -2929,109 +2933,109 @@ https://cdn.imagesskill.com/stream/h/historias-do-novo-testamento-dublado/22.mp4
 https://cdn.imagesskill.com/stream/h/historias-do-novo-testamento-dublado/23.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="HB01" tvg-name="Tesouros no Céu" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/11/assistir-historias-do-novo-testamento-dublado-todos-os-episodios-online-animes-online-225x300.jpg" group-title="Desenho - Histórias do Novo Testamento",Tesouros no Céu
 https://cdn.imagesskill.com/stream/h/historias-do-novo-testamento-dublado/24.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E01" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E01
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E01" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E01
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E02" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E02
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E02" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E02
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E03" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E03
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E03" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E03
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E04" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E04
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E04" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E04
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E05" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E05
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E05" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E05
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E06" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E06
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E06" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E06
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E07" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E07
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E07" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E07
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/07.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E08" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E08
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E08" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E08
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/08.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E09" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E09
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E09" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E09
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/09.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E10" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E10
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E10" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E10
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/10.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E11" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E11
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E11" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E11
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/11.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E12" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E12
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E12" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E12
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/12.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E13" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E13
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E13" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E13
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/13.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E14" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E14
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E14" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E14
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/14.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E15" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E15
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E15" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E15
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/15.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E16" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E16
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E16" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E16
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/16.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E17" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E17
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E17" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E17
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/17.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E18" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E18
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E18" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E18
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/18.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E19" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E19
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E19" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E19
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/19.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E20" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E20
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E20" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E20
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/20.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E21" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E21
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E21" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E21
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/21.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E22" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E22
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E22" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E22
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/22.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E23" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E23
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E23" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E23
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/23.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E24" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E24
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E24" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E24
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/24.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E25" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E25
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E25" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E25
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/25.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E26" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E26
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E26" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E26
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/26.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E27" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E27
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E27" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E27
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/27.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E28" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E28
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E28" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E28
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/28.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E29" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E29
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E29" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E29
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/29.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E30" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E30
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E30" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E30
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/30.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E31" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E31
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E31" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E31
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/31.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E32" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E32
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E32" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E32
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/32.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E33" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E33
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E33" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E33
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/33.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E34" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E34
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E34" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E34
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/34.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E35" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E35
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E35" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E35
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/35.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E36" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E36
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E36" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E36
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/36.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E37" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E37
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E37" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E37
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/37.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E38" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E38
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E38" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E38
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/38.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E39" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E39
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E39" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E39
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/39.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E40" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E40
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E40" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E40
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/40.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E41" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E41
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E41" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E41
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/41.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E42" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E42
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E42" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E42
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/42.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E43" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E43
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E43" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E43
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/43.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E44" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E44
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E44" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E44
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/44.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E45" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E45
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E45" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E45
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/45.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E46" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E46
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E46" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E46
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/46.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E47" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E47
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E47" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E47
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/47.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E48" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E48
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E48" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E48
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/48.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E49" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E49
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E49" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E49
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/49.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E50" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E50
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E50" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E50
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/50.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E51" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E51
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E51" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E51
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/51.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E52" tvg-logo="https://www.starckfilmes-v19.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E52
+#EXTINF:-1 tvg-chno="" tvg-id="SC01" tvg-name="Super Choque E52" tvg-logo="https://www.starckfilmes-v22.com/img/colecao-completa-super-choque-2000.webp" group-title="DESENHO - Super Choque",Super Choque E52
 https://cdn.imagesskill.com/stream/s/super-choque-dublado/52.mp4/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="DDD01" tvg-name="Du Dudu e Edu E01" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/c0/Du_dudu_e_edu_poster.jpg/revision/latest?cb=20240222040311&path-prefix=pt-br" group-title="DESENHO - Du Dudu e Edu S01",Du Dudu e Edu 01
 https://cdn.imagesskill.com/stream/d/du-dudu-e-edu-1-temporada-dublado/01.mp4/index.m3u8
@@ -3791,45 +3795,45 @@ https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/4b1d5ed5d519eb3dae12b8850633212c
 https://45745574.xyz/hls/L3VJS3A5M0RJaTdiZlJJRG12Ni9veEVrSWpFYzBFVnAyVzh0UzVhWU1FOFBFWTV2SWRwRjdSbHhJNVAvU2U5bXNmZVFOLytWcFF2YVM3Mm1lQjMvMkE9PQ==/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="CatDog E02" tvg-logo="https://anizero.org/wp-content/uploads/2025/03/cfa590c5b4c51852821cc9a7669cfcd1.jpg" group-title="DESENHO - CatDog",CatDog E02
 https://45745574.xyz/hls/L3VJS3A5M0RJaTdiZlJJRG12Ni9veEVrSWpFYzBFVnAyVzh0UzVhWU1FK0dialp3ZWhHL2UxVUE3ZXorYnBIT0dVeUlSK3FES29TL1VHR3VSYUNkRUE9PQ==/master.txt
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD1
 https://embedplayapiupn.upns.xyz/hls/r4p5pVzkCGoSQGw1gMJ1yg/n8l/qt5b831q/6qtekh/tt/master.m3u8?v=1766826492
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2
 https://embedplayapiupn.upns.xyz/hls/r4p5pVzkCGoSQGw1gMJ1yg/n8l/qt5b831q/6qtekh/tt/index-f2-v1-a1.m3u8?v=1766826492
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD3
 https://embedplayapiupn.upns.xyz/hls/r4p5pVzkCGoSQGw1gMJ1yg/n8l/qt5b831q/6qtekh/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD4
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/master.m3u8?t=_k91JHO6t9blQCkOSRR70BHsaRGjYgoqptOlMA0MIN0&s=1780977167&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD5
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/index-v1-a1.m3u8?t=_k91JHO6t9blQCkOSRR70BHsaRGjYgoqptOlMA0MIN0&s=1780977167&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD Low
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD Low
 https://playerhd.uns.bio/hls/cGXlMeTvGe3ZRKM9nzEK4Q/is3/afyhwn5d/kwyw3t/tt/master.m3u8?v=1766826492
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v18.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD Low
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD Low
 https://playerhd.uns.bio/hls/cGXlMeTvGe3ZRKM9nzEK4Q/is3/afyhwn5d/kwyw3t/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="001 E03" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02 V2",001 V2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="001 E03" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02 V2",001 V2
 https://112234152.xyz/hls/bc990836ae3aa9d820a0510ede70fd08/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Seis Pernas E04" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02 V2",Seis Pernas V2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Seis Pernas E04" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02 V2",Seis Pernas V2
 https://112234152.xyz/hls/bee8b66bf9167983003870d045f2acb1/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="001 E03" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02 V2",001 V3
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="001 E03" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02 V2",001 V3
 https://112234152.xyz/m3/NmFsZERxb24xWWpqUHRMeEZ2cDdMRXZHL2h2eVF6ZGk3d1NzdE5pbDR3U1BXb2M2ZHFhaGlPd2taZUZseG9rYU1zVmdvWS81OU9WNVNPSklVTEJ2SFBMVmxJejNHWUZFY3hWZTFRTnlPTHZOMG9nMld1eGd5M2pRWXgwMFgxbnJ1ZlVLYXk0aHd5NzJua2lvMXhsNytqdytsM09iT1U0YTMwU1E5Rk9zQWc0SVpwUjA4QzFvanFpWlVmL2Y5SC9pT1dGdThlZDkwV1l6ME8zK0swNnJEUT09
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Seis Pernas E04" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02 V2",Seis Pernas V3
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Seis Pernas E04" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02 V2",Seis Pernas V3
 https://112234152.xyz/m3/TjNrTmlSYWRPUU5MY1dNTXRzMWZNYWNjVFNSS1dwZkpvbkh0c05EK3RuSGdqdWRMRGs0NUhXYnBwL0ZpajRIaHdHVk1FQnduZ1VSN1NsS2psdHNlYkw0eGFlOXJBTzllV0hRSW94Z0s2UVhNU1BiRU9Samx0YXdveGYvdWJ0MFNpL1NDVDY1QXhwb3pqMUtPRjJpUFYvWm5aTGY5Q1daQmM3aUhUaFhmb3N3NEdzdHdVYlRUbnMzY04yaTBDallCUGFjc0w5cEdTRFZFMzc5OHpqb1Jvdz09
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Mais um Jogo E05" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02 V2",Mais um Jogo
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Mais um Jogo E05" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02 V2",Mais um Jogo
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/300742.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFheW0pZR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUF1fSUpQXhc%3D
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O X E06" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02 V2",O X
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="O X E06" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02 V2",O X
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/300743.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFheXk1dR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUF1fSUpQXRc%3D
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Amigos ou Inimigos? E07" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-2-temporada-2024-26-12-2024.webp" group-title="SÉRIE - Round 6 S02 V2",Amigos ou Inimigos?
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Amigos ou Inimigos? E07" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02 V2",Amigos ou Inimigos?
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/300744.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFheXkpSR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUF1fSUpQXBc%3D
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Chaves e Facas E01" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03 V2",Chaves e Facas
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Chaves e Facas E01" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V2",Chaves e Facas
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/330159.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFheU0xdR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFNZQ0JcWBc%3D
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Noite Estrelada E02" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03 V2",Noite Estrelada
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Noite Estrelada E02" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V2",Noite Estrelada
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/330160.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFheU0FZR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFNZQ0JcXxc%3D
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Não é Culpa Sua E03" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03 V2",Não é Culpa Sua
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Não é Culpa Sua E03" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V2",Não é Culpa Sua
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/330161.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFheUklbR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFNZQ0JcXhc%3D
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="222 E04" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03 V2",222
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="222 E04" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V2",222
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/330162.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFhfW0peR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFNZQ0JcXRc%3D
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="○△□ E05" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03 V2",○△□
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="○△□ E05" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V2",○△□
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/330163.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFhfW0xdR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFNZQ0JcXBc%3D
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Humanos E06" tvg-logo="https://www.starckfilmes-v18.com/img/round-6-3-temporada-2025-17-06-2025.webp" group-title="SÉRIE - Round 6 S03 V2",Humanos
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Humanos E06" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V2",Humanos
 https://www-fontedecanais-me.72yrci50ppqp71.com/series/round%206/330164.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFhfW05eR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFNZQ0JcUxc%3D
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES - VOD",O Mundo dos Pequeninos
 https://www-fontedecanais-me.72yrci50ppqp71.com/movies/28/309720.mp4?username=Roger1&token=C1EQAgcOWlBaW0hCVFhZXE9aR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUFxbQEBUUhc%3D
@@ -3894,99 +3898,99 @@ https://sxe3.eclipsemarketworks.cyou/v4/bgm/5y5uku/cf-master.1782774940.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/4d6ksr4wsBd1fifF7YLAm9wbWiK.jpg" group-title="FILMES - VOD",Scarface
 https://tgp.playerp1.sbs/index.php?r=playlist&t=9a2e647a0b8124326ac8d1521c461571db8231e8cc9418f9
 #EXTINF:-1 tvg-chno="2411" tvg-id="" tvg-name="+ Velozes + Furiosos (2003)" tvg-logo="" group-title="Filmes | Acao",+ Velozes + Furiosos (2003)
-#EXTINF:-1 tvg-chno="394" tvg-id="" tvg-name="Anaconda (1997)" tvg-logo="" group-title="Canais | Brasil",Anaconda (1997)
+#EXTINF:-1 tvg-chno="394" tvg-id="" tvg-name="Anaconda (1997)" tvg-logo="" group-title="Filmes",Anaconda (1997)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/86684.mp4
-#EXTINF:-1 tvg-chno="395" tvg-id="" tvg-name="Anaconda (2025)" tvg-logo="" group-title="Canais | Brasil",Anaconda (2025)
+#EXTINF:-1 tvg-chno="395" tvg-id="" tvg-name="Anaconda (2025)" tvg-logo="" group-title="Filmes",Anaconda (2025)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/976872.mp4
-#EXTINF:-1 tvg-chno="396" tvg-id="" tvg-name="Anaconda (2025) [4K]" tvg-logo="" group-title="Canais | Brasil",Anaconda (2025) [4K]
+#EXTINF:-1 tvg-chno="396" tvg-id="" tvg-name="Anaconda (2025) [4K]" tvg-logo="" group-title="Filmes",Anaconda (2025) [4K]
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/980962.mp4
-#EXTINF:-1 tvg-chno="397" tvg-id="" tvg-name="Anaconda 2: A Caçada pela Orquídea Sangrenta (2004)" tvg-logo="" group-title="Canais | Brasil",Anaconda 2: A Caçada pela Orquídea Sangrenta (2004)
+#EXTINF:-1 tvg-chno="397" tvg-id="" tvg-name="Anaconda 2: A Caçada pela Orquídea Sangrenta (2004)" tvg-logo="" group-title="Filmes",Anaconda 2: A Caçada pela Orquídea Sangrenta (2004)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/86685.mp4
-#EXTINF:-1 tvg-chno="398" tvg-id="" tvg-name="Anaconda 3 (2008)" tvg-logo="" group-title="Canais | Brasil",Anaconda 3 (2008)
+#EXTINF:-1 tvg-chno="398" tvg-id="" tvg-name="Anaconda 3 (2008)" tvg-logo="" group-title="Filmes",Anaconda 3 (2008)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/86686.mp4
-#EXTINF:-1 tvg-chno="399" tvg-id="" tvg-name="Anaconda 4 (2009)" tvg-logo="" group-title="Canais | Brasil",Anaconda 4 (2009)
+#EXTINF:-1 tvg-chno="399" tvg-id="" tvg-name="Anaconda 4 (2009)" tvg-logo="" group-title="Filmes",Anaconda 4 (2009)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/86687.mp4
-#EXTINF:-1 tvg-chno="400" tvg-id="" tvg-name="Animais Fantásticos Uma História Natural (2022)" tvg-logo="" group-title="Canais | Brasil",Animais Fantásticos Uma História Natural (2022)
+#EXTINF:-1 tvg-chno="400" tvg-id="" tvg-name="Animais Fantásticos Uma História Natural (2022)" tvg-logo="" group-title="Filmes",Animais Fantásticos Uma História Natural (2022)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/100638.mp4
-#EXTINF:-1 tvg-chno="401" tvg-id="" tvg-name="Animais Fantásticos e Onde Habitam (2016)" tvg-logo="" group-title="Canais | Brasil",Animais Fantásticos e Onde Habitam (2016)
+#EXTINF:-1 tvg-chno="401" tvg-id="" tvg-name="Animais Fantásticos e Onde Habitam (2016)" tvg-logo="" group-title="Filmes",Animais Fantásticos e Onde Habitam (2016)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/51870.mp4
-#EXTINF:-1 tvg-chno="402" tvg-id="" tvg-name="Animais Fantásticos e Onde Habitam (2016) [4K]" tvg-logo="" group-title="Canais | Brasil",Animais Fantásticos e Onde Habitam (2016) [4K]
+#EXTINF:-1 tvg-chno="402" tvg-id="" tvg-name="Animais Fantásticos e Onde Habitam (2016) [4K]" tvg-logo="" group-title="Filmes",Animais Fantásticos e Onde Habitam (2016) [4K]
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/1007185.mp4
-#EXTINF:-1 tvg-chno="403" tvg-id="" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald (2018)" tvg-logo="" group-title="Canais | Brasil",Animais Fantásticos: Os Crimes de Grindelwald (2018)
+#EXTINF:-1 tvg-chno="403" tvg-id="" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald (2018)" tvg-logo="" group-title="Filmes",Animais Fantásticos: Os Crimes de Grindelwald (2018)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/113425.mp4
-#EXTINF:-1 tvg-chno="404" tvg-id="" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald (2018) [4K]" tvg-logo="" group-title="Canais | Brasil",Animais Fantásticos: Os Crimes de Grindelwald (2018) [4K]
+#EXTINF:-1 tvg-chno="404" tvg-id="" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald (2018) [4K]" tvg-logo="" group-title="Filmes",Animais Fantásticos: Os Crimes de Grindelwald (2018) [4K]
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/111382.mp4
-#EXTINF:-1 tvg-chno="405" tvg-id="" tvg-name="Animais Fantásticos: Os Segredos de Dumbledore (2022)" tvg-logo="" group-title="Canais | Brasil",Animais Fantásticos: Os Segredos de Dumbledore (2022)
+#EXTINF:-1 tvg-chno="405" tvg-id="" tvg-name="Animais Fantásticos: Os Segredos de Dumbledore (2022)" tvg-logo="" group-title="Filmes",Animais Fantásticos: Os Segredos de Dumbledore (2022)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/88121.mp4
-#EXTINF:-1 tvg-chno="406" tvg-id="" tvg-name="Animais Fantásticos: Os Segredos de Dumbledore (2022) [4K]" tvg-logo="" group-title="Canais | Brasil",Animais Fantásticos: Os Segredos de Dumbledore (2022) [4K]
+#EXTINF:-1 tvg-chno="406" tvg-id="" tvg-name="Animais Fantásticos: Os Segredos de Dumbledore (2022) [4K]" tvg-logo="" group-title="Filmes",Animais Fantásticos: Os Segredos de Dumbledore (2022) [4K]
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/111383.mp4
-#EXTINF:-1 tvg-chno="410" tvg-id="" tvg-name="Deus Não Esta Morto: O Próximo Capítulo (2021)" tvg-logo="" group-title="Canais | Brasil",Deus Não Esta Morto: O Próximo Capítulo (2021)
+#EXTINF:-1 tvg-chno="410" tvg-id="" tvg-name="Deus Não Esta Morto: O Próximo Capítulo (2021)" tvg-logo="" group-title="Filmes",Deus Não Esta Morto: O Próximo Capítulo (2021)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/202760.mp4
-#EXTINF:-1 tvg-chno="411" tvg-id="" tvg-name="Deus Não Está Morto (2014)" tvg-logo="" group-title="Canais | Brasil",Deus Não Está Morto (2014)
+#EXTINF:-1 tvg-chno="411" tvg-id="" tvg-name="Deus Não Está Morto (2014)" tvg-logo="" group-title="Filmes",Deus Não Está Morto (2014)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/111911.mp4
-#EXTINF:-1 tvg-chno="412" tvg-id="" tvg-name="Deus Não Está Morto 2 (2016)" tvg-logo="" group-title="Canais | Brasil",Deus Não Está Morto 2 (2016)
+#EXTINF:-1 tvg-chno="412" tvg-id="" tvg-name="Deus Não Está Morto 2 (2016)" tvg-logo="" group-title="Filmes",Deus Não Está Morto 2 (2016)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/111895.mp4
-#EXTINF:-1 tvg-chno="413" tvg-id="" tvg-name="Deus Não Está Morto: Uma Luz na Escuridão (2018)" tvg-logo="" group-title="Canais | Brasil",Deus Não Está Morto: Uma Luz na Escuridão (2018)
+#EXTINF:-1 tvg-chno="413" tvg-id="" tvg-name="Deus Não Está Morto: Uma Luz na Escuridão (2018)" tvg-logo="" group-title="Filmes",Deus Não Está Morto: Uma Luz na Escuridão (2018)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/72826.mp4
-#EXTINF:-1 tvg-chno="415" tvg-id="" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Super: Broly (2018)
+#EXTINF:-1 tvg-chno="415" tvg-id="" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="" group-title="Filmes",Dragon Ball Super: Broly (2018)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/49044.mp4
-#EXTINF:-1 tvg-chno="416" tvg-id="" tvg-name="Dragon Ball Super: SUPER HERO (2022)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Super: SUPER HERO (2022)
+#EXTINF:-1 tvg-chno="416" tvg-id="" tvg-name="Dragon Ball Super: SUPER HERO (2022)" tvg-logo="" group-title="Filmes",Dragon Ball Super: SUPER HERO (2022)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/131309.mp4
-#EXTINF:-1 tvg-chno="417" tvg-id="" tvg-name="Dragon Ball Z: A Batalha dos Deuses (2013)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Z: A Batalha dos Deuses (2013)
+#EXTINF:-1 tvg-chno="417" tvg-id="" tvg-name="Dragon Ball Z: A Batalha dos Deuses (2013)" tvg-logo="" group-title="Filmes",Dragon Ball Z: A Batalha dos Deuses (2013)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/166880.mp4
-#EXTINF:-1 tvg-chno="418" tvg-id="" tvg-name="Dragon Ball Z: A Batalha nos Dois Mundos (1993)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Z: A Batalha nos Dois Mundos (1993)
+#EXTINF:-1 tvg-chno="418" tvg-id="" tvg-name="Dragon Ball Z: A Batalha nos Dois Mundos (1993)" tvg-logo="" group-title="Filmes",Dragon Ball Z: A Batalha nos Dois Mundos (1993)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/166881.mp4
-#EXTINF:-1 tvg-chno="419" tvg-id="" tvg-name="Dragon Ball Z: Bardock, O Pai de Goku (1990)" tvg-logo="" group-title="Canais | Brasil",O Pai de Goku (1990)
+#EXTINF:-1 tvg-chno="419" tvg-id="" tvg-name="Dragon Ball Z: Bardock, O Pai de Goku (1990)" tvg-logo="" group-title="Filmes",O Pai de Goku (1990)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/166882.mp4
-#EXTINF:-1 tvg-chno="420" tvg-id="" tvg-name="Dragon Ball Z: Devolva-me Gohan (1989)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Z: Devolva-me Gohan (1989)
+#EXTINF:-1 tvg-chno="420" tvg-id="" tvg-name="Dragon Ball Z: Devolva-me Gohan (1989)" tvg-logo="" group-title="Filmes",Dragon Ball Z: Devolva-me Gohan (1989)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/87393.mp4
-#EXTINF:-1 tvg-chno="421" tvg-id="" tvg-name="Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro (1993)" tvg-logo="" group-title="Canais | Brasil",os Guerreiros do Futuro (1993)
+#EXTINF:-1 tvg-chno="421" tvg-id="" tvg-name="Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro (1993)" tvg-logo="" group-title="Filmes",os Guerreiros do Futuro (1993)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/87391.mp4
-#EXTINF:-1 tvg-chno="422" tvg-id="" tvg-name="Dragon Ball Z: Goku, o Super Saiyajin (1991)" tvg-logo="" group-title="Canais | Brasil",o Super Saiyajin (1991)
+#EXTINF:-1 tvg-chno="422" tvg-id="" tvg-name="Dragon Ball Z: Goku, o Super Saiyajin (1991)" tvg-logo="" group-title="Filmes",o Super Saiyajin (1991)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/166883.mp4
-#EXTINF:-1 tvg-chno="423" tvg-id="" tvg-name="Dragon Ball Z: O Ataque do Dragão (1995)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Z: O Ataque do Dragão (1995)
+#EXTINF:-1 tvg-chno="423" tvg-id="" tvg-name="Dragon Ball Z: O Ataque do Dragão (1995)" tvg-logo="" group-title="Filmes",Dragon Ball Z: O Ataque do Dragão (1995)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/166884.mp4
-#EXTINF:-1 tvg-chno="424" tvg-id="" tvg-name="Dragon Ball Z: O Homem Mais Forte do Mundo (1990)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Z: O Homem Mais Forte do Mundo (1990)
+#EXTINF:-1 tvg-chno="424" tvg-id="" tvg-name="Dragon Ball Z: O Homem Mais Forte do Mundo (1990)" tvg-logo="" group-title="Filmes",Dragon Ball Z: O Homem Mais Forte do Mundo (1990)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/87394.mp4
-#EXTINF:-1 tvg-chno="425" tvg-id="" tvg-name="Dragon Ball Z: O Poder Invencível (1993)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Z: O Poder Invencível (1993)
+#EXTINF:-1 tvg-chno="425" tvg-id="" tvg-name="Dragon Ball Z: O Poder Invencível (1993)" tvg-logo="" group-title="Filmes",Dragon Ball Z: O Poder Invencível (1993)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/957510.mp4
-#EXTINF:-1 tvg-chno="426" tvg-id="" tvg-name="Dragon Ball Z: O Renascimento de Freeza (2015)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball Z: O Renascimento de Freeza (2015)
+#EXTINF:-1 tvg-chno="426" tvg-id="" tvg-name="Dragon Ball Z: O Renascimento de Freeza (2015)" tvg-logo="" group-title="Filmes",Dragon Ball Z: O Renascimento de Freeza (2015)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/48400.mp4
-#EXTINF:-1 tvg-chno="427" tvg-id="" tvg-name="Dragon Ball: A Lenda de Shenlong (1986)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball: A Lenda de Shenlong (1986)
+#EXTINF:-1 tvg-chno="427" tvg-id="" tvg-name="Dragon Ball: A Lenda de Shenlong (1986)" tvg-logo="" group-title="Filmes",Dragon Ball: A Lenda de Shenlong (1986)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/166879.mp4
-#EXTINF:-1 tvg-chno="428" tvg-id="" tvg-name="Dragon Ball: Episódio de Bardock (2011)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball: Episódio de Bardock (2011)
+#EXTINF:-1 tvg-chno="428" tvg-id="" tvg-name="Dragon Ball: Episódio de Bardock (2011)" tvg-logo="" group-title="Filmes",Dragon Ball: Episódio de Bardock (2011)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/957508.mp4
-#EXTINF:-1 tvg-chno="429" tvg-id="" tvg-name="Dragon Ball: Uma Aventura Mística (1988)" tvg-logo="" group-title="Canais | Brasil",Dragon Ball: Uma Aventura Mística (1988)
+#EXTINF:-1 tvg-chno="429" tvg-id="" tvg-name="Dragon Ball: Uma Aventura Mística (1988)" tvg-logo="" group-title="Filmes",Dragon Ball: Uma Aventura Mística (1988)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/87392.mp4
-#EXTINF:-1 tvg-chno="430" tvg-id="" tvg-name="Flow (2024)" tvg-logo="" group-title="Canais | Brasil",Flow (2024)
+#EXTINF:-1 tvg-chno="430" tvg-id="" tvg-name="Flow (2024)" tvg-logo="" group-title="Filmes",Flow (2024)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/954167.mp4
-#EXTINF:-1 tvg-chno="431" tvg-id="" tvg-name="Flow (2024) [4K]" tvg-logo="" group-title="Canais | Brasil",Flow (2024) [4K]
+#EXTINF:-1 tvg-chno="431" tvg-id="" tvg-name="Flow (2024) [4K]" tvg-logo="" group-title="Filmes",Flow (2024) [4K]
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/966867.mp4
-#EXTINF:-1 tvg-chno="432" tvg-id="" tvg-name="Furiosa: Uma Saga Mad Max (2024)" tvg-logo="" group-title="Canais | Brasil",Furiosa: Uma Saga Mad Max (2024)
+#EXTINF:-1 tvg-chno="432" tvg-id="" tvg-name="Furiosa: Uma Saga Mad Max (2024)" tvg-logo="" group-title="Filmes",Furiosa: Uma Saga Mad Max (2024)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/204019.mp4
-#EXTINF:-1 tvg-chno="433" tvg-id="" tvg-name="Furioza (2021)" tvg-logo="" group-title="Canais | Brasil",Furioza (2021)
+#EXTINF:-1 tvg-chno="433" tvg-id="" tvg-name="Furioza (2021)" tvg-logo="" group-title="Filmes",Furioza (2021)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/87243.mp4
-#EXTINF:-1 tvg-chno="434" tvg-id="" tvg-name="Furioza 2 (2025)" tvg-logo="" group-title="Canais | Brasil",Furioza 2 (2025)
+#EXTINF:-1 tvg-chno="434" tvg-id="" tvg-name="Furioza 2 (2025)" tvg-logo="" group-title="Filmes",Furioza 2 (2025)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/959927.mp4
-#EXTINF:-1 tvg-chno="435" tvg-id="" tvg-name="Futebol em Apuros - 2022" tvg-logo="" group-title="Canais | Brasil",Futebol em Apuros - 2022
+#EXTINF:-1 tvg-chno="435" tvg-id="" tvg-name="Futebol em Apuros - 2022" tvg-logo="" group-title="Filmes",Futebol em Apuros - 2022
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/92004.mp4
-#EXTINF:-1 tvg-chno="436" tvg-id="" tvg-name="Fúria em Duas Rodas (2004)" tvg-logo="" group-title="Canais | Brasil",Fúria em Duas Rodas (2004)
+#EXTINF:-1 tvg-chno="436" tvg-id="" tvg-name="Fúria em Duas Rodas (2004)" tvg-logo="" group-title="Filmes",Fúria em Duas Rodas (2004)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/135846.mp4
-#EXTINF:-1 tvg-chno="437" tvg-id="" tvg-name="Fúria no Asfalto (2025)" tvg-logo="" group-title="Canais | Brasil",Fúria no Asfalto (2025)
+#EXTINF:-1 tvg-chno="437" tvg-id="" tvg-name="Fúria no Asfalto (2025)" tvg-logo="" group-title="Filmes",Fúria no Asfalto (2025)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/1014842.mp4
-#EXTINF:-1 tvg-chno="438" tvg-id="" tvg-name="G.I. Joe Origens: Snake Eyes (2021)" tvg-logo="" group-title="Canais | Brasil",G.I. Joe Origens: Snake Eyes (2021)
+#EXTINF:-1 tvg-chno="438" tvg-id="" tvg-name="G.I. Joe Origens: Snake Eyes (2021)" tvg-logo="" group-title="Filmes",G.I. Joe Origens: Snake Eyes (2021)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/82842.mp4
-#EXTINF:-1 tvg-chno="439" tvg-id="" tvg-name="G.I. Joe Origens: Snake Eyes (2021) [4K]" tvg-logo="" group-title="Canais | Brasil",G.I. Joe Origens: Snake Eyes (2021) [4K]
+#EXTINF:-1 tvg-chno="439" tvg-id="" tvg-name="G.I. Joe Origens: Snake Eyes (2021) [4K]" tvg-logo="" group-title="Filmes",G.I. Joe Origens: Snake Eyes (2021) [4K]
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/980285.mp4
-#EXTINF:-1 tvg-chno="440" tvg-id="" tvg-name="G.I. Joe: A Origem de Cobra (2009)" tvg-logo="" group-title="Canais | Brasil",G.I. Joe: A Origem de Cobra (2009)
+#EXTINF:-1 tvg-chno="440" tvg-id="" tvg-name="G.I. Joe: A Origem de Cobra (2009)" tvg-logo="" group-title="Filmes",G.I. Joe: A Origem de Cobra (2009)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/81763.mp4
-#EXTINF:-1 tvg-chno="441" tvg-id="" tvg-name="G.I. Joe: Retaliação (2013)" tvg-logo="" group-title="Canais | Brasil",G.I. Joe: Retaliação (2013)
+#EXTINF:-1 tvg-chno="441" tvg-id="" tvg-name="G.I. Joe: Retaliação (2013)" tvg-logo="" group-title="Filmes",G.I. Joe: Retaliação (2013)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/57593.mp4
-#EXTINF:-1 tvg-chno="442" tvg-id="" tvg-name="Gol (2004)" tvg-logo="" group-title="Canais | Brasil",Gol (2004)
+#EXTINF:-1 tvg-chno="442" tvg-id="" tvg-name="Gol (2004)" tvg-logo="" group-title="Filmes",Gol (2004)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/220593.mp4
-#EXTINF:-1 tvg-chno="443" tvg-id="" tvg-name="Gol! II: Vivendo o Sonho (2007)" tvg-logo="" group-title="Canais | Brasil",Gol! II: Vivendo o Sonho (2007)
+#EXTINF:-1 tvg-chno="443" tvg-id="" tvg-name="Gol! II: Vivendo o Sonho (2007)" tvg-logo="" group-title="Filmes",Gol! II: Vivendo o Sonho (2007)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/129838.mp4
-#EXTINF:-1 tvg-chno="444" tvg-id="" tvg-name="Guerra é Guerra! (2012)" tvg-logo="" group-title="Canais | Brasil",Guerra é Guerra! (2012)
+#EXTINF:-1 tvg-chno="444" tvg-id="" tvg-name="Guerra é Guerra! (2012)" tvg-logo="" group-title="Filmes",Guerra é Guerra! (2012)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/79006.mp4
 #EXTINF:-1 tvg-chno="1" tvg-id="" tvg-name="+ Velozes + Furiosos (2003)" tvg-logo="" group-title="Filmes | Acao",+ Velozes + Furiosos (2003)
 http://play.pollarplay.com/movie/Nilson333/xa2jecuvoi/88164.mp4
@@ -4326,13 +4330,51 @@ https://www-fontedecanais-dev.54xety52cqzn75.com/series/the%20outsider/41527.mp4
 https://sknw.luminairemotion.online/v4/k5/pdzjiq/index-f1-v1-a1.txt?k=buEGdMRLgKzAbsvZhZdvRg&kx=1783820726
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES - VOD",Zootopia 2
 https://sknw.luminairemotion.online/v4/k5/pdzjiq/cf-master.1773254676.txt?k=buEGdMRLgKzAbsvZhZdvRg&kx=1783820726
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E02
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E02" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E02
 https://megaembed.link/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/yNK4kUsealVDmTKub5hnwA/9ow/fmg9yic3/htqaqn/tt/master.m3u8?v=1766826492
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E03
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E03" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E03
 https://megaembed.link/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/4zTTJx305Co_8xGQavECNA/6hf/krnvu9uj/ic5cgw/tt/master.m3u8?v=1766826492
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E04" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E04
+https://stzm.mindcrest.store/v4/mf/xpiypi/cf-master.1783907374.txt?k=s-WrtCSmeYvkdfem_Gd9Nw&kx=1783910486
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E04" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E04 m3u8
+https://stzm.mindcrest.store/v4/mf/xpiypi/index-f1-v1-a1.txt?k=s-WrtCSmeYvkdfem_Gd9Nw&kx=1783910486
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/7IKbG5NpqnT8UKP6bigmeQmmR2k.jpg" group-title="FILMES - VOD",Insônia
 https://sxic.ecobeauty.sbs/v4/us/nv8mdn/cf-master.1783444730.txt?k=F3hoSbDFxTtTbE7q-7tlsA&kx=1783820846
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/7IKbG5NpqnT8UKP6bigmeQmmR2k.jpg" group-title="FILMES - VOD",Insônia
 https://sxic.ecobeauty.sbs/v4/us/nv8mdn/index-f1-v1-a1.txt?k=F3hoSbDFxTtTbE7q-7tlsA&kx=1783820846
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/eOKoA0yoXoccOr7FPXu3QfJ6R8i.jpg" group-title="FILMES - VOD",Retratos de Uma Obsessão
 https://spo3.amberlineproductions.shop/v4/x6b/5bwp5y/cf-master.1783445257.txt?k=iqzHa9G2cTiv_3iYtr6O1Q&kx=1783820944
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Chaves e Facas E01" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V3",Chaves e Facas
+https://embedplayer2.xyz/cdn/hls/611fa324b4c1be139a7a14fbebe75df0/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Noite Estrelada E02" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V3",Noite Estrelada
+https://embedplayer2.xyz/cdn/hls/aecd7885932d59b34de8edc0bd3fcbe4/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Não é Culpa Sua E03" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V3",Não é Culpa Sua
+https://embedplayer2.xyz/cdn/hls/dda7cdd957b506662cdc5a6af62f7e11/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="222 E04" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V3",222
+https://embedplayer2.xyz/cdn/hls/0e57cce1a7de4cae8fcce252a32035ac/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="○△□ E05" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V3",○△□
+https://embedplayer2.xyz/cdn/hls/490308fa50a11352c8ee726681e49aaf/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Humanos E06" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V3",Humanos
+https://embedplayer2.xyz/cdn/hls/972f11d1545653b6058e2804c07690c6/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Chaves e Facas E01" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V4",Chaves e Facas
+https://s8v3.aetherioncreative.store/v4/c5u/3wgf6j/cf-master.1763351742.txt?k=yLX5aK2hdrMy05xtCHfSPQ&kx=1783895222
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Chaves e Facas E01" tvg-logo="https://image.tmdb.org/t/p/w500/mbB0cVyiyKq6O6wbrWLUFfJ2wZI.jpg" group-title="SÉRIE - Round 6 S03 V4",Chaves e Facas mu38
+https://s8v3.aetherioncreative.store/v4/c5u/3wgf6j/index-f1-v1-a1.txt?k=GCs1yhz0yL4VQkeKR9G91A&kx=1783895223
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg" group-title="SÉRIE - Cidade de Deus: A Luta Não Para S01",Cidade de Deus: A Luta Não Para
+https://vid7102401.hclod.qzz.io/_s3_/1/223397/s1e1/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg" group-title="SÉRIE - Cidade de Deus: A Luta Não Para S01",Cidade de Deus: A Luta Não Para
+https://vid7102401.hclod.qzz.io/_s3_/1/223397/s1e2/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg" group-title="SÉRIE - Cidade de Deus: A Luta Não Para S01",Cidade de Deus: A Luta Não Para
+https://vid7102401.hclod.qzz.io/_s3_/1/223397/s1e3/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg" group-title="SÉRIE - Cidade de Deus: A Luta Não Para S01",Cidade de Deus: A Luta Não Para
+https://vid7102401.hclod.qzz.io/_s3_/1/223397/s1e4/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg" group-title="SÉRIE - Cidade de Deus: A Luta Não Para S01",Cidade de Deus: A Luta Não Para
+https://vid7102401.hclod.qzz.io/_s3_/1/223397/s1e5/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg" group-title="SÉRIE - Cidade de Deus: A Luta Não Para S01",Cidade de Deus: A Luta Não Para
+https://vid7102401.hclod.qzz.io/_s3_/1/223397/s1e6/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="Pobreflix",PP
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/4b1d5ed5d519eb3dae12b8850633212c/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="Pobreflix",CI
+https://112234152.xyz/hls/ba56597df5dfcbb661648673189dedee/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="Pobreflix",CDDD
+https://112234152.xyz/hls/909f269e0b3ffbd61d906f9b25eecaf6/master.txt
