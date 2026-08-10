@@ -309,11 +309,11 @@ https://vid7102402.hclod.qzz.io/_s3_/t04/292532/s1e4/playlist.m3u8
 https://vid7102402.hclod.qzz.io/_s3_/t04/292532/s1e5/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Brasil 2002 Os Bastidores do Penta" tvg-logo="https://image.tmdb.org/t/p/w342/3IbiDD9iZbeBxnaxT7p7qr92Z76.jpg" group-title="Filme - Brasil 2002: Os Bastidores do Penta",Brasil 2002 Os Bastidores do Penta
 https://www-fontedecanais-me.72yrci50ppqp71.com/movies/302/177221.mp4?username=Roger1&token=C1EQAgcOWlBaW0hDU1JSUktcR04FAAEZBAoVD0lWUiELDA8ZSUhHTh0SHDQJBBYEDg8EGgsFGUlCSFpOXFEGCgQPDwMPGBhRXltGSRsFBRgVHRA0Aw9aUF1YSENRXRc%3D
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael
+#EXTINF:-1 tvg-id="Seriesflix" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael
 https://embedplayer2.xyz/cdn/hls/e9d1649813e5543616f7aec3df52d3cf/master.txt
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD [OFF TV]
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/master.m3u8?t=1woz-y6v5DICM-9qVWkzUHGNu6vryM_0nT7Miuiy3Kk&s=1780959106&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2 [OFF TV]
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/index-v1-a1.m3u8?t=1woz-y6v5DICM-9qVWkzUHGNu6vryM_0nT7Miuiy3Kk&s=1780959106&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.starckfilmes-v22.com/img/La-Casa-de-Papel-1-Temporada-Completa.webp" group-title="SÉRIE - La Casa de Papel S01",Cumprir o que foi acordado
 https://embedplayer2.xyz/cdn/hls/4a3078b3456830f4fb293b24f566a4bb/master.txt
@@ -3795,19 +3795,19 @@ https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/4b1d5ed5d519eb3dae12b8850633212c
 https://45745574.xyz/hls/L3VJS3A5M0RJaTdiZlJJRG12Ni9veEVrSWpFYzBFVnAyVzh0UzVhWU1FOFBFWTV2SWRwRjdSbHhJNVAvU2U5bXNmZVFOLytWcFF2YVM3Mm1lQjMvMkE9PQ==/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="CM01" tvg-name="CatDog E02" tvg-logo="https://anizero.org/wp-content/uploads/2025/03/cfa590c5b4c51852821cc9a7669cfcd1.jpg" group-title="DESENHO - CatDog",CatDog E02
 https://45745574.xyz/hls/L3VJS3A5M0RJaTdiZlJJRG12Ni9veEVrSWpFYzBFVnAyVzh0UzVhWU1FK0dialp3ZWhHL2UxVUE3ZXorYnBIT0dVeUlSK3FES29TL1VHR3VSYUNkRUE9PQ==/master.txt
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD1 [OFF TV]
 https://embedplayapiupn.upns.xyz/hls/r4p5pVzkCGoSQGw1gMJ1yg/n8l/qt5b831q/6qtekh/tt/master.m3u8?v=1766826492
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD2 [OFF TV]
 https://embedplayapiupn.upns.xyz/hls/r4p5pVzkCGoSQGw1gMJ1yg/n8l/qt5b831q/6qtekh/tt/index-f2-v1-a1.m3u8?v=1766826492
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD3 [OFF TV]
 https://embedplayapiupn.upns.xyz/hls/r4p5pVzkCGoSQGw1gMJ1yg/n8l/qt5b831q/6qtekh/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD4 [OFF TV]
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/master.m3u8?t=_k91JHO6t9blQCkOSRR70BHsaRGjYgoqptOlMA0MIN0&s=1780977167&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD5 [OFF TV]
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/06/11467/ixe3amz3qw6c_x/index-v1-a1.m3u8?t=_k91JHO6t9blQCkOSRR70BHsaRGjYgoqptOlMA0MIN0&s=1780977167&e=10800&f=57338266&srv=1075&asn=270399&sp=5500&p=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD Low
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD Low [OFF TV]
 https://playerhd.uns.bio/hls/cGXlMeTvGe3ZRKM9nzEK4Q/is3/afyhwn5d/kwyw3t/tt/master.m3u8?v=1766826492
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD Low
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael HD Low [OFF TV]
 https://playerhd.uns.bio/hls/cGXlMeTvGe3ZRKM9nzEK4Q/is3/afyhwn5d/kwyw3t/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="001 E03" tvg-logo="https://hitmagazine.com.br/wp-content/uploads/2024/12/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE-1.jpg" group-title="SÉRIE - Round 6 S02 V2",001 V2
 https://112234152.xyz/hls/bc990836ae3aa9d820a0510ede70fd08/master.txt
@@ -3879,10 +3879,6 @@ https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/e7b4b45a9e8e9bbe704656fb62370624
 https://vid7102401.hclod.qzz.io/_s3_/v09/18861/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/2wwVFqDULo63dxQGp4jOKzClIGt.jpg" group-title="FILMES - VOD",Naruto: Guardiões do Reino da Lua Crescente V2
 https://embedplayer2.xyz/cdn/hls/42833bddbafafa7cb5ba3ebfbb00888f/master.txt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="SÉRIE - T",CDI
-https://rr1---sn-xhpuxapouxgoxucg-pupl.googlevideo.com/videoplayback?expire=1782792175&ei=b89CapqsMfSuy9YPqurXiAM&ip=190.89.7.205&id=529a6053aa1148ab&itag=18&source=blogger&requiressl=yes&xpc=Egho7Zf3LnoBAQ==&met=1782763375,&mh=Rr&mm=31&mn=sn-xhpuxapouxgoxucg-pupl&ms=au&mv=m&mvi=1&pcm2cms=yes&pl=24&rms=au,au&susc=bl&svpuc=1&eaua=GrKwNU3Tdck&mime=video/mp4&vprv=1&rqh=1&dur=2368.574&lmt=1612540762531433&mt=1782762339&txp=1318224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,svpuc,eaua,mime,vprv,rqh,dur,lmt&sig=AHEqNM4wRAIgC1scW-e6BosaJ4u9sdJfQXe7h2EfhVsQUQOnjGceP28CIHjZRAWQ8QBgmFTqmHockjfb17zaHfsOtURGvoG5-ye7&lsparams=met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms&lsig=APaTxxMwRQIhAK8oQ-yBCsTUueNuEeLw-y8uJ9HvG6_Du5n08E5RqnyrAiBbL04q3ekQTSJp0KwDG6HnAXppIN_p0Q1h4B6NeL6tEg==&cpn=5lyk966eN9d36nNd&c=WEB_EMBEDDED_PLAYER&cver=1.20260624.10.00
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="SÉRIE - T",CDI2
-https://www-fontedecanais-me.72yrci50ppqp71.com/series/the%20outsider/41527.mp4?username=wowserver-vods&token=C1EQAgcOWlBaW0hBU11ZWkFbR04FAAEZBAoVD0lWUgQLHBkOChwOHl0FCw8ZSVRIBg0ILAcEBAUdCR8FHx0XSVBJS19bTlxRBgoEDw8DDxgYUV5aWUVIX0dOExwKHw8FDDUCCFJJVVpaXkpTFg%3D%3D
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="SÉRIE - T",Paprika
 https://sil5.aurorafieldventures.shop/v4/ic/313zpl/cf-master.1782589487.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/yNbW37hI2Y8oclu2JLAruXGXsej.jpg" group-title="FILME - VOD",Paprika (パプリカ)
@@ -3927,9 +3923,9 @@ https://megaembed.link/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Gvi6os8-B9--o_wi
 https://tgp.playerp1.sbs/index.php?r=segment&v=3464&i=0&exp=1785229488&sig=aae64767bd0fc6504ccac3b3fdd62ea0e47427c144ac99cfb5a2b9346dc4a998
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E06" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",Homens sem Rosto E06 m3u8
 https://tgp.playerp1.sbs/index.php?r=playlist&t=cb2bfd75f0baf383aafee315dc1de108102841110bc13682
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E06" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E07
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E07" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E07
 https://tgp.playerp1.sbs/index.php?r=segment&v=4460&i=0&exp=1785748072&sig=9e1139172ad79743771b4e085b767db2a5ee87449d4571ebbd7ffa20be8fec51
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E06" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E07 m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="A Casa do Dragão E07" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",A Casa do Dragão E07 m3u8
 https://tgp.playerp1.sbs/index.php?r=playlist&t=087e1dd79c05559a5ed77b402be8dd1b1b3af7d57f9083e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/7IKbG5NpqnT8UKP6bigmeQmmR2k.jpg" group-title="FILMES - VOD",Insônia
 https://sxic.ecobeauty.sbs/v4/us/nv8mdn/cf-master.1783444730.txt?k=F3hoSbDFxTtTbE7q-7tlsA&kx=1783820846
@@ -4087,25 +4083,63 @@ https://s6p9.crystalridgeventures.space/v4/is9/69ffm8/cf-master.1781317670.txt?k
 https://s6p9.crystalridgeventures.space/v4/is9/69ffm8/index-f1-v1-a1.txt?k=OhUEEKwB0xJlVVWB_vpkPA&kx=1784753048
 #EXTINF:-1 tvg-chno="652" tvg-id="BNNG" tvg-name="Boruto: Naruto Next Generations E13" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/12/assistir-boruto-naruto-next-generations-dublado-todos-os-episodios-online-animes-online.jpg" group-title="ANIME - Boruto: Naruto Next Generations",Boruto: Naruto Next Generations E13
 https://rr1---sn-xhpuxapouxgoxucg-pups.googlevideo.com/videoplayback?expire=1784780815&ei=jydhaouaE5K-y9YPyMqiqQU&ip=190.89.7.193&id=acc7316622dd130e&itag=22&source=blogger&requiressl=yes&xpc=Egho7Zf3LnoBAQ==&met=1784752015,&mh=Zp&mm=31&mn=sn-xhpuxapouxgoxucg-pups&ms=au&mv=m&mvi=1&pl=24&rms=au,au&susc=bl&svpuc=1&eaua=KwNzA3La8kQ&mime=video/mp4&vprv=1&rqh=1&dur=1459.536&lmt=1639792316025093&mt=1784751680&txp=1311224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,svpuc,eaua,mime,vprv,rqh,dur,lmt&sig=AE0s2JYwRgIhAN7A3Kxa5xqJN6lk4N8dh7EmNf1CV4pY4F264giWD8QhAiEAgOYdiLoNlbkmGBn7jnFgaWahyuaQPeTX7a0_R1fhD1w=&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgaEpnkarHjsLnGXi41wSTpZaEJUTgEh9Y7OdoEgOHhvwCIFbvKmZAQMMq0w1ep-DAyzS6yW-Qwzc4x9NoM7DHl6xr&cpn=gu-fZCqU-rgWxYPz&c=WEB_EMBEDDED_PLAYER&cver=1.20260720.10.00
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E19" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Desespero Volta! O Renascimento de Freeza; o Imperador do Mal!
+https://embedplayer2.xyz/cdn/hls/95292d059dd56877458cccb2ace640ec/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E20" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Aviso de Jaco! Freeza e Suas Tropas de Mil Homens Se Aproximam!
+https://embedplayer2.xyz/cdn/hls/9efb3468c09271457df284f6ed71fd0a/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E21" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Início da Vingança! O Exército do Mal Ataca Gohan!
+https://embedplayer2.xyz/cdn/hls/f234751cb39ce314229f31e77ab4b96c/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E22" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Troca de Corpo! Uma Volta Inesperada! Seu Nome é Guinyu!
+https://embedplayer2.xyz/cdn/hls/073607e3c82c018428d84280492dd2c2/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E23" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",A Terra e Gohan Está em Grande Perigo! Volte Depressa; Son Goku!
+https://embedplayer2.xyz/cdn/hls/c823517fd7e23cb0998d8d4f0b54cdd4/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E24" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Combate Mortal! Freeza Versus Son Goku! Este é o Resultado do Meu Treino!
+https://embedplayer2.xyz/cdn/hls/e8d47b8192f09aa901ad53a71cdb0279/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E25" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",É Tudo ou Nada! A Vingança do Freeza Dourado!
+https://embedplayer2.xyz/cdn/hls/87a667d506d7eaa1223ce5c98258bdc4/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E26" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Um Vislumbre de Esperança! É Hora de Revidar; Son Goku!
+https://embedplayer2.xyz/cdn/hls/fa1072515a195c7d9bc23e2924be0e42/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E27" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",A Terra Explodiu?! O Kame Hame Ha Decisivo!
+https://embedplayer2.xyz/cdn/hls/82ae51008ab88d51f38505b04b93a82d/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E28" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Deus da Destruição do Universo Seis! Seu Nome é Champa!
+https://embedplayer2.xyz/cdn/hls/c43d2c7ce86cce17487bfdf7cef5ba6e/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E29" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Um Novo Torneio de Artes Marciais! O Capitão do Time é Mais Forte Que o Goku!
+https://embedplayer2.xyz/cdn/hls/0932961f6635f7c00163fd897b0e22a0/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E30" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Treino Antes do Torneio. Quem Serão os Dois Últimos Participantes?!
+https://embedplayer2.xyz/cdn/hls/4678db236fbd82aca50d152fd3a27c45/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E31" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",À Procura do Senhor Zuno! Vamos Descobrir Onde Estão as Super Esferas do Dragão!
+https://embedplayer2.xyz/cdn/hls/95ad7a662af133ca8cd42c14cd9a1484/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E32" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Começa o Torneio! Todos Para o 'Planeta Sem Nome'
+https://embedplayer2.xyz/cdn/hls/c493de3aafedc4af99c1e7fa257092f5/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E33" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Cuidado; Universo Seis! Este é o Super Saiyajin Son Goku!
+https://embedplayer2.xyz/cdn/hls/84020a0d784b7bdf2fe15c4d30173789/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E34" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Piccolo vs. Frost! Coloque Toda a Força no Makankôsappô!
+https://embedplayer2.xyz/cdn/hls/8a0aedf35952f3afdfa826bdc63cfb4d/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E35" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Ódio Se Torna Força! Vegeta Vai Para o Tudo ou Nada!
+https://embedplayer2.xyz/cdn/hls/dfc43e74916f90ef942e200c2352c17a/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E36" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Uma Inesperada Luta Complicada! A Explosão de Raiva de Vegeta!
+https://embedplayer2.xyz/cdn/hls/8f894db73d7ff1c9df1fe292bd701348/master.txt
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E37" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Não Se Esqueça do Orgulho dos Saiyajins! Vegeta vs. o Saiyajin do Universo Seis!
+https://embedplayer2.xyz/cdn/hls/24d59cb2bfb1bea2eefc37a8d9f616ac/master.txt
 #EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E38" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Mais Forte Lutador do Universo Seis! O Assassino Hit! 38
 https://embedplayer2.xyz/cdn/hls/a1327726ec4ae90b41b664a398f9be6f/master.txt
 #EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E39" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Contra-Ataque do Salto Temporal Antecipado?! A Nova Técnica de Goku! 39
 https://embedplayer2.xyz/cdn/hls/82354b77c8493471a1103f1b53122397/master.txt
 #EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="Dragon Ball Super E40" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Desfecho! Quem Venceu: Bills ou Champa? 40
 https://embedplayer2.xyz/cdn/hls/1339779b4b7ac69d0f029ae970c495a2/master.txt
-#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Sobrevivam! Enfim Começa o Torneio do Poder!! 97
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Sobrevivam! Enfim Começa o Torneio do Poder!! E97
 https://embedplayer2.xyz/cdn/hls/3fcfe86571e1737319dc2de3a56c0add/master.txt
-#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Batalha Em Alta Velocidade! Goku e Hit Unem Forças!! 104
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Batalha Em Alta Velocidade! Goku e Hit Unem Forças!! E104
 https://embedplayer2.xyz/cdn/hls/6423da8703d7de961e54324acbeffa9e/master.txt
-#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",A Vingança de F! Uma Armadilha Engenhosa?! 107
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",A Vingança de F! Uma Armadilha Engenhosa?! E107
 https://embedplayer2.xyz/cdn/hls/5f0907afaaa679ecf2b334bc47fc2e36/master.txt
-#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Freeza e Frost: Os Vilões Se Uniram?! 108
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",Freeza e Frost: Os Vilões Se Uniram?! E108
 https://embedplayer2.xyz/cdn/hls/8e19847d67237124d878cc1ad5f4b63a/master.txt
-#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Inimigo Mais Forte! Goku, Libere a Genkidama!! 109
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Inimigo Mais Forte! Goku, Libere a Genkidama!! E109
 https://embedplayer2.xyz/cdn/hls/d7cd1c6261b2bd3dd6a3afc20038791d/master.txt
-#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Despertar de Son Goku! Uma Nova Transformação!! 110
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",O Despertar de Son Goku! Uma Nova Transformação!! E110
 https://embedplayer2.xyz/cdn/hls/3e10b50d8825b55ff866162ca96aca75/master.txt
-#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",A Batalha Surreal Hit vs. Jiren 108
+#EXTINF:-1 tvg-chno="131" tvg-id="seriesP2" tvg-name="" tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg" group-title="ANIME - Dragon Ball Super V2",A Batalha Surreal Hit vs. Jiren!! E111
 https://embedplayer2.xyz/cdn/hls/4783fa0fb0e6c5b305dc68b8dab5e518/master.txt
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sal e Mar; Fogo e Sangue E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",Sal e Mar; Fogo e Sangue E01
 https://megaembed.link/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/rymcpWj2Qiz8xsSbctnkzA/5c/wybsz8q9/thwcls/tt/master.m3u8?v=1766826492
@@ -4115,7 +4149,14 @@ https://megaembed.link/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/rymcpWj2Qiz8xsSb
 https://tgp.playerp1.sbs/index.php?r=playlist&t=bc1248435586cac0dd7423bb36f6a0cdd72942fa022e47e0
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sal e Mar; Fogo e Sangue E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",Sal e Mar; Fogo e Sangue E01
 https://tgp.playerp1.sbs/index.php?r=segment&v=246&i=0&exp=1785748477&sig=ccbe77c203924ade62a81b582676c678f707eade8131470938e98e32878a4c79
-
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sal e Mar; Fogo e Sangue E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",Episódio - Final de Temporada
+https://soq6.quantumgrowthmedia.shop/v4/sc/6kakps/cf-master.1786325766.txt?k=97MEDjLD98vdna8hpU_cKQ&kx=1786333579
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sal e Mar; Fogo e Sangue E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",Episódio - Final de Temporada
+https://soq6.quantumgrowthmedia.shop/v4/sc/6kakps/index-f2-v1-a1.txt?k=_Gw-LMritm1j8m1r14zHZg&kx=1786333465
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sal e Mar; Fogo e Sangue E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",Episódio - Final de Temporada
+https://soq6.quantumgrowthmedia.shop/v4/sc/6kakps/index-f1-v1-a1.txt?k=WHPl_eWiSdzv7DBnFWEw0w&kx=1786333455
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sal e Mar; Fogo e Sangue E01" tvg-logo="https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg" group-title="SÉRIE - A Casa do Dragão S03",Episódio - Final de Temporada
+https://tgp.playerp1.sbs/index.php?r=playlist&t=42e5411065e6a5a3d4b4c25dfd248315bfecc96bc2bd1865
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="FILMES HARRY POTTER",Harry Potter e a Pedra Filosofal
 https://sil5.quantumridgegroup.store/v4/is3/gsl8ub/cf-master.1761773444.txt?k=enF0XTf-0qZ6WcOz23DSXA&kx=1785734912
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="FILMES HARRY POTTER",Harry Potter e a Pedra Filosofal m3u8
@@ -4156,3 +4197,33 @@ https://se9d.riverstonecreativehub.shop/v4/sc/huxanv/index-f1-v1-a1.txt?k=fXNX-z
 https://s3ae.evercresthospitality.space/v4/m9/ms8imh/cf-master.1773076349.txt?k=Ng0qAGDADj-4dtgw1d0ZjQ&kx=1785734456
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/yItFvcLOC470J9S2dsRoUypfmnK.jpg" group-title="VOD - FILMES",Velozes & Furiosos: Desafio em Tóquio
 https://s3ae.evercresthospitality.space/v4/m9/ms8imh/index-f1-v1-a1.txt?k=Ng0qAGDADj-4dtgw1d0ZjQ&kx=1785734456
+#EXTINF:-1 tvg-chno="" tvg-id="Megacine" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",A Força
+https://smho.meliora.cyou/v4/hl1/hkt13b/cf-master.1764368970.txt?k=OE9WzzqqIZ8aplA4F3qxzw&kx=1786324230
+#EXTINF:-1 tvg-chno="" tvg-id="Megacine m3u8" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",A Força
+https://smho.meliora.cyou/v4/hl1/hkt13b/index-f1-v1-a1.txt?k=5oTqbJQ792lCX8QRHYalvg&kx=1786324231
+#EXTINF:-1 tvg-chno="" tvg-id="Pobreflix" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",A Força
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/eca92ba0e546f999b3ce3b52d93211c8/master.txt
+#EXTINF:-1 tvg-chno="" tvg-id="Seriesflix" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",A Força
+https://vid7102402.hclod.qzz.io/_s3_/1/60574/s4e1/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Seriesflix" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",Bárbaros
+https://vid7102402.hclod.qzz.io/_s3_/1/60574/s4e1/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Seriesflix" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",Questão de Segurança Nacional
+https://vid7102402.hclod.qzz.io/_s3_/1/60574/s4e1/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Seriesflix" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",Perigo à Vista
+https://vid7102402.hclod.qzz.io/_s3_/1/60574/s4e1/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Seriesflix" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",A Revolução!
+https://vid7102402.hclod.qzz.io/_s3_/1/60574/s4e1/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Seriesflix" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",A Paz!
+https://vid7102402.hclod.qzz.io/_s3_/1/60574/s4e1/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Seriesflix" tvg-name="Peaky Blinders Sangue; Apostas e Navalhas S4 E01" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIE - Peaky Blinders Sangue; Apostas e Navalhas S04",A Força V2
+https://embedplayer2.xyz/cdn/hls/f142fa9acea66cc7d0e9cbb85a98fd7b/master.txt
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starckfilmes-v22.com/img/michael-2026-08-06-2026.webp" group-title="FILMES - VOD",Michael
+https://vid7102402.hclod.qzz.io/_s3_/v08/936075/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Seriesflix" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES - VOD",Alita: Anjo de Combate
+https://vid7102402.hclod.qzz.io/_s3_/v02/399579/playlist.m3u8
+#EXTINF:-1 tvg-chno="Seriesflix" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg" group-title="SÉRIE - Cidade Invisível S01",Queria muito que você estivesse aqui
+https://embedplayer2.xyz/cdn/hls/262c02c05155c0cca000d87e61f1f84b/master.txt
+#EXTINF:-1 tvg-chno="Pobreflix" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg" group-title="SÉRIE - Cidade Invisível S01",Queria muito que você estivesse aqui
+https://xn--kcksk7a2bl5le7b6doc1h3f.com/cdn/hls/54ea374b4958377200a2110eec6e6b09/master.txt
+#EXTINF:-1 tvg-chno="Pobreflix" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg" group-title="SÉRIE - Cidade Invisível S01",Queria muito que você estivesse aqui
+https://www-fontedecanais-love.72oxze52cqdy71.com/series/cidade%20invisivel/94250.mp4?username=jesse4772&token=C1EQAgcOWlBaW0hFV1hTUk9ZR04FAAEZBAoVD0lWUhkBGBkOTF1cXlJfRgYLEycJBAIeFgcfAwQWGUlWUkJGR0gJGQQPGxkXEANIUUhGSQ8fHRAOBB8nAw9OSkFUU15eSRc%3D
