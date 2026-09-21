@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://up.kiwi/epg/351921603109/34939156"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/musicasin4/TV/refs/heads/main/epgfilmes.xml"
 #EXT-X-SESSION-DATA:DATA-ID="com.xc_vm.2_3_9"
 #EXTINF:-1,Quem é seu Pai? (2023)
 http://up.kiwi/movie/351921603109/34939156/1293738.mp4
@@ -29180,7 +29180,7 @@ http://up.kiwi/movie/351921603109/34939156/1062176.mp4
 http://up.kiwi/movie/351921603109/34939156/1062173.mp4
 #EXTINF:-1,O Imaginário - 2023
 http://up.kiwi/movie/351921603109/34939156/1062170.mp4
-#EXTINF:-1,Meu Amigo Totoro - 1988
+#EXTINF:-1 tvg-id="MAT88",Meu Amigo Totoro - 1988
 http://up.kiwi/movie/351921603109/34939156/1062167.mp4
 #EXTINF:-1,Avioes 2 - 2014
 http://up.kiwi/movie/351921603109/34939156/1062164.mp4
@@ -45956,7 +45956,7 @@ http://up.kiwi/movie/351921603109/34939156/1039568.mp4
 http://up.kiwi/movie/351921603109/34939156/1039565.mp4
 #EXTINF:-1,Scarygirl - 2023
 http://up.kiwi/movie/351921603109/34939156/1039563.mp4
-#EXTINF:-1,O Mundo dos Pequeninos - 2010
+#EXTINF:-1 tvg-id"OMDP10",O Mundo dos Pequeninos - 2010
 http://up.kiwi/movie/351921603109/34939156/1039560.mp4
 #EXTINF:-1,Shazam Legendado - 2019
 http://up.kiwi/movie/351921603109/34939156/1039558.mp4
