@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="">
+	<channel id="OMDP10">		<display-name>O Mundo dos Pequeninos - 2010</display-name>		<icon src="https://image.tmdb.org/t/p/w500/yovlgDFP53N7IW7O4irM6INBxmp.jpg" />	</channel>	<channel id="MAT88">		<display-name>Meu Amigo Totoro - 1988</display-name>		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhEnXKyMm5lHA1GvlQZ2If5DnpJLresBmTjxhF_tTs-pmvFuloYuQ0cQ" />	</channel>	<programme start="20260921000000 -0300" stop="20500921235900 -0300" channel="Meu Amigo Totoro - 1988">		<title>Filme animado</title>		<desc>Melhor estudio de animação</desc>	</programme></tv>
