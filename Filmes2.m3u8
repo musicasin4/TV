@@ -1,0 +1,16 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/refs/heads/main/vod/fichas.txt"
+#EXT-X-SESSION-DATA:DATA-ID="com.xc_vm.2_3_9"
+#EXTINF:-1 tvg-id="MAT88",Meu Amigo Totoro - 1988
+http://up.kiwi/movie/351921603109/34939156/1062167.mp4
+#EXTINF:-1 tvg-id"AVDC01",A Viagem de Chihiro - 2001
+http://up.kiwi/movie/351921603109/34939156/1062132.mp4
+#EXTINF:-1 tvg-id"PUAQVDM08",Ponyo - Uma Amizade que Veio do Mar - 2008
+http://up.kiwi/movie/351921603109/34939156/1061722.mp4
+#EXTINF:-1 tvg-id"OMDP10",O Mundo dos Pequeninos - 2010
+http://up.kiwi/movie/351921603109/34939156/1039560.mp4
+#EXTINF:-1 tvg-chno="01",HBO FAMILY HD
+http://up.kiwi/351921603109/34939156/573
+#EXTINF:-1 tvg-chno="02",HBO FAMILY
+http://up.kiwi/351921603109/34939156/577
+#EXTINF:-1 tvg-chno="03",TELECINE PIPOCA HD
+http://up.kiwi/351921603109/34939156/1276
