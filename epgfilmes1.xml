@@ -19,4 +19,38 @@
       <value>14</value>
     </rating>
   </programme>
+  <channel id="O Mundo dos Pequeninos - 2010">		<display-name>O Mundo dos Pequeninos - 2010</display-name>		<icon src="https://image.tmdb.org/t/p/w500/yovlgDFP53N7IW7O4irM6INBxmp.jpg" />	</channel>
+  <programme start="" stop="" channel="O Mundo dos Pequeninos - 2010">
+    <title lang="pt">Exemplo de Filme: O Retorno</title>
+    <desc lang="pt">Esta é a sinopse detalhada do filme. O herói retorna para salvar sua cidade de uma grande ameaça misteriosa.</desc>
+    <!-- Capa / Pôster do Filme -->
+    <icon src="https://image.tmdb.org/t/p/w342/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg" />
+    <category lang="pt">Aventura</category>
+    <date>2010</date>
+    <director>Animero</director>
+    <actor>TestAtor</actor>
+    <actor>TestAtor2</actor>
+    <star-rating>5</star-rating>
+    <value>10 anos</value>
+    <length units="minutes">150</length>
+    <url></url>
+    <country>Japão</country>
+  </programme>
+  <channel id="PUAQVDM08">		<display-name>Ponyo - Uma Amizade que Veio do Mar - 2008</display-name>		<icon src="https://image.tmdb.org/t/p/w500/yovlgDFP53N7IW7O4irM6INBxmp.jpg" />	</channel>
+  <programme start="" stop="" channel="PUAQVDM08">
+    <title lang="pt">Exemplo de Filme: O Retorno</title>
+    <desc lang="pt">Esta é a sinopse detalhada do filme. O herói retorna para salvar sua cidade de uma grande ameaça misteriosa.</desc>
+    <!-- Capa / Pôster do Filme -->
+    <icon src="https://image.tmdb.org/t/p/w342/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg" />
+    <category lang="pt">Aventura</category>
+    <date>2010</date>
+    <director>Animero</director>
+    <actor>TestAtor</actor>
+    <actor>TestAtor2</actor>
+    <star-rating>5</star-rating>
+    <value>10 anos</value>
+    <length units="minutes">150</length>
+    <url></url>
+    <country>Japão</country>
+  </programme>
 </tv>
