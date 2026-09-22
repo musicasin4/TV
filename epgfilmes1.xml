@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="MeuGeradorVOD">
+  <!-- Definição do Canal de VOD (Onde os filmes/séries vão aparecer) -->
+  <channel id="OMDP10">
+    <display-name lang="pt">O Mundo dos Pequeninos - 2010</display-name>
+    <icon src="https://image.tmdb.org/t/p/w500/yovlgDFP53N7IW7O4irM6INBxmp.jpg" />
+  </channel>
+
+  <!-- Item do Filme/Série (Programa) -->
+  <programme start="20260922000000 +0000" stop="20260923235950 +0000" channel="OMDP10">
+    <title lang="pt">Exemplo de Filme: O Retorno</title>
+    <desc lang="pt">Esta é a sinopse detalhada do filme. O herói retorna para salvar sua cidade de uma grande ameaça misteriosa.</desc>
+    <!-- Capa / Pôster do Filme -->
+    <icon src="https://image.tmdb.org/t/p/w342/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg" />
+    <category lang="pt">Ação</category>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+</tv>
